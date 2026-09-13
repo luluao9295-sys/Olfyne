@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#0a0908" />
+  <meta name="description" content="OLFYNE — Trouvez un parfum à partir de ce que vous voulez sentir." />
+  <title>OLFYNE — The art of scent discovery</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="OLFYNE accueil">
+      <span class="brand-mark">O</span>
+      <span class="brand-copy"><strong>OLFYNE</strong><small>The art of scent discovery.</small></span>
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#discover">Découvrir</a>
+      <a href="#results">Parfums</a>
+      <a href="#about">À propos</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" id="discover">
+      <div class="hero-copy">
+        <p class="eyebrow">MOTEUR DE RECHERCHE OLFACTIF</p>
+        <h1>Décrivez ce que vous voulez <em>sentir.</em></h1>
+        <p class="lead">Écrivez simplement vos envies : notes, ambiance, saison ou style. OLFYNE cherche les parfums qui correspondent le mieux.</p>
+
+        <form id="searchForm" class="search-shell" role="search">
+          <label for="searchInput" class="sr-only">Rechercher un parfum</label>
+          <input id="searchInput" autocomplete="off" placeholder="Ex. vanille cuir tabac sombre hiver" />
+          <button type="submit">Trouver mon parfum</button>
+        </form>
+
+        <div class="quick-notes" aria-label="Suggestions">
+          <button data-query="vanille gourmand chaud">Vanille</button>
+          <button data-query="boisé cuir sombre">Cuir</button>
+          <button data-query="musc propre doux">Musc</button>
+          <button data-query="bergamote frais été">Frais</button>
+          <button data-query="oud ambre puissant soirée">Oud</button>
+        </div>
+      </div>
+
+      <div class="hero-art" aria-hidden="true">
+        <div class="orb orb-a"></div>
+        <div class="orb orb-b"></div>
+        <div class="bottle">
+          <span>OLFYNE</span>
+          <small>DISCOVERY Nº01</small>
+        </div>
+        <div class="ingredient ingredient-a">VANILLE</div>
+        <div class="ingredient ingredient-b">CUIR</div>
+        <div class="ingredient ingredient-c">AMBRE</div>
+      </div>
+    </section>
+
+    <section class="value-strip" aria-label="Fonctionnalités">
+      <article><strong>01</strong><span>Recherche naturelle</span></article>
+      <article><strong>02</strong><span>Score de compatibilité</span></article>
+      <article><strong>03</strong><span>Filtres intelligents</span></article>
+    </section>
+
+    <section class="results-section" id="results">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">SÉLECTION OLFYNE</p>
+          <h2>Vos correspondances</h2>
+        </div>
+        <p id="resultSummary">Essayez une recherche pour découvrir vos meilleurs matchs.</p>
+      </div>
+      <div id="resultGrid" class="result-grid"></div>
+    </section>
+
+    <section class="about" id="about">
+      <p class="eyebrow">NOTRE VISION</p>
+      <h2>Le parfum, recherché comme vous le pensez.</h2>
+      <p>Pas besoin de connaître le vocabulaire d’un parfumeur. OLFYNE transforme des mots simples — « propre », « sombre », « vanille », « soirée », « pas trop sucré » — en critères olfactifs pour vous rapprocher du bon parfum.</p>
+    </section>
+  </main>
+
+  <footer>
+    <div><strong>OLFYNE</strong><span>The art of scent discovery.</span></div>
+    <p>Prototype V1 — données de démonstration.</p>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
