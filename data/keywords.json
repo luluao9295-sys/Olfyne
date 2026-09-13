@@ -1,0 +1,76 @@
+{
+  "notes": {
+    "vanille": ["vanille", "vanillé", "vanillée", "vanilla"],
+    "cuir": ["cuir", "cuiré", "leather", "daim"],
+    "tabac": ["tabac", "tobacco", "cigare"],
+    "oud": ["oud", "agarwood"],
+    "musc": ["musc", "musqué", "musk"],
+    "ambre": ["ambre", "ambré", "amber"],
+    "santal": ["santal", "bois de santal", "sandalwood"],
+    "cedre": ["cèdre", "cedre", "cedar"],
+    "vetiver": ["vétiver", "vetiver"],
+    "patchouli": ["patchouli"],
+    "tonka": ["tonka", "fève tonka", "feve tonka"],
+    "rose": ["rose"],
+    "jasmin": ["jasmin", "jasmine"],
+    "iris": ["iris"],
+    "bergamote": ["bergamote", "bergamot"],
+    "citron": ["citron", "lemon"],
+    "cerise": ["cerise", "cherry"],
+    "figue": ["figue", "fig"],
+    "coco": ["coco", "noix de coco", "coconut"],
+    "caramel": ["caramel"],
+    "cafe": ["café", "cafe", "coffee"],
+    "miel": ["miel", "honey"],
+    "cannelle": ["cannelle", "cinnamon"],
+    "cardamome": ["cardamome", "cardamom"],
+    "safran": ["safran", "saffron"],
+    "encens": ["encens", "incense"],
+    "rhum": ["rhum", "rum"]
+  },
+  "familles": {
+    "boise": ["boisé", "boise", "bois", "woody"],
+    "gourmand": ["gourmand", "gourmande", "dessert"],
+    "floral": ["floral", "fleuri", "fleurs"],
+    "fruite": ["fruité", "fruite", "fruits"],
+    "ambre": ["ambré", "ambre", "oriental"],
+    "frais": ["frais", "fraîcheur", "fraicheur", "fresh"],
+    "musque": ["musqué", "musque"],
+    "cuire": ["cuiré", "cuire"],
+    "epice": ["épicé", "epice", "spicy"],
+    "aquatique": ["aquatique", "marin", "océan", "ocean"],
+    "poudre": ["poudré", "poudre"]
+  },
+  "sensations": {
+    "chaud": ["chaud", "chaleureux", "warm"],
+    "sombre": ["sombre", "dark", "noir"],
+    "propre": ["propre", "linge propre", "savon", "clean"],
+    "fume": ["fumé", "fume", "smoky"],
+    "cremeux": ["crémeux", "cremeux", "onctueux"],
+    "sucre": ["sucré", "sucre", "sweet"],
+    "sensuel": ["sensuel", "sexy", "séduisant", "seduisant"],
+    "elegant": ["élégant", "elegant", "classe", "chic", "raffiné"],
+    "mysterieux": ["mystérieux", "mysterieux", "enigmatique"],
+    "puissant": ["puissant", "fort", "intense"],
+    "leger": ["léger", "leger", "light"],
+    "doux": ["doux", "soft", "tendre"]
+  },
+  "saisons": {
+    "ete": ["été", "ete", "summer"],
+    "hiver": ["hiver", "winter"],
+    "automne": ["automne", "fall", "autumn"],
+    "printemps": ["printemps", "spring"]
+  },
+  "occasions": {
+    "quotidien": ["quotidien", "tous les jours", "everyday"],
+    "bureau": ["bureau", "travail", "office"],
+    "soiree": ["soirée", "soiree", "sortie", "night out"],
+    "date": ["date", "rendez-vous", "rencard"]
+  },
+  "performance": {
+    "longue_tenue": ["longue tenue", "tient longtemps", "bonne tenue", "long lasting"],
+    "fort_sillage": ["fort sillage", "gros sillage", "projection forte", "projette fort"],
+    "discret": ["discret", "faible projection", "proche de la peau", "skin scent"]
+  },
+  "negations": ["pas", "sans", "éviter", "eviter", "exclure"]
+}
