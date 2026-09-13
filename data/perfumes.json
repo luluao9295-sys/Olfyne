@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Tobacco Vanille",
+    "brand": "Tom Ford",
+    "notes": ["vanille", "tabac", "tonka"],
+    "families": ["gourmand", "ambre", "epice"],
+    "sensations": ["chaud", "sucre", "puissant", "sombre"],
+    "seasons": ["hiver", "automne"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 4
+  },
+  {
+    "name": "Jazz Club",
+    "brand": "Maison Margiela",
+    "notes": ["rhum", "tabac", "vanille"],
+    "families": ["boise", "ambre"],
+    "sensations": ["chaud", "sombre", "sensuel"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue"],
+    "price_level": 3
+  },
+  {
+    "name": "Santal 33",
+    "brand": "Le Labo",
+    "notes": ["santal", "cedre", "cuir"],
+    "families": ["boise", "cuire"],
+    "sensations": ["sec", "elegant", "sombre"],
+    "seasons": ["automne", "printemps"],
+    "occasions": ["quotidien", "bureau"],
+    "performance": ["longue_tenue"],
+    "price_level": 4
+  },
+  {
+    "name": "Bal d'Afrique",
+    "brand": "Byredo",
+    "notes": ["bergamote", "cedre", "vetiver"],
+    "families": ["frais", "boise"],
+    "sensations": ["elegant", "leger"],
+    "seasons": ["printemps", "ete"],
+    "occasions": ["quotidien", "bureau"],
+    "performance": ["discret"],
+    "price_level": 4
+  },
+  {
+    "name": "Musc Ravageur",
+    "brand": "Frédéric Malle",
+    "notes": ["musc", "vanille", "cannelle"],
+    "families": ["musque", "ambre"],
+    "sensations": ["sensuel", "chaud", "puissant"],
+    "seasons": ["hiver", "automne"],
+    "occasions": ["date", "soiree"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 5
+  },
+  {
+    "name": "Wood Sage & Sea Salt",
+    "brand": "Jo Malone London",
+    "notes": ["sel_marin", "sauge"],
+    "families": ["aquatique", "frais", "boise"],
+    "sensations": ["propre", "leger"],
+    "seasons": ["ete", "printemps"],
+    "occasions": ["quotidien", "bureau"],
+    "performance": ["discret"],
+    "price_level": 3
+  },
+  {
+    "name": "Black Opium",
+    "brand": "Yves Saint Laurent",
+    "notes": ["cafe", "vanille", "jasmin"],
+    "families": ["gourmand", "floral"],
+    "sensations": ["sucre", "sensuel", "chaud"],
+    "seasons": ["hiver", "automne"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue"],
+    "price_level": 3
+  },
+  {
+    "name": "Terre d'Hermès",
+    "brand": "Hermès",
+    "notes": ["bergamote", "vetiver", "cedre"],
+    "families": ["boise", "frais"],
+    "sensations": ["sec", "elegant"],
+    "seasons": ["printemps", "automne"],
+    "occasions": ["bureau", "quotidien"],
+    "performance": ["longue_tenue"],
+    "price_level": 3
+  }
+]
