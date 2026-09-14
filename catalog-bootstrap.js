@@ -10,17 +10,22 @@
     const url = typeof input === 'string' ? input : input?.url || '';
     if (!url.endsWith('data/perfumes.json')) return nativeFetch(input, init);
 
-    const [perfumesResponse, metaResponse] = await Promise.all([
+    const [perfumesResponse, metaResponse, linksResponse] = await Promise.all([
       nativeFetch(input, init),
-      nativeFetch('data/catalog-meta.json')
+      nativeFetch('data/catalog-meta.json'),
+      nativeFetch('data/official-links.json')
     ]);
     const perfumes = await perfumesResponse.json();
     const meta = metaResponse.ok ? await metaResponse.json() : {};
+    const links = linksResponse.ok ? await linksResponse.json() : {};
     const merged = perfumes.map((perfume) => {
-      const override = meta[`${perfume.name}|${perfume.brand}`] || {};
+      const key = `${perfume.name}|${perfume.brand}`;
+      const override = meta[key] || {};
+      const linkOverride = links[key] || {};
       const item = {
         ...perfume,
-        ...override
+        ...override,
+        ...linkOverride
       };
 
       // Aucune fiche ne reste sans visuel : on privilégie toujours la vraie
