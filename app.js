@@ -186,11 +186,9 @@ function applyFilters() {
 
 function renderFeatured() {
   lastIntent = { positive: [], negative: [] };
-  currentResults = perfumes.filter((perfume) => matchesGender(perfume)).slice(0, 6).map((perfume, index) => ({
-    ...perfume,
-    score: [94, 91, 88, 86, 83, 81][index] || 80
-  }));
-  renderCards(currentResults);
+  currentResults = [];
+  const grid = document.getElementById('resultGrid');
+  if (grid) grid.innerHTML = '';
 }
 
 function renderCards(items) {
