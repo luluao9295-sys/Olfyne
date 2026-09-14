@@ -72,6 +72,49 @@
         </div>
         <p id="resultSummary">Essayez une recherche pour découvrir vos meilleurs matchs.</p>
       </div>
+
+      <div class="filters" aria-label="Filtres des résultats">
+        <label>
+          <span>Saison</span>
+          <select id="seasonFilter">
+            <option value="">Toutes</option>
+            <option value="printemps">Printemps</option>
+            <option value="ete">Été</option>
+            <option value="automne">Automne</option>
+            <option value="hiver">Hiver</option>
+          </select>
+        </label>
+        <label>
+          <span>Occasion</span>
+          <select id="occasionFilter">
+            <option value="">Toutes</option>
+            <option value="quotidien">Quotidien</option>
+            <option value="bureau">Bureau</option>
+            <option value="date">Date</option>
+            <option value="soiree">Soirée</option>
+          </select>
+        </label>
+        <label>
+          <span>Budget</span>
+          <select id="priceFilter">
+            <option value="">Tous</option>
+            <option value="2">Accessible</option>
+            <option value="3">Intermédiaire</option>
+            <option value="4">Premium</option>
+            <option value="5">Très premium</option>
+          </select>
+        </label>
+        <label>
+          <span>Trier</span>
+          <select id="sortFilter">
+            <option value="match">Meilleur match</option>
+            <option value="priceAsc">Prix croissant</option>
+            <option value="priceDesc">Prix décroissant</option>
+          </select>
+        </label>
+        <button id="resetFilters" class="reset-filters" type="button">Réinitialiser</button>
+      </div>
+
       <div id="resultGrid" class="result-grid"></div>
     </section>
 
