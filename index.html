@@ -31,22 +31,32 @@
         <h1>Décrivez ce que vous voulez <em>sentir.</em></h1>
         <p class="lead">Écrivez simplement vos envies : notes, ambiance, saison ou style. OLFYNE cherche les parfums qui correspondent le mieux.</p>
         <form id="searchForm" class="search-shell" role="search">
-          <fieldset class="gender-switch" aria-label="Choisir une catégorie de parfum">
-            <legend class="sr-only">Parfum pour</legend>
-            <label><input type="radio" name="gender" value="" checked><span>Tous</span></label>
-            <label><input type="radio" name="gender" value="homme"><span>Homme</span></label>
-            <label><input type="radio" name="gender" value="femme"><span>Femme</span></label>
-          </fieldset>
-          <fieldset class="budget-switch" aria-label="Choisir un budget">
-            <legend class="sr-only">Budget</legend>
-            <label><input type="radio" name="budget" value="" checked><span>Tout budget</span></label>
-            <label><input type="radio" name="budget" value="low"><span>Moins de 80 €</span></label>
-            <label><input type="radio" name="budget" value="mid"><span>80–150 €</span></label>
-            <label><input type="radio" name="budget" value="high"><span>Plus de 150 €</span></label>
-          </fieldset>
-          <label for="searchInput" class="sr-only">Rechercher un parfum</label>
-          <input id="searchInput" autocomplete="off" placeholder="Ex. vanille cuir tabac sombre hiver" />
-          <button type="submit">Trouver mon parfum</button>
+          <div class="filter-panel">
+            <div class="filter-group">
+              <span class="filter-label">Pour qui ?</span>
+              <fieldset class="gender-switch" aria-label="Choisir une catégorie de parfum">
+                <legend class="sr-only">Parfum pour</legend>
+                <label><input type="radio" name="gender" value="" checked><span>Tous</span></label>
+                <label><input type="radio" name="gender" value="homme"><span>Homme</span></label>
+                <label><input type="radio" name="gender" value="femme"><span>Femme</span></label>
+              </fieldset>
+            </div>
+            <div class="filter-group">
+              <span class="filter-label">Votre budget</span>
+              <fieldset class="budget-switch" aria-label="Choisir un budget">
+                <legend class="sr-only">Budget</legend>
+                <label><input type="radio" name="budget" value="" checked><span>Tous</span></label>
+                <label><input type="radio" name="budget" value="low"><span>− 80 €</span></label>
+                <label><input type="radio" name="budget" value="mid"><span>80–150 €</span></label>
+                <label><input type="radio" name="budget" value="high"><span>+ 150 €</span></label>
+              </fieldset>
+            </div>
+          </div>
+          <div class="query-row">
+            <label for="searchInput" class="sr-only">Rechercher un parfum</label>
+            <input id="searchInput" autocomplete="off" placeholder="Décrivez le parfum idéal…" />
+            <button type="submit"><span>Rechercher</span><b aria-hidden="true">↗</b></button>
+          </div>
         </form>
         <div class="quick-notes" aria-label="Suggestions">
           <button data-query="vanille gourmand chaud">Vanille</button>
