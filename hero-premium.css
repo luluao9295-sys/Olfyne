@@ -1,0 +1,52 @@
+/* OLFYNE — header branding */
+.brand-combo{display:flex;align-items:center;gap:12px;min-width:0}
+.brand-symbol{display:block;width:clamp(40px,4vw,60px);height:clamp(40px,4vw,60px);object-fit:contain;flex:0 0 auto}
+.brand-wordmark{display:block;width:clamp(130px,14vw,210px);height:auto;max-height:58px;object-fit:contain;object-position:left center}
+
+/* OLFYNE — hero bottle image */
+.hero-art-visual{
+  position:relative;
+  height:min(700px,70vw);
+  min-height:520px;
+  display:flex;
+  align-items:flex-end;
+  justify-content:center;
+  overflow:hidden;
+  isolation:isolate;
+}
+.hero-bottle-image{
+  position:absolute;
+  left:50%;
+  bottom:0;
+  transform:translateX(-50%);
+  width:min(94%,540px);
+  max-height:96%;
+  height:auto;
+  object-fit:contain;
+  object-position:center bottom;
+  z-index:2;
+  filter:drop-shadow(0 28px 70px rgba(0,0,0,.42));
+  pointer-events:none;
+}
+.hero-art-visual .orb-a{right:-2%;top:4%;z-index:0}
+.hero-art-visual .orb-b{left:0;bottom:6%;z-index:0}
+.hero-art-visual .ingredient{z-index:3}
+.hero-art-visual .ingredient-a{left:4%;top:24%}
+.hero-art-visual .ingredient-b{right:3%;top:46%}
+.hero-art-visual .ingredient-c{left:16%;bottom:18%}
+
+@media(max-width:900px){
+  .hero-art-visual{height:460px;min-height:460px;margin-top:10px}
+  .hero-bottle-image{width:min(88%,430px);max-height:94%}
+}
+
+@media(max-width:620px){
+  .brand-combo{gap:10px}
+  .brand-symbol{width:42px;height:42px}
+  .brand-wordmark{width:160px;max-height:44px}
+  .hero-art-visual{height:380px;min-height:380px;margin-top:6px;border-radius:22px}
+  .hero-bottle-image{width:min(90%,340px);max-height:92%;bottom:2px}
+  .hero-art-visual .ingredient-a{left:6%;top:20%}
+  .hero-art-visual .ingredient-b{right:4%;top:43%}
+  .hero-art-visual .ingredient-c{left:20%;bottom:12%}
+}
