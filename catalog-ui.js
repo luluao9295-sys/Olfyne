@@ -2,7 +2,7 @@
   const euro = (value) => Number(value).toLocaleString('fr-FR', { minimumFractionDigits: Number(value) % 1 ? 2 : 0, maximumFractionDigits: 2 });
   const priceHtml = (item, compact = false) => {
     if (item.price_eur == null) return compact ? '<strong>Prix à vérifier</strong>' : '<div class="price-line"><strong>Prix à vérifier</strong></div>';
-    const label = `${euro(item.price_eur)} €`;
+    const label = `À partir de ${euro(item.price_eur)} €`;
     const size = item.price_volume ? item.price_volume : '';
     if (compact) return `<strong>${label}</strong>${size ? `<span>${size}</span>` : ''}`;
     return `<div class="price-line"><strong>${label}</strong>${size ? `<span>${size}</span>` : ''}</div><div class="price-source">${item.price_status === 'officiel' ? 'Prix officiel relevé' : 'Prix indicatif'}</div>`;
@@ -56,7 +56,7 @@
     const noteTags = (perfume.notes || []).map((x) => `<span>${pretty(x)}</span>`).join('');
     const familyTags = (perfume.families || []).map((x) => `<span>${pretty(x)}</span>`).join('');
     const officialLink = perfume.official_url
-      ? `<a class="official-link" href="${perfume.official_url}" target="_blank" rel="noopener noreferrer">Voir sur le site officiel <span>↗</span></a>`
+      ? `<a class="official-link" href="${perfume.official_url}" target="_blank" rel="noopener noreferrer" aria-label="Voir ${perfume.name} sur le site officiel français de ${perfume.brand}">Voir sur le site officiel français <span>↗</span></a>`
       : '';
     const imageBlock = perfume.image_url
       ? `<div class="modal-product-image"><img src="${perfume.image_url}" alt="${perfume.name} — ${perfume.brand}" referrerpolicy="no-referrer" onerror="this.parentElement.outerHTML='<div class=&quot;modal-bottle&quot;><span>${perfume.brand}</span></div>'"></div>`
