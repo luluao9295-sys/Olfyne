@@ -1,5 +1,6 @@
 let dictionary = null;
 let perfumes = [];
+let currentResults = [];
 
 const normalize = (value) => value
   .toLowerCase()
@@ -46,6 +47,18 @@ function bindUI() {
       input.value = button.dataset.query;
       search(button.dataset.query);
     });
+  });
+
+  ['seasonFilter', 'occasionFilter', 'priceFilter', 'sortFilter'].forEach((id) => {
+    document.getElementById(id).addEventListener('change', applyFilters);
+  });
+
+  document.getElementById('resetFilters').addEventListener('click', () => {
+    document.getElementById('seasonFilter').value = '';
+    document.getElementById('occasionFilter').value = '';
+    document.getElementById('priceFilter').value = '';
+    document.getElementById('sortFilter').value = 'match';
+    applyFilters();
   });
 }
 
@@ -123,39 +136,76 @@ function search(rawQuery) {
   }
 
   const intent = extractIntent(query);
-  const ranked = perfumes
+  currentResults = perfumes
     .map((perfume) => ({ ...perfume, score: scorePerfume(perfume, intent) }))
     .filter((perfume) => perfume.score > 0)
     .sort((a, b) => b.score - a.score);
+
+  if (!currentResults.length) {
+    currentResults = perfumes.slice(0, 6).map((p) => ({ ...p, score: 0 }));
+  }
 
   const understood = intent.positive.map((x) => x.canonical).slice(0, 6);
   summary.textContent = understood.length
     ? `OLFYNE comprend : ${understood.join(' · ')}`
     : `Recherche : “${query}”`;
 
-  renderCards(ranked.length ? ranked : perfumes.slice(0, 6).map((p) => ({ ...p, score: 0 })));
+  applyFilters();
   document.getElementById('results').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
+function applyFilters() {
+  const season = document.getElementById('seasonFilter').value;
+  const occasion = document.getElementById('occasionFilter').value;
+  const price = document.getElementById('priceFilter').value;
+  const sort = document.getElementById('sortFilter').value;
+
+  let filtered = [...currentResults];
+
+  if (season) {
+    filtered = filtered.filter((item) => (item.seasons || []).includes(season));
+  }
+
+  if (occasion) {
+    filtered = filtered.filter((item) => (item.occasions || []).includes(occasion));
+  }
+
+  if (price) {
+    filtered = filtered.filter((item) => Number(item.price_level || 0) === Number(price));
+  }
+
+  if (sort === 'priceAsc') {
+    filtered.sort((a, b) => Number(a.price_level || 0) - Number(b.price_level || 0));
+  } else if (sort === 'priceDesc') {
+    filtered.sort((a, b) => Number(b.price_level || 0) - Number(a.price_level || 0));
+  } else {
+    filtered.sort((a, b) => Number(b.score || 0) - Number(a.score || 0));
+  }
+
+  renderCards(filtered);
+}
+
 function renderFeatured() {
-  const featured = perfumes.slice(0, 6).map((perfume, index) => ({
+  currentResults = perfumes.slice(0, 6).map((perfume, index) => ({
     ...perfume,
     score: [94, 91, 88, 86, 83, 81][index] || 80
   }));
-  renderCards(featured);
+  renderCards(currentResults);
 }
 
 function renderCards(items) {
   const grid = document.getElementById('resultGrid');
   if (!items.length) {
-    grid.innerHTML = '<div class="empty">Aucune correspondance pour le moment.</div>';
+    grid.innerHTML = '<div class="empty">Aucun parfum ne correspond à ces filtres.</div>';
     return;
   }
 
-  grid.innerHTML = items.slice(0, 6).map((item) => {
+  grid.innerHTML = items.slice(0, 12).map((item) => {
     const notes = (item.notes || []).slice(0, 4)
       .map((note) => `<span>${pretty(note)}</span>`)
       .join('');
+
+    const priceLabel = ['','€','€€','€€€','€€€€','€€€€€'][Number(item.price_level || 0)] || '';
 
     return `
       <article class="card">
@@ -163,7 +213,7 @@ function renderCards(items) {
         <h3>${item.name}</h3>
         <div class="brand-name">${item.brand}</div>
         <div class="notes">${notes}</div>
-        <div class="meta">${pretty((item.families || [])[0] || 'signature')} · ${pretty((item.seasons || [])[0] || 'toute saison')}</div>
+        <div class="meta">${pretty((item.families || [])[0] || 'signature')} · ${pretty((item.seasons || [])[0] || 'toute saison')} · ${priceLabel}</div>
       </article>
     `;
   }).join('');
