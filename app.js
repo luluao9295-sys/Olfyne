@@ -50,7 +50,7 @@ function bindUI() {
     });
   });
 
-  document.querySelectorAll('input[name="gender"]').forEach((radio) => {
+  document.querySelectorAll('input[name="gender"], input[name="budget"]').forEach((radio) => {
     radio.addEventListener('change', () => {
       if (!lastIntent.positive.length && !lastIntent.negative.length) renderFeatured();
       else applyFilters();
@@ -143,6 +143,19 @@ function matchesGender(perfume, selectedGender = getSelectedGender()) {
   return !selectedGender || perfume.gender === selectedGender || perfume.gender === 'mixte';
 }
 
+function getSelectedBudget() {
+  return document.querySelector('input[name="budget"]:checked')?.value || '';
+}
+
+function matchesBudget(perfume, selectedBudget = getSelectedBudget()) {
+  if (!selectedBudget) return true;
+  const price = Number(perfume.price_eur);
+  if (!Number.isFinite(price)) return false;
+  if (selectedBudget === 'low') return price < 80;
+  if (selectedBudget === 'mid') return price >= 80 && price <= 150;
+  return price > 150;
+}
+
 function search(rawQuery) {
   const summary = document.getElementById('resultSummary');
   const query = rawQuery.trim();
@@ -180,7 +193,7 @@ function search(rawQuery) {
 }
 
 function applyFilters() {
-  const filtered = currentResults.filter((item) => matchesGender(item));
+  const filtered = currentResults.filter((item) => matchesGender(item) && matchesBudget(item));
   renderCards(filtered);
 }
 
