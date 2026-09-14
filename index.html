@@ -37,6 +37,13 @@
             <label><input type="radio" name="gender" value="homme"><span>Homme</span></label>
             <label><input type="radio" name="gender" value="femme"><span>Femme</span></label>
           </fieldset>
+          <fieldset class="budget-switch" aria-label="Choisir un budget">
+            <legend class="sr-only">Budget</legend>
+            <label><input type="radio" name="budget" value="" checked><span>Tout budget</span></label>
+            <label><input type="radio" name="budget" value="low"><span>Moins de 80 €</span></label>
+            <label><input type="radio" name="budget" value="mid"><span>80–150 €</span></label>
+            <label><input type="radio" name="budget" value="high"><span>Plus de 150 €</span></label>
+          </fieldset>
           <label for="searchInput" class="sr-only">Rechercher un parfum</label>
           <input id="searchInput" autocomplete="off" placeholder="Ex. vanille cuir tabac sombre hiver" />
           <button type="submit">Trouver mon parfum</button>
