@@ -242,6 +242,9 @@ function openPerfume(index) {
   const sillage = inferSillage(perfume);
   const noteTags = (perfume.notes || []).map((x) => `<span>${pretty(x)}</span>`).join('');
   const familyTags = (perfume.families || []).map((x) => `<span>${pretty(x)}</span>`).join('');
+  const officialLink = perfume.official_url
+    ? `<a class="official-link" href="${perfume.official_url}" target="_blank" rel="noopener noreferrer">Voir sur le site officiel <span>↗</span></a>`
+    : '';
 
   const existing = document.querySelector('.perfume-modal');
   if (existing) existing.remove();
@@ -256,8 +259,9 @@ function openPerfume(index) {
             <div class="modal-score">${score ? `${score}% MATCH` : 'DÉCOUVERTE'}</div>
             <h2>${perfume.name}</h2>
             <p class="modal-brand">${perfume.brand}</p>
+            ${officialLink}
           </div>
-          <div class="modal-bottle" aria-hidden="true"><span>OLFYNE</span></div>
+          <div class="modal-bottle" aria-hidden="true"><span>${perfume.brand}</span></div>
         </div>
 
         <div class="modal-grid">
