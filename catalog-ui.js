@@ -97,7 +97,7 @@
   };
 
   window.applyFilters = function() {
-    const filtered = currentResults.filter((item) => matchesGender(item));
+    const filtered = currentResults.filter((item) => matchesGender(item) && matchesBudget(item));
     renderCards(filtered);
   };
 })();
