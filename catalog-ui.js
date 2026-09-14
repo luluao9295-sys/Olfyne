@@ -97,17 +97,7 @@
   };
 
   window.applyFilters = function() {
-    const season = document.getElementById('seasonFilter').value;
-    const occasion = document.getElementById('occasionFilter').value;
-    const price = document.getElementById('priceFilter').value;
-    const sort = document.getElementById('sortFilter').value;
-    let filtered = [...currentResults];
-    if (season) filtered = filtered.filter((item) => (item.seasons || []).includes(season));
-    if (occasion) filtered = filtered.filter((item) => (item.occasions || []).includes(occasion));
-    if (price) filtered = filtered.filter((item) => Number(item.price_level || 0) === Number(price));
-    if (sort === 'priceAsc') filtered.sort((a, b) => (a.price_eur ?? Infinity) - (b.price_eur ?? Infinity));
-    else if (sort === 'priceDesc') filtered.sort((a, b) => (b.price_eur ?? -1) - (a.price_eur ?? -1));
-    else filtered.sort((a, b) => Number(b.score || 0) - Number(a.score || 0));
+    const filtered = currentResults.filter((item) => matchesGender(item));
     renderCards(filtered);
   };
 })();
