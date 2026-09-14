@@ -23,21 +23,26 @@
       'data/official-links-10.json',
       'data/official-links-11.json'
     ];
-    const [perfumesResponse, metaResponse, ...linkResponses] = await Promise.all([
+    const [perfumesResponse, metaResponse, replacementsResponse, ...linkResponses] = await Promise.all([
       nativeFetch(input, init),
       nativeFetch('data/catalog-meta.json'),
+      nativeFetch('data/replacements.json'),
       ...linkFiles.map((file) => nativeFetch(file))
     ]);
     const perfumes = await perfumesResponse.json();
     const meta = metaResponse.ok ? await metaResponse.json() : {};
+    const replacements = replacementsResponse.ok ? await replacementsResponse.json() : {};
     const linkSets = await Promise.all(linkResponses.map(async (response) => response.ok ? response.json() : {}));
 
     const merged = perfumes.map((perfume) => {
-      const key = `${perfume.name}|${perfume.brand}`;
-      const linkOverrides = Object.assign({}, ...linkSets.map((set) => set[key] || {}));
+      const originalKey = `${perfume.name}|${perfume.brand}`;
+      const replacement = replacements[originalKey] || null;
+      const baseItem = replacement ? { ...perfume, ...replacement } : perfume;
+      const activeKey = `${baseItem.name}|${baseItem.brand}`;
+      const linkOverrides = Object.assign({}, ...linkSets.map((set) => set[activeKey] || set[originalKey] || {}));
       const item = {
-        ...perfume,
-        ...(meta[key] || {}),
+        ...baseItem,
+        ...(meta[activeKey] || meta[originalKey] || {}),
         ...linkOverrides
       };
 
