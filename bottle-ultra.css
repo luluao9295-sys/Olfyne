@@ -1,122 +1,42 @@
-/* OLFYNE — ultra design hero bottle */
-.hero-art .bottle{
-  position:absolute;
-  left:25%;
-  top:13%;
-  width:44%;
-  height:66%;
-  overflow:visible;
-  isolation:isolate;
-  border:1px solid rgba(242,222,183,.34);
-  border-radius:30px 30px 48px 48px;
-  background:
-    linear-gradient(98deg,rgba(255,255,255,.18) 0%,rgba(255,255,255,.035) 13%,transparent 25%),
-    radial-gradient(circle at 70% 18%,rgba(234,198,129,.24),transparent 26%),
-    linear-gradient(145deg,rgba(109,78,44,.78) 0%,rgba(41,29,20,.94) 43%,rgba(9,8,7,.99) 76%);
-  box-shadow:
-    0 45px 110px rgba(0,0,0,.7),
-    0 0 0 1px rgba(255,255,255,.025) inset,
-    18px 0 48px rgba(197,164,106,.08) inset,
-    -18px 0 45px rgba(0,0,0,.34) inset;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content:center;
-  text-align:center;
-  transform:perspective(1100px) rotateY(-7deg) rotateX(1deg);
-  clip-path:polygon(10% 0,90% 0,100% 8%,100% 91%,91% 100%,9% 100%,0 91%,0 8%);
+/* OLFYNE — premium bottle image integration */
+.hero-art{
+  position:relative;
 }
 
-.hero-art .bottle::before{
-  content:"";
+.bottle-premium{
   position:absolute;
-  z-index:4;
-  left:31%;
-  top:-17%;
-  width:38%;
-  height:18%;
-  border:1px solid rgba(252,236,202,.34);
-  border-radius:7px 7px 13px 13px;
-  background:
-    linear-gradient(90deg,rgba(255,255,255,.2),transparent 17%,transparent 76%,rgba(0,0,0,.25)),
-    linear-gradient(180deg,#cdb58b 0%,#8d7655 27%,#34291e 75%,#15110d 100%);
-  box-shadow:
-    0 10px 24px rgba(0,0,0,.45),
-    0 0 0 1px rgba(255,255,255,.05) inset;
-  clip-path:polygon(9% 0,91% 0,100% 16%,100% 100%,0 100%,0 16%);
-}
-
-.hero-art .bottle::after{
-  content:"";
-  position:absolute;
-  z-index:1;
-  inset:4% 7% 5%;
+  left:50%;
+  top:50%;
+  width:min(92%,720px);
+  height:auto;
+  max-height:92%;
+  object-fit:contain;
+  transform:translate(-50%,-50%);
+  filter:drop-shadow(0 34px 42px rgba(0,0,0,.48));
+  z-index:2;
+  user-select:none;
   pointer-events:none;
-  border-radius:24px 24px 38px 38px;
-  background:
-    linear-gradient(108deg,transparent 0 16%,rgba(255,255,255,.2) 18%,rgba(255,255,255,.035) 25%,transparent 31% 100%),
-    linear-gradient(180deg,rgba(255,230,182,.075),transparent 35% 74%,rgba(211,169,98,.08));
-  border:1px solid rgba(255,255,255,.045);
-  clip-path:polygon(8% 0,92% 0,100% 8%,100% 91%,91% 100%,9% 100%,0 91%,0 8%);
 }
 
-.hero-art .bottle span{
-  position:relative;
+.hero-art .orb{
+  z-index:0;
+}
+
+.hero-art .ingredient{
   z-index:3;
-  width:68%;
-  padding:24px 8px 22px;
-  border-top:1px solid rgba(229,199,142,.32);
-  border-bottom:1px solid rgba(229,199,142,.24);
-  font-family:'Playfair Display',serif;
-  font-size:clamp(24px,3.7vw,46px);
-  line-height:1;
-  letter-spacing:.18em;
-  color:#f4efe6;
-  text-shadow:0 2px 22px rgba(255,236,199,.12);
 }
 
-.hero-art .bottle span::before{
-  content:"SCENT ARCHIVE";
-  display:block;
-  margin-bottom:12px;
-  font-family:'DM Sans',sans-serif;
-  font-size:8px;
-  font-weight:600;
-  letter-spacing:.35em;
-  color:#c9ad7a;
+/* soften the scene around the campaign visual */
+.hero-art::after{
+  content:"";
+  position:absolute;
+  inset:7% 4% 5%;
+  background:radial-gradient(circle at 50% 48%,rgba(203,163,96,.10),transparent 58%);
+  pointer-events:none;
+  z-index:1;
 }
 
-.hero-art .bottle span::after{
-  content:"◆";
-  display:block;
-  margin-top:13px;
-  font-family:serif;
-  font-size:8px;
-  color:#b89964;
-}
-
-.hero-art .bottle small{
-  position:relative;
-  z-index:3;
-  margin-top:16px;
-  color:#c8aa75;
-  font-size:9px;
-  font-weight:600;
-  letter-spacing:.26em;
-}
-
-/* subtle base pedestal / liquid glow */
-.hero-art .bottle{
-  filter:drop-shadow(0 22px 18px rgba(0,0,0,.28));
-}
-
-.hero-art .bottle:hover{
-  transform:perspective(1100px) rotateY(-3deg) translateY(-4px);
-  transition:transform .45s cubic-bezier(.2,.8,.2,1),filter .45s ease;
-  filter:drop-shadow(0 30px 24px rgba(0,0,0,.35));
-}
-
-/* Keep modal perfume placeholder aligned with the new OLFYNE visual language */
+/* Keep modal perfume placeholder in the OLFYNE premium visual language */
 .modal-bottle{
   position:relative;
   overflow:hidden;
@@ -129,6 +49,7 @@
   box-shadow:0 30px 70px rgba(0,0,0,.48),inset 0 0 50px rgba(241,211,157,.07) !important;
   clip-path:polygon(9% 0,91% 0,100% 7%,100% 92%,91% 100%,9% 100%,0 92%,0 7%);
 }
+
 .modal-bottle::after{
   content:"";
   position:absolute;
@@ -138,19 +59,25 @@
   pointer-events:none;
 }
 
-@media(max-width:620px){
-  .hero-art .bottle{
-    left:20%;
-    top:15%;
-    width:59%;
-    height:62%;
-    transform:perspective(900px) rotateY(-5deg);
+@media(max-width:900px){
+  .bottle-premium{
+    width:min(86%,640px);
+    max-height:88%;
   }
-  .hero-art .bottle span{width:72%;padding:18px 6px 17px;font-size:30px}
-  .hero-art .bottle span::before{font-size:7px}
-  .hero-art .bottle small{font-size:8px;letter-spacing:.2em}
+}
+
+@media(max-width:620px){
+  .bottle-premium{
+    width:96%;
+    max-height:92%;
+    top:49%;
+  }
+
+  .hero-art .ingredient{
+    transform:scale(.92);
+  }
 }
 
 @media(prefers-reduced-motion:reduce){
-  .hero-art .bottle,.hero-art .bottle:hover{transition:none;transform:none}
+  .bottle-premium{transition:none}
 }
