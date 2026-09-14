@@ -20,7 +20,8 @@
     "seasons": ["automne", "hiver"],
     "occasions": ["soiree", "date"],
     "performance": ["longue_tenue"],
-    "price_level": 3
+    "price_level": 3,
+    "official_url": "https://www.maisonmargiela.com/fr-fr/replica-jazz-club-eau-de-toilette-%7C-maison-margiela-S33YX0016S10930001.html"
   },
   {
     "name": "Santal 33",
@@ -31,7 +32,8 @@
     "seasons": ["automne", "printemps"],
     "occasions": ["quotidien", "bureau"],
     "performance": ["longue_tenue"],
-    "price_level": 4
+    "price_level": 4,
+    "official_url": "https://www.lelabofragrances.com/santal-33-147.html"
   },
   {
     "name": "Bal d'Afrique",
@@ -54,7 +56,8 @@
     "seasons": ["hiver", "automne"],
     "occasions": ["date", "soiree"],
     "performance": ["longue_tenue", "fort_sillage"],
-    "price_level": 5
+    "price_level": 5,
+    "official_url": "https://www.fredericmalle.fr/musc-ravageur"
   },
   {
     "name": "Wood Sage & Sea Salt",
@@ -65,7 +68,8 @@
     "seasons": ["ete", "printemps"],
     "occasions": ["quotidien", "bureau"],
     "performance": ["discret"],
-    "price_level": 3
+    "price_level": 3,
+    "official_url": "https://www.jomalone.fr/product/wood-sage-sea-salt-cologne"
   },
   {
     "name": "Black Opium",
@@ -76,7 +80,8 @@
     "seasons": ["hiver", "automne"],
     "occasions": ["soiree", "date"],
     "performance": ["longue_tenue"],
-    "price_level": 3
+    "price_level": 3,
+    "official_url": "https://www.yslbeauty.fr/parfum/parfum-femme/black-opium/black-opium-eau-de-parfum/WW-40701YSL.html"
   },
   {
     "name": "Terre d'Hermès",
@@ -87,7 +92,8 @@
     "seasons": ["printemps", "automne"],
     "occasions": ["bureau", "quotidien"],
     "performance": ["longue_tenue"],
-    "price_level": 3
+    "price_level": 3,
+    "official_url": "https://www.hermes.com/fr/fr/content/101186-terre-d-hermes/"
   },
   {
     "name": "Oud Wood",
@@ -99,7 +105,7 @@
     "occasions": ["soiree", "date", "bureau"],
     "performance": ["longue_tenue"],
     "price_level": 4,
-    "official_url": "https://www.tomfordbeauty.com/collections/fragrance"
+    "official_url": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum"
   },
   {
     "name": "Lost Cherry",
@@ -111,7 +117,7 @@
     "occasions": ["date", "soiree"],
     "performance": ["longue_tenue"],
     "price_level": 5,
-    "official_url": "https://www.tomfordbeauty.com/collections/fragrance"
+    "official_url": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum"
   },
   {
     "name": "Ombré Leather",
@@ -123,7 +129,7 @@
     "occasions": ["soiree", "date"],
     "performance": ["longue_tenue", "fort_sillage"],
     "price_level": 4,
-    "official_url": "https://www.tomfordbeauty.com/products/fragrance"
+    "official_url": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum"
   },
   {
     "name": "Neroli Portofino",
@@ -135,7 +141,7 @@
     "occasions": ["quotidien", "bureau"],
     "performance": ["discret"],
     "price_level": 4,
-    "official_url": "https://www.tomfordbeauty.com/collections/fragrance"
+    "official_url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum"
   },
   {
     "name": "Grand Soir",
@@ -146,7 +152,8 @@
     "seasons": ["hiver", "automne"],
     "occasions": ["soiree", "date"],
     "performance": ["longue_tenue", "fort_sillage"],
-    "price_level": 5
+    "price_level": 5,
+    "official_url": "https://www.franciskurkdjian.com/eu-fr/p/grand-soir-eau-de-parfum-RA122521.html"
   },
   {
     "name": "Baccarat Rouge 540",
@@ -157,7 +164,8 @@
     "seasons": ["automne", "hiver", "printemps"],
     "occasions": ["soiree", "date"],
     "performance": ["longue_tenue", "fort_sillage"],
-    "price_level": 5
+    "price_level": 5,
+    "official_url": "https://www.franciskurkdjian.com/eu-fr/p/baccarat-rouge-540-eau-de-parfum-RA12232.html"
   },
   {
     "name": "Layton",
@@ -168,7 +176,8 @@
     "seasons": ["automne", "hiver"],
     "occasions": ["soiree", "date"],
     "performance": ["longue_tenue", "fort_sillage"],
-    "price_level": 5
+    "price_level": 5,
+    "official_url": "https://parfums-de-marly.com/fr/products/layton"
   },
   {
     "name": "Delina",
@@ -179,7 +188,8 @@
     "seasons": ["printemps", "ete"],
     "occasions": ["date", "quotidien"],
     "performance": ["longue_tenue"],
-    "price_level": 5
+    "price_level": 5,
+    "official_url": "https://parfums-de-marly.com/fr/products/delina"
   },
   {
     "name": "Another 13",
@@ -190,7 +200,8 @@
     "seasons": ["printemps", "ete", "automne"],
     "occasions": ["quotidien", "bureau", "date"],
     "performance": ["longue_tenue"],
-    "price_level": 4
+    "price_level": 4,
+    "official_url": "https://www.lelabofragrances.com/another-13.html"
   },
   {
     "name": "Gypsy Water",
@@ -201,7 +212,8 @@
     "seasons": ["printemps", "ete", "automne"],
     "occasions": ["quotidien", "bureau"],
     "performance": ["discret"],
-    "price_level": 4
+    "price_level": 4,
+    "official_url": "https://www.byredo.com/eu_fr/p/gypsy-water-eau-de-parfum"
   },
   {
     "name": "Mojave Ghost",
@@ -212,7 +224,8 @@
     "seasons": ["printemps", "ete"],
     "occasions": ["quotidien", "bureau", "date"],
     "performance": ["discret"],
-    "price_level": 4
+    "price_level": 4,
+    "official_url": "https://www.byredo.com/eu_fr/p/mojave-ghost-eau-de-parfum"
   },
   {
     "name": "Angel's Share",
@@ -223,6 +236,7 @@
     "seasons": ["hiver", "automne"],
     "occasions": ["soiree", "date"],
     "performance": ["longue_tenue", "fort_sillage"],
-    "price_level": 5
+    "price_level": 5,
+    "official_url": "https://www.bykilian.fr/fr-e-fr/product/19797/82905/parfums/angels-share/the-liquors"
   }
 ]
