@@ -2,252 +2,701 @@
   {
     "name": "Tobacco Vanille",
     "brand": "Tom Ford",
-    "notes": ["vanille", "tabac", "tonka", "cacao"],
-    "families": ["gourmand", "ambre", "epice"],
-    "sensations": ["chaud", "sucre", "puissant", "sombre"],
-    "seasons": ["hiver", "automne"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "tabac",
+      "tonka",
+      "cacao"
+    ],
+    "families": [
+      "gourmand",
+      "ambre",
+      "epice"
+    ],
+    "sensations": [
+      "chaud",
+      "sucre",
+      "puissant",
+      "sombre"
+    ],
+    "seasons": [
+      "hiver",
+      "automne"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 4,
     "official_url": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum"
   },
   {
     "name": "Jazz Club",
     "brand": "Maison Margiela",
-    "notes": ["rhum", "tabac", "vanille"],
-    "families": ["boise", "ambre"],
-    "sensations": ["chaud", "sombre", "sensuel"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue"],
+    "gender": "mixte",
+    "notes": [
+      "rhum",
+      "tabac",
+      "vanille"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sombre",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "official_url": "https://www.maisonmargiela.com/fr-fr/replica-jazz-club-eau-de-toilette-%7C-maison-margiela-S33YX0016S10930001.html"
   },
   {
     "name": "Santal 33",
     "brand": "Le Labo",
-    "notes": ["santal", "cedre", "cuir"],
-    "families": ["boise", "cuire"],
-    "sensations": ["sec", "elegant", "sombre"],
-    "seasons": ["automne", "printemps"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["longue_tenue"],
+    "gender": "mixte",
+    "notes": [
+      "santal",
+      "cedre",
+      "cuir"
+    ],
+    "families": [
+      "boise",
+      "cuire"
+    ],
+    "sensations": [
+      "sec",
+      "elegant",
+      "sombre"
+    ],
+    "seasons": [
+      "automne",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 4,
     "official_url": "https://www.lelabofragrances.com/santal-33-147.html"
   },
   {
     "name": "Bal d'Afrique",
     "brand": "Byredo",
-    "notes": ["bergamote", "cedre", "vetiver", "musc"],
-    "families": ["frais", "boise", "floral"],
-    "sensations": ["elegant", "leger", "lumineux"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["discret"],
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "cedre",
+      "vetiver",
+      "musc"
+    ],
+    "families": [
+      "frais",
+      "boise",
+      "floral"
+    ],
+    "sensations": [
+      "elegant",
+      "leger",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
     "price_level": 4,
     "official_url": "https://www.byredo.com/eu_fr/p/bal-d-afrique-eau-de-parfum"
   },
   {
     "name": "Musc Ravageur",
     "brand": "Frédéric Malle",
-    "notes": ["musc", "vanille", "cannelle"],
-    "families": ["musque", "ambre"],
-    "sensations": ["sensuel", "chaud", "puissant"],
-    "seasons": ["hiver", "automne"],
-    "occasions": ["date", "soiree"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "mixte",
+    "notes": [
+      "musc",
+      "vanille",
+      "cannelle"
+    ],
+    "families": [
+      "musque",
+      "ambre"
+    ],
+    "sensations": [
+      "sensuel",
+      "chaud",
+      "puissant"
+    ],
+    "seasons": [
+      "hiver",
+      "automne"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 5,
     "official_url": "https://www.fredericmalle.fr/musc-ravageur"
   },
   {
     "name": "Wood Sage & Sea Salt",
     "brand": "Jo Malone London",
-    "notes": ["sel_marin", "sauge"],
-    "families": ["aquatique", "frais", "boise"],
-    "sensations": ["propre", "leger"],
-    "seasons": ["ete", "printemps"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["discret"],
+    "gender": "mixte",
+    "notes": [
+      "sel_marin",
+      "sauge"
+    ],
+    "families": [
+      "aquatique",
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "leger"
+    ],
+    "seasons": [
+      "ete",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
     "price_level": 3,
     "official_url": "https://www.jomalone.fr/product/wood-sage-sea-salt-cologne"
   },
   {
     "name": "Black Opium",
     "brand": "Yves Saint Laurent",
-    "notes": ["cafe", "vanille", "jasmin"],
-    "families": ["gourmand", "floral"],
-    "sensations": ["sucre", "sensuel", "chaud"],
-    "seasons": ["hiver", "automne"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "cafe",
+      "vanille",
+      "jasmin"
+    ],
+    "families": [
+      "gourmand",
+      "floral"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "hiver",
+      "automne"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "official_url": "https://www.yslbeauty.fr/parfum/parfum-femme/black-opium/black-opium-eau-de-parfum/WW-40701YSL.html"
   },
   {
     "name": "Terre d'Hermès",
     "brand": "Hermès",
-    "notes": ["bergamote", "vetiver", "cedre"],
-    "families": ["boise", "frais"],
-    "sensations": ["sec", "elegant"],
-    "seasons": ["printemps", "automne"],
-    "occasions": ["bureau", "quotidien"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "vetiver",
+      "cedre"
+    ],
+    "families": [
+      "boise",
+      "frais"
+    ],
+    "sensations": [
+      "sec",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "bureau",
+      "quotidien"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "official_url": "https://www.hermes.com/fr/fr/content/101186-terre-d-hermes/"
   },
   {
     "name": "Oud Wood",
     "brand": "Tom Ford",
-    "notes": ["oud", "santal", "cardamome", "ambre"],
-    "families": ["boise", "epice", "ambre"],
-    "sensations": ["sombre", "elegant", "chaud"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date", "bureau"],
-    "performance": ["longue_tenue"],
+    "gender": "mixte",
+    "notes": [
+      "oud",
+      "santal",
+      "cardamome",
+      "ambre"
+    ],
+    "families": [
+      "boise",
+      "epice",
+      "ambre"
+    ],
+    "sensations": [
+      "sombre",
+      "elegant",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 4,
     "official_url": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum"
   },
   {
     "name": "Lost Cherry",
     "brand": "Tom Ford",
-    "notes": ["cerise", "amande", "tonka"],
-    "families": ["fruite", "gourmand", "ambre"],
-    "sensations": ["sucre", "sensuel", "chaud"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["date", "soiree"],
-    "performance": ["longue_tenue"],
+    "gender": "mixte",
+    "notes": [
+      "cerise",
+      "amande",
+      "tonka"
+    ],
+    "families": [
+      "fruite",
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 5,
     "official_url": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum"
   },
   {
     "name": "Ombré Leather",
     "brand": "Tom Ford",
-    "notes": ["cuir", "jasmin", "ambre"],
-    "families": ["cuire", "floral", "ambre"],
-    "sensations": ["puissant", "sombre", "sec"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "mixte",
+    "notes": [
+      "cuir",
+      "jasmin",
+      "ambre"
+    ],
+    "families": [
+      "cuire",
+      "floral",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "sombre",
+      "sec"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 4,
     "official_url": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum"
   },
   {
     "name": "Neroli Portofino",
     "brand": "Tom Ford",
-    "notes": ["neroli", "bergamote", "citron"],
-    "families": ["frais", "hesperide", "aromatique"],
-    "sensations": ["propre", "leger", "lumineux"],
-    "seasons": ["ete", "printemps"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["discret"],
+    "gender": "mixte",
+    "notes": [
+      "neroli",
+      "bergamote",
+      "citron"
+    ],
+    "families": [
+      "frais",
+      "hesperide",
+      "aromatique"
+    ],
+    "sensations": [
+      "propre",
+      "leger",
+      "lumineux"
+    ],
+    "seasons": [
+      "ete",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
     "price_level": 4,
     "official_url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum"
   },
   {
     "name": "Grand Soir",
     "brand": "Maison Francis Kurkdjian",
-    "notes": ["ambre", "vanille", "benjoin"],
-    "families": ["ambre"],
-    "sensations": ["chaud", "elegant", "enveloppant", "sensuel"],
-    "seasons": ["hiver", "automne"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "mixte",
+    "notes": [
+      "ambre",
+      "vanille",
+      "benjoin"
+    ],
+    "families": [
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "elegant",
+      "enveloppant",
+      "sensuel"
+    ],
+    "seasons": [
+      "hiver",
+      "automne"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 5,
     "official_url": "https://www.franciskurkdjian.com/eu-fr/p/grand-soir-eau-de-parfum-RA122521.html"
   },
   {
     "name": "Baccarat Rouge 540",
     "brand": "Maison Francis Kurkdjian",
-    "notes": ["safran", "ambre", "cedre"],
-    "families": ["ambre", "boise"],
-    "sensations": ["puissant", "elegant", "sucre"],
-    "seasons": ["automne", "hiver", "printemps"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "mixte",
+    "notes": [
+      "safran",
+      "ambre",
+      "cedre"
+    ],
+    "families": [
+      "ambre",
+      "boise"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant",
+      "sucre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver",
+      "printemps"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 5,
     "official_url": "https://www.franciskurkdjian.com/eu-fr/p/baccarat-rouge-540-eau-de-parfum-RA12232.html"
   },
   {
     "name": "Layton",
     "brand": "Parfums de Marly",
-    "notes": ["vanille", "cardamome", "bergamote"],
-    "families": ["ambre", "boise", "epice"],
-    "sensations": ["chaud", "sensuel", "puissant"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "vanille",
+      "cardamome",
+      "bergamote"
+    ],
+    "families": [
+      "ambre",
+      "boise",
+      "epice"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 5,
     "official_url": "https://parfums-de-marly.com/fr/products/layton"
   },
   {
     "name": "Delina",
     "brand": "Parfums de Marly",
-    "notes": ["rose", "rhubarbe", "musc"],
-    "families": ["floral", "fruite"],
-    "sensations": ["lumineux", "elegant", "sensuel"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["date", "quotidien"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "rhubarbe",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "fruite"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "date",
+      "quotidien"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 5,
     "official_url": "https://parfums-de-marly.com/fr/products/delina"
   },
   {
     "name": "Another 13",
     "brand": "Le Labo",
-    "notes": ["musc", "ambre"],
-    "families": ["musque", "ambre"],
-    "sensations": ["propre", "moderne", "leger"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["quotidien", "bureau", "date"],
-    "performance": ["longue_tenue"],
+    "gender": "mixte",
+    "notes": [
+      "musc",
+      "ambre"
+    ],
+    "families": [
+      "musque",
+      "ambre"
+    ],
+    "sensations": [
+      "propre",
+      "moderne",
+      "leger"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 4,
     "official_url": "https://www.lelabofragrances.com/another-13.html"
   },
   {
     "name": "Gypsy Water",
     "brand": "Byredo",
-    "notes": ["bergamote", "citron", "vanille", "santal"],
-    "families": ["boise", "frais"],
-    "sensations": ["leger", "elegant", "doux"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["discret"],
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "citron",
+      "vanille",
+      "santal"
+    ],
+    "families": [
+      "boise",
+      "frais"
+    ],
+    "sensations": [
+      "leger",
+      "elegant",
+      "doux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
     "price_level": 4,
     "official_url": "https://www.byredo.com/eu_fr/p/gypsy-water-eau-de-parfum"
   },
   {
     "name": "Mojave Ghost",
     "brand": "Byredo",
-    "notes": ["santal", "ambre", "violette"],
-    "families": ["boise", "floral"],
-    "sensations": ["doux", "propre", "elegant"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "bureau", "date"],
-    "performance": ["discret"],
+    "gender": "mixte",
+    "notes": [
+      "santal",
+      "ambre",
+      "violette"
+    ],
+    "families": [
+      "boise",
+      "floral"
+    ],
+    "sensations": [
+      "doux",
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau",
+      "date"
+    ],
+    "performance": [
+      "discret"
+    ],
     "price_level": 4,
     "official_url": "https://www.byredo.com/eu_fr/p/mojave-ghost-eau-de-parfum"
   },
   {
     "name": "Angel's Share",
     "brand": "Kilian Paris",
-    "notes": ["cognac", "cannelle", "tonka", "vanille"],
-    "families": ["gourmand", "ambre", "epice"],
-    "sensations": ["chaud", "sucre", "enveloppant", "puissant"],
-    "seasons": ["hiver", "automne"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "mixte",
+    "notes": [
+      "cognac",
+      "cannelle",
+      "tonka",
+      "vanille"
+    ],
+    "families": [
+      "gourmand",
+      "ambre",
+      "epice"
+    ],
+    "sensations": [
+      "chaud",
+      "sucre",
+      "enveloppant",
+      "puissant"
+    ],
+    "seasons": [
+      "hiver",
+      "automne"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 5,
     "official_url": "https://www.bykilian.fr/fr-e-fr/product/19797/82905/parfums/angels-share/the-liquors"
   },
   {
     "name": "Bleu de Chanel Eau de Parfum",
     "brand": "Chanel",
-    "notes": ["pamplemousse", "cedre", "santal", "encens"],
-    "families": ["boise", "aromatique", "frais"],
-    "sensations": ["elegant", "propre", "puissant"],
-    "seasons": ["printemps", "automne", "hiver"],
-    "occasions": ["bureau", "soiree", "quotidien"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "pamplemousse",
+      "cedre",
+      "santal",
+      "encens"
+    ],
+    "families": [
+      "boise",
+      "aromatique",
+      "frais"
+    ],
+    "sensations": [
+      "elegant",
+      "propre",
+      "puissant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree",
+      "quotidien"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 4,
     "price_eur": 124,
     "price_volume": "50 ml",
@@ -257,12 +706,37 @@
   {
     "name": "Sauvage Eau de Parfum",
     "brand": "Dior",
-    "notes": ["bergamote", "lavande", "vanille", "poivre"],
-    "families": ["aromatique", "epice", "ambre"],
-    "sensations": ["frais", "puissant", "sensuel"],
-    "seasons": ["automne", "hiver", "printemps"],
-    "occasions": ["quotidien", "soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "lavande",
+      "vanille",
+      "poivre"
+    ],
+    "families": [
+      "aromatique",
+      "epice",
+      "ambre"
+    ],
+    "sensations": [
+      "frais",
+      "puissant",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 105,
     "price_volume": "60 ml",
@@ -273,12 +747,34 @@
   {
     "name": "Dior Homme Intense",
     "brand": "Dior",
-    "notes": ["iris", "ambre", "cedre"],
-    "families": ["boise", "floral", "poudre"],
-    "sensations": ["elegant", "sombre", "sensuel"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "iris",
+      "ambre",
+      "cedre"
+    ],
+    "families": [
+      "boise",
+      "floral",
+      "poudre"
+    ],
+    "sensations": [
+      "elegant",
+      "sombre",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 4,
     "price_eur": 132,
     "price_volume": "100 ml",
@@ -289,12 +785,33 @@
   {
     "name": "J'adore Eau de Parfum",
     "brand": "Dior",
-    "notes": ["jasmin", "rose", "ylang_ylang"],
-    "families": ["floral", "fruite"],
-    "sensations": ["lumineux", "elegant", "sensuel"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "date", "soiree"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "jasmin",
+      "rose",
+      "ylang_ylang"
+    ],
+    "families": [
+      "floral",
+      "fruite"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 113,
     "price_volume": "50 ml",
@@ -304,12 +821,33 @@
   {
     "name": "Miss Dior Eau de Parfum",
     "brand": "Dior",
-    "notes": ["rose", "iris", "muguet"],
-    "families": ["floral", "poudre"],
-    "sensations": ["doux", "elegant", "lumineux"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["quotidien", "date"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "iris",
+      "muguet"
+    ],
+    "families": [
+      "floral",
+      "poudre"
+    ],
+    "sensations": [
+      "doux",
+      "elegant",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 115,
     "price_volume": "50 ml",
@@ -319,12 +857,34 @@
   {
     "name": "Acqua di Giò Profondo",
     "brand": "Giorgio Armani",
-    "notes": ["bergamote", "sel_marin", "romarin", "musc"],
-    "families": ["aquatique", "aromatique", "frais"],
-    "sensations": ["propre", "frais", "elegant"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "sel_marin",
+      "romarin",
+      "musc"
+    ],
+    "families": [
+      "aquatique",
+      "aromatique",
+      "frais"
+    ],
+    "sensations": [
+      "propre",
+      "frais",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 92,
     "price_volume": "50 ml",
@@ -334,12 +894,35 @@
   {
     "name": "Stronger With You Intensely",
     "brand": "Emporio Armani",
-    "notes": ["vanille", "tonka", "cannelle", "ambre"],
-    "families": ["gourmand", "ambre", "epice"],
-    "sensations": ["chaud", "sucre", "puissant"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["date", "soiree"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "vanille",
+      "tonka",
+      "cannelle",
+      "ambre"
+    ],
+    "families": [
+      "gourmand",
+      "ambre",
+      "epice"
+    ],
+    "sensations": [
+      "chaud",
+      "sucre",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 93,
     "price_volume": "50 ml",
@@ -349,12 +932,33 @@
   {
     "name": "My Way Eau de Parfum",
     "brand": "Giorgio Armani",
-    "notes": ["fleur_oranger", "tubereuse", "jasmin", "vanille"],
-    "families": ["floral"],
-    "sensations": ["lumineux", "elegant", "doux"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "date", "bureau"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "fleur_oranger",
+      "tubereuse",
+      "jasmin",
+      "vanille"
+    ],
+    "families": [
+      "floral"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant",
+      "doux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 99,
     "price_volume": "50 ml",
@@ -364,12 +968,36 @@
   {
     "name": "Libre Eau de Parfum",
     "brand": "Yves Saint Laurent",
-    "notes": ["lavande", "fleur_oranger", "vanille"],
-    "families": ["floral", "aromatique", "ambre"],
-    "sensations": ["elegant", "puissant", "sensuel"],
-    "seasons": ["printemps", "automne", "hiver"],
-    "occasions": ["bureau", "soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "femme",
+    "notes": [
+      "lavande",
+      "fleur_oranger",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "aromatique",
+      "ambre"
+    ],
+    "sensations": [
+      "elegant",
+      "puissant",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 108,
     "price_volume": "50 ml",
@@ -379,12 +1007,37 @@
   {
     "name": "Y Eau de Parfum",
     "brand": "Yves Saint Laurent",
-    "notes": ["pomme", "sauge", "cedre", "tonka"],
-    "families": ["aromatique", "boise", "frais"],
-    "sensations": ["propre", "puissant", "moderne"],
-    "seasons": ["printemps", "automne", "hiver"],
-    "occasions": ["quotidien", "bureau", "soiree"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "pomme",
+      "sauge",
+      "cedre",
+      "tonka"
+    ],
+    "families": [
+      "aromatique",
+      "boise",
+      "frais"
+    ],
+    "sensations": [
+      "propre",
+      "puissant",
+      "moderne"
+    ],
+    "seasons": [
+      "printemps",
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 99,
     "price_volume": "60 ml",
@@ -394,12 +1047,34 @@
   {
     "name": "La Nuit de L'Homme",
     "brand": "Yves Saint Laurent",
-    "notes": ["cardamome", "lavande", "cedre", "vetiver"],
-    "families": ["boise", "epice", "aromatique"],
-    "sensations": ["sensuel", "elegant", "sombre"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["date", "soiree"],
-    "performance": ["discret"],
+    "gender": "homme",
+    "notes": [
+      "cardamome",
+      "lavande",
+      "cedre",
+      "vetiver"
+    ],
+    "families": [
+      "boise",
+      "epice",
+      "aromatique"
+    ],
+    "sensations": [
+      "sensuel",
+      "elegant",
+      "sombre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "discret"
+    ],
     "price_level": 3,
     "price_eur": 88,
     "price_volume": "60 ml",
@@ -409,12 +1084,34 @@
   {
     "name": "N°5 Eau de Parfum",
     "brand": "Chanel",
-    "notes": ["aldehydes", "jasmin", "rose", "santal"],
-    "families": ["floral", "poudre"],
-    "sensations": ["elegant", "poudre", "lumineux"],
-    "seasons": ["automne", "hiver", "printemps"],
-    "occasions": ["soiree", "bureau"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "aldehydes",
+      "jasmin",
+      "rose",
+      "santal"
+    ],
+    "families": [
+      "floral",
+      "poudre"
+    ],
+    "sensations": [
+      "elegant",
+      "poudre",
+      "lumineux"
+    ],
+    "seasons": [
+      "automne",
+      "hiver",
+      "printemps"
+    ],
+    "occasions": [
+      "soiree",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 4,
     "price_eur": 128,
     "price_volume": "50 ml",
@@ -424,12 +1121,35 @@
   {
     "name": "Coco Mademoiselle Eau de Parfum",
     "brand": "Chanel",
-    "notes": ["bergamote", "rose", "jasmin", "patchouli"],
-    "families": ["floral", "ambre", "fruite"],
-    "sensations": ["elegant", "lumineux", "sensuel"],
-    "seasons": ["printemps", "automne"],
-    "occasions": ["quotidien", "bureau", "date"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "rose",
+      "jasmin",
+      "patchouli"
+    ],
+    "families": [
+      "floral",
+      "ambre",
+      "fruite"
+    ],
+    "sensations": [
+      "elegant",
+      "lumineux",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 4,
     "price_eur": 128,
     "price_volume": "50 ml",
@@ -439,12 +1159,34 @@
   {
     "name": "Allure Homme Sport",
     "brand": "Chanel",
-    "notes": ["mandarine", "poivre", "tonka", "musc"],
-    "families": ["frais", "aromatique", "boise"],
-    "sensations": ["propre", "lumineux", "elegant"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "mandarine",
+      "poivre",
+      "tonka",
+      "musc"
+    ],
+    "families": [
+      "frais",
+      "aromatique",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 110,
     "price_volume": "100 ml",
@@ -454,12 +1196,36 @@
   {
     "name": "Mon Guerlain Eau de Parfum",
     "brand": "Guerlain",
-    "notes": ["lavande", "vanille", "santal", "jasmin"],
-    "families": ["ambre", "floral", "gourmand"],
-    "sensations": ["doux", "elegant", "chaud"],
-    "seasons": ["automne", "hiver", "printemps"],
-    "occasions": ["quotidien", "date", "bureau"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "lavande",
+      "vanille",
+      "santal",
+      "jasmin"
+    ],
+    "families": [
+      "ambre",
+      "floral",
+      "gourmand"
+    ],
+    "sensations": [
+      "doux",
+      "elegant",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "date",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 105,
     "price_volume": "50 ml",
@@ -469,12 +1235,34 @@
   {
     "name": "L'Homme Idéal Eau de Parfum",
     "brand": "Guerlain",
-    "notes": ["amande", "vanille", "cuir", "tonka"],
-    "families": ["gourmand", "ambre", "boise"],
-    "sensations": ["chaud", "sensuel", "elegant"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["date", "soiree"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "amande",
+      "vanille",
+      "cuir",
+      "tonka"
+    ],
+    "families": [
+      "gourmand",
+      "ambre",
+      "boise"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 98,
     "price_volume": "100 ml",
@@ -484,12 +1272,34 @@
   {
     "name": "Shalimar Eau de Parfum",
     "brand": "Guerlain",
-    "notes": ["bergamote", "iris", "vanille", "ambre"],
-    "families": ["ambre", "poudre"],
-    "sensations": ["chaud", "sensuel", "sombre"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "iris",
+      "vanille",
+      "ambre"
+    ],
+    "families": [
+      "ambre",
+      "poudre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel",
+      "sombre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 104,
     "price_volume": "50 ml",
@@ -499,12 +1309,36 @@
   {
     "name": "La Vie Est Belle Eau de Parfum",
     "brand": "Lancôme",
-    "notes": ["iris", "vanille", "praline", "patchouli"],
-    "families": ["gourmand", "floral"],
-    "sensations": ["sucre", "chaud", "lumineux"],
-    "seasons": ["automne", "hiver", "printemps"],
-    "occasions": ["quotidien", "date", "soiree"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "femme",
+    "notes": [
+      "iris",
+      "vanille",
+      "praline",
+      "patchouli"
+    ],
+    "families": [
+      "gourmand",
+      "floral"
+    ],
+    "sensations": [
+      "sucre",
+      "chaud",
+      "lumineux"
+    ],
+    "seasons": [
+      "automne",
+      "hiver",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 101,
     "price_volume": "50 ml",
@@ -514,12 +1348,33 @@
   {
     "name": "Idôle Eau de Parfum",
     "brand": "Lancôme",
-    "notes": ["rose", "jasmin", "musc", "vanille"],
-    "families": ["floral", "musque"],
-    "sensations": ["propre", "lumineux", "elegant"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "propre",
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 96,
     "price_volume": "50 ml",
@@ -529,12 +1384,35 @@
   {
     "name": "1 Million Eau de Toilette",
     "brand": "Rabanne",
-    "notes": ["cannelle", "rose", "ambre", "cuir"],
-    "families": ["epice", "ambre", "boise"],
-    "sensations": ["chaud", "sucre", "puissant"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "cannelle",
+      "rose",
+      "ambre",
+      "cuir"
+    ],
+    "families": [
+      "epice",
+      "ambre",
+      "boise"
+    ],
+    "sensations": [
+      "chaud",
+      "sucre",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 2,
     "price_eur": 79,
     "price_volume": "50 ml",
@@ -544,12 +1422,35 @@
   {
     "name": "Invictus Eau de Toilette",
     "brand": "Rabanne",
-    "notes": ["pamplemousse", "sel_marin", "ambre", "bois"],
-    "families": ["aquatique", "frais", "boise"],
-    "sensations": ["frais", "propre", "puissant"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "soiree"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "pamplemousse",
+      "sel_marin",
+      "ambre",
+      "bois"
+    ],
+    "families": [
+      "aquatique",
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "puissant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 2,
     "price_eur": 78,
     "price_volume": "50 ml",
@@ -559,12 +1460,34 @@
   {
     "name": "Fame Eau de Parfum",
     "brand": "Rabanne",
-    "notes": ["mangue", "jasmin", "vanille"],
-    "families": ["fruite", "floral", "gourmand"],
-    "sensations": ["lumineux", "sucre", "sensuel"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "date", "soiree"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "mangue",
+      "jasmin",
+      "vanille"
+    ],
+    "families": [
+      "fruite",
+      "floral",
+      "gourmand"
+    ],
+    "sensations": [
+      "lumineux",
+      "sucre",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 96,
     "price_volume": "50 ml",
@@ -574,12 +1497,35 @@
   {
     "name": "Le Male Elixir",
     "brand": "Jean Paul Gaultier",
-    "notes": ["lavande", "tonka", "vanille", "miel"],
-    "families": ["gourmand", "ambre", "aromatique"],
-    "sensations": ["chaud", "sucre", "puissant"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "lavande",
+      "tonka",
+      "vanille",
+      "miel"
+    ],
+    "families": [
+      "gourmand",
+      "ambre",
+      "aromatique"
+    ],
+    "sensations": [
+      "chaud",
+      "sucre",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 98,
     "price_volume": "75 ml",
@@ -589,12 +1535,35 @@
   {
     "name": "Scandal Pour Homme",
     "brand": "Jean Paul Gaultier",
-    "notes": ["caramel", "tonka", "sauge", "vetiver"],
-    "families": ["gourmand", "ambre", "boise"],
-    "sensations": ["sucre", "puissant", "sensuel"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "caramel",
+      "tonka",
+      "sauge",
+      "vetiver"
+    ],
+    "families": [
+      "gourmand",
+      "ambre",
+      "boise"
+    ],
+    "sensations": [
+      "sucre",
+      "puissant",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 89,
     "price_volume": "50 ml",
@@ -604,12 +1573,36 @@
   {
     "name": "Le Beau Le Parfum",
     "brand": "Jean Paul Gaultier",
-    "notes": ["coco", "tonka", "ambre", "bois"],
-    "families": ["gourmand", "boise", "ambre"],
-    "sensations": ["cremeux", "sensuel", "chaud"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["date", "soiree"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "coco",
+      "tonka",
+      "ambre",
+      "bois"
+    ],
+    "families": [
+      "gourmand",
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "cremeux",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 96,
     "price_volume": "75 ml",
@@ -619,12 +1612,35 @@
   {
     "name": "Spicebomb Extreme",
     "brand": "Viktor&Rolf",
-    "notes": ["vanille", "tabac", "cannelle", "poivre"],
-    "families": ["epice", "gourmand", "ambre"],
-    "sensations": ["chaud", "puissant", "sombre"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "vanille",
+      "tabac",
+      "cannelle",
+      "poivre"
+    ],
+    "families": [
+      "epice",
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "puissant",
+      "sombre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 112,
     "price_volume": "90 ml",
@@ -634,12 +1650,36 @@
   {
     "name": "Flowerbomb Eau de Parfum",
     "brand": "Viktor&Rolf",
-    "notes": ["jasmin", "rose", "patchouli", "vanille"],
-    "families": ["floral", "gourmand"],
-    "sensations": ["sucre", "sensuel", "lumineux"],
-    "seasons": ["printemps", "automne", "hiver"],
-    "occasions": ["date", "soiree", "quotidien"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "femme",
+    "notes": [
+      "jasmin",
+      "rose",
+      "patchouli",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "gourmand"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree",
+      "quotidien"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 106,
     "price_volume": "50 ml",
@@ -649,12 +1689,34 @@
   {
     "name": "Uomo Born in Roma Intense",
     "brand": "Valentino",
-    "notes": ["vanille", "lavande", "vetiver"],
-    "families": ["ambre", "aromatique", "boise"],
-    "sensations": ["chaud", "puissant", "sensuel"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "vanille",
+      "lavande",
+      "vetiver"
+    ],
+    "families": [
+      "ambre",
+      "aromatique",
+      "boise"
+    ],
+    "sensations": [
+      "chaud",
+      "puissant",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 94,
     "price_volume": "50 ml",
@@ -664,12 +1726,35 @@
   {
     "name": "Donna Born in Roma Intense",
     "brand": "Valentino",
-    "notes": ["vanille", "jasmin", "benjoin"],
-    "families": ["floral", "ambre", "gourmand"],
-    "sensations": ["chaud", "sensuel", "sucre"],
-    "seasons": ["automne", "hiver", "printemps"],
-    "occasions": ["date", "soiree"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "femme",
+    "notes": [
+      "vanille",
+      "jasmin",
+      "benjoin"
+    ],
+    "families": [
+      "floral",
+      "ambre",
+      "gourmand"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel",
+      "sucre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver",
+      "printemps"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 105,
     "price_volume": "50 ml",
@@ -679,12 +1764,35 @@
   {
     "name": "Prada L'Homme",
     "brand": "Prada",
-    "notes": ["iris", "neroli", "ambre", "cedre"],
-    "families": ["floral", "boise", "poudre"],
-    "sensations": ["propre", "elegant", "doux"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["bureau", "quotidien"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "iris",
+      "neroli",
+      "ambre",
+      "cedre"
+    ],
+    "families": [
+      "floral",
+      "boise",
+      "poudre"
+    ],
+    "sensations": [
+      "propre",
+      "elegant",
+      "doux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "bureau",
+      "quotidien"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 101,
     "price_volume": "100 ml",
@@ -694,12 +1802,34 @@
   {
     "name": "Luna Rossa Black",
     "brand": "Prada",
-    "notes": ["bergamote", "ambre", "musc", "patchouli"],
-    "families": ["ambre", "boise", "aromatique"],
-    "sensations": ["sombre", "sensuel", "chaud"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["date", "soiree"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "ambre",
+      "musc",
+      "patchouli"
+    ],
+    "families": [
+      "ambre",
+      "boise",
+      "aromatique"
+    ],
+    "sensations": [
+      "sombre",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 101,
     "price_volume": "100 ml",
@@ -709,12 +1839,34 @@
   {
     "name": "Paradoxe Eau de Parfum",
     "brand": "Prada",
-    "notes": ["neroli", "jasmin", "ambre", "musc"],
-    "families": ["floral", "ambre"],
-    "sensations": ["lumineux", "propre", "sensuel"],
-    "seasons": ["printemps", "automne"],
-    "occasions": ["quotidien", "bureau", "date"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "neroli",
+      "jasmin",
+      "ambre",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "ambre"
+    ],
+    "sensations": [
+      "lumineux",
+      "propre",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 105,
     "price_volume": "50 ml",
@@ -724,12 +1876,36 @@
   {
     "name": "Eros Eau de Parfum",
     "brand": "Versace",
-    "notes": ["menthe", "citron", "vanille", "cedre"],
-    "families": ["aromatique", "boise", "ambre"],
-    "sensations": ["frais", "sucre", "puissant"],
-    "seasons": ["printemps", "automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "menthe",
+      "citron",
+      "vanille",
+      "cedre"
+    ],
+    "families": [
+      "aromatique",
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "frais",
+      "sucre",
+      "puissant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 95,
     "price_volume": "100 ml",
@@ -739,12 +1915,36 @@
   {
     "name": "Dylan Blue",
     "brand": "Versace",
-    "notes": ["bergamote", "pamplemousse", "encens", "musc"],
-    "families": ["aromatique", "aquatique", "boise"],
-    "sensations": ["frais", "propre", "puissant"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["quotidien", "bureau", "soiree"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "pamplemousse",
+      "encens",
+      "musc"
+    ],
+    "families": [
+      "aromatique",
+      "aquatique",
+      "boise"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "puissant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 2,
     "price_eur": 82,
     "price_volume": "100 ml",
@@ -754,12 +1954,34 @@
   {
     "name": "Bright Crystal",
     "brand": "Versace",
-    "notes": ["grenade", "pivoine", "musc", "ambre"],
-    "families": ["floral", "fruite", "frais"],
-    "sensations": ["lumineux", "leger", "propre"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["discret"],
+    "gender": "femme",
+    "notes": [
+      "grenade",
+      "pivoine",
+      "musc",
+      "ambre"
+    ],
+    "families": [
+      "floral",
+      "fruite",
+      "frais"
+    ],
+    "sensations": [
+      "lumineux",
+      "leger",
+      "propre"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
     "price_level": 2,
     "price_eur": 77,
     "price_volume": "90 ml",
@@ -769,12 +1991,34 @@
   {
     "name": "Light Blue Pour Homme",
     "brand": "Dolce&Gabbana",
-    "notes": ["pamplemousse", "bergamote", "romarin", "musc"],
-    "families": ["frais", "aromatique", "boise"],
-    "sensations": ["frais", "leger", "propre"],
-    "seasons": ["ete", "printemps"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["discret"],
+    "gender": "homme",
+    "notes": [
+      "pamplemousse",
+      "bergamote",
+      "romarin",
+      "musc"
+    ],
+    "families": [
+      "frais",
+      "aromatique",
+      "boise"
+    ],
+    "sensations": [
+      "frais",
+      "leger",
+      "propre"
+    ],
+    "seasons": [
+      "ete",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
     "price_level": 2,
     "price_eur": 78,
     "price_volume": "75 ml",
@@ -784,12 +2028,34 @@
   {
     "name": "The One Eau de Parfum",
     "brand": "Dolce&Gabbana",
-    "notes": ["gingembre", "cardamome", "tabac", "ambre"],
-    "families": ["epice", "ambre", "boise"],
-    "sensations": ["chaud", "sensuel", "elegant"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["date", "soiree"],
-    "performance": ["discret"],
+    "gender": "homme",
+    "notes": [
+      "gingembre",
+      "cardamome",
+      "tabac",
+      "ambre"
+    ],
+    "families": [
+      "epice",
+      "ambre",
+      "boise"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "discret"
+    ],
     "price_level": 3,
     "price_eur": 92,
     "price_volume": "100 ml",
@@ -799,12 +2065,36 @@
   {
     "name": "K by Dolce&Gabbana Eau de Parfum",
     "brand": "Dolce&Gabbana",
-    "notes": ["citron", "figue", "lavande", "cedre"],
-    "families": ["boise", "aromatique", "fruite"],
-    "sensations": ["frais", "elegant", "moderne"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["quotidien", "bureau", "date"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "citron",
+      "figue",
+      "lavande",
+      "cedre"
+    ],
+    "families": [
+      "boise",
+      "aromatique",
+      "fruite"
+    ],
+    "sensations": [
+      "frais",
+      "elegant",
+      "moderne"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 92,
     "price_volume": "100 ml",
@@ -814,12 +2104,35 @@
   {
     "name": "Burberry Goddess",
     "brand": "Burberry",
-    "notes": ["vanille", "lavande", "cacao", "gingembre"],
-    "families": ["gourmand", "ambre", "aromatique"],
-    "sensations": ["chaud", "doux", "elegant"],
-    "seasons": ["automne", "hiver", "printemps"],
-    "occasions": ["quotidien", "date"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "vanille",
+      "lavande",
+      "cacao",
+      "gingembre"
+    ],
+    "families": [
+      "gourmand",
+      "ambre",
+      "aromatique"
+    ],
+    "sensations": [
+      "chaud",
+      "doux",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 104,
     "price_volume": "50 ml",
@@ -829,12 +2142,34 @@
   {
     "name": "Burberry Hero Eau de Parfum",
     "brand": "Burberry",
-    "notes": ["pin", "benjoin", "cedre", "encens"],
-    "families": ["boise", "ambre"],
-    "sensations": ["chaud", "elegant", "puissant"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["bureau", "date", "soiree"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "pin",
+      "benjoin",
+      "cedre",
+      "encens"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "elegant",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 96,
     "price_volume": "50 ml",
@@ -844,12 +2179,35 @@
   {
     "name": "Boss Bottled Elixir",
     "brand": "Hugo Boss",
-    "notes": ["encens", "vetiver", "cedre", "patchouli"],
-    "families": ["boise", "ambre", "epice"],
-    "sensations": ["sombre", "puissant", "elegant"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "encens",
+      "vetiver",
+      "cedre",
+      "patchouli"
+    ],
+    "families": [
+      "boise",
+      "ambre",
+      "epice"
+    ],
+    "sensations": [
+      "sombre",
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 3,
     "price_eur": 105,
     "price_volume": "50 ml",
@@ -859,12 +2217,33 @@
   {
     "name": "Boss The Scent Magnetic",
     "brand": "Hugo Boss",
-    "notes": ["gingembre", "vanille", "musc"],
-    "families": ["ambre", "gourmand", "epice"],
-    "sensations": ["chaud", "sensuel", "cremeux"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["date", "soiree"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "gingembre",
+      "vanille",
+      "musc"
+    ],
+    "families": [
+      "ambre",
+      "gourmand",
+      "epice"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel",
+      "cremeux"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 96,
     "price_volume": "50 ml",
@@ -874,12 +2253,34 @@
   {
     "name": "H24 Eau de Parfum",
     "brand": "Hermès",
-    "notes": ["sauge", "mousse", "bois"],
-    "families": ["aromatique", "boise", "frais"],
-    "sensations": ["propre", "moderne", "elegant"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["bureau", "quotidien"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "sauge",
+      "mousse",
+      "bois"
+    ],
+    "families": [
+      "aromatique",
+      "boise",
+      "frais"
+    ],
+    "sensations": [
+      "propre",
+      "moderne",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "bureau",
+      "quotidien"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 101,
     "price_volume": "50 ml",
@@ -889,12 +2290,33 @@
   {
     "name": "Twilly d'Hermès Eau de Parfum",
     "brand": "Hermès",
-    "notes": ["gingembre", "tubereuse", "santal"],
-    "families": ["floral", "epice", "boise"],
-    "sensations": ["lumineux", "elegant", "sensuel"],
-    "seasons": ["printemps", "automne"],
-    "occasions": ["quotidien", "date"],
-    "performance": ["longue_tenue"],
+    "gender": "femme",
+    "notes": [
+      "gingembre",
+      "tubereuse",
+      "santal"
+    ],
+    "families": [
+      "floral",
+      "epice",
+      "boise"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 3,
     "price_eur": 101,
     "price_volume": "50 ml",
@@ -904,12 +2326,37 @@
   {
     "name": "Aventus",
     "brand": "Creed",
-    "notes": ["bergamote", "ananas", "cassis", "mousse"],
-    "families": ["fruite", "boise", "frais"],
-    "sensations": ["puissant", "elegant", "lumineux"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["bureau", "soiree", "quotidien"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "ananas",
+      "cassis",
+      "mousse"
+    ],
+    "families": [
+      "fruite",
+      "boise",
+      "frais"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree",
+      "quotidien"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 5,
     "price_eur": 295,
     "price_volume": "50 ml",
@@ -919,12 +2366,34 @@
   {
     "name": "Silver Mountain Water",
     "brand": "Creed",
-    "notes": ["bergamote", "cassis", "musc", "the"],
-    "families": ["frais", "aromatique", "musque"],
-    "sensations": ["propre", "leger", "elegant"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["quotidien", "bureau"],
-    "performance": ["longue_tenue"],
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "cassis",
+      "musc",
+      "the"
+    ],
+    "families": [
+      "frais",
+      "aromatique",
+      "musque"
+    ],
+    "sensations": [
+      "propre",
+      "leger",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 5,
     "price_eur": 260,
     "price_volume": "50 ml",
@@ -934,12 +2403,34 @@
   {
     "name": "Green Irish Tweed",
     "brand": "Creed",
-    "notes": ["citron", "violette", "santal", "ambre"],
-    "families": ["frais", "boise", "aromatique"],
-    "sensations": ["elegant", "propre", "frais"],
-    "seasons": ["printemps", "ete"],
-    "occasions": ["bureau", "quotidien"],
-    "performance": ["longue_tenue"],
+    "gender": "homme",
+    "notes": [
+      "citron",
+      "violette",
+      "santal",
+      "ambre"
+    ],
+    "families": [
+      "frais",
+      "boise",
+      "aromatique"
+    ],
+    "sensations": [
+      "elegant",
+      "propre",
+      "frais"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "bureau",
+      "quotidien"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
     "price_level": 5,
     "price_eur": 260,
     "price_volume": "50 ml",
@@ -949,12 +2440,35 @@
   {
     "name": "Naxos",
     "brand": "Xerjoff",
-    "notes": ["miel", "tabac", "lavande", "vanille"],
-    "families": ["gourmand", "aromatique", "ambre"],
-    "sensations": ["chaud", "sucre", "puissant"],
-    "seasons": ["automne", "hiver"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "mixte",
+    "notes": [
+      "miel",
+      "tabac",
+      "lavande",
+      "vanille"
+    ],
+    "families": [
+      "gourmand",
+      "aromatique",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sucre",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 5,
     "price_eur": 245,
     "price_volume": "100 ml",
@@ -964,12 +2478,36 @@
   {
     "name": "Erba Pura",
     "brand": "Xerjoff",
-    "notes": ["orange", "citron", "fruits", "musc"],
-    "families": ["fruite", "gourmand", "musque"],
-    "sensations": ["sucre", "lumineux", "puissant"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["soiree", "date"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "mixte",
+    "notes": [
+      "orange",
+      "citron",
+      "fruits",
+      "musc"
+    ],
+    "families": [
+      "fruite",
+      "gourmand",
+      "musque"
+    ],
+    "sensations": [
+      "sucre",
+      "lumineux",
+      "puissant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 5,
     "price_eur": 245,
     "price_volume": "100 ml",
@@ -979,12 +2517,37 @@
   {
     "name": "Bois Impérial",
     "brand": "Essential Parfums",
-    "notes": ["basilic", "vetiver", "patchouli", "bois"],
-    "families": ["boise", "aromatique", "frais"],
-    "sensations": ["moderne", "elegant", "puissant"],
-    "seasons": ["printemps", "ete", "automne"],
-    "occasions": ["quotidien", "bureau", "soiree"],
-    "performance": ["longue_tenue", "fort_sillage"],
+    "gender": "mixte",
+    "notes": [
+      "basilic",
+      "vetiver",
+      "patchouli",
+      "bois"
+    ],
+    "families": [
+      "boise",
+      "aromatique",
+      "frais"
+    ],
+    "sensations": [
+      "moderne",
+      "elegant",
+      "puissant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
     "price_level": 2,
     "price_eur": 94,
     "price_volume": "100 ml",
