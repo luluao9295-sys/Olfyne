@@ -1,0 +1,22 @@
+{
+  "Tobacco Vanille|Tom Ford":{"price_eur":255,"price_volume":"50 ml","price_status":"indicatif","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T01K01_2000x2000_0.png?v=1788421053&width=2000"},
+  "Jazz Club|Maison Margiela":{"price_eur":153,"price_volume":"100 ml","price_status":"officiel"},
+  "Santal 33|Le Labo":{"price_eur":212,"price_volume":"50 ml","price_status":"indicatif"},
+  "Bal d'Afrique|Byredo":{"price_eur":170,"price_volume":"50 ml","price_status":"officiel","image_url":"https://www.byredo.com/cdn-cgi/image/width%3D720%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/538055185084634e259189a2a72f806b/b/y/byr_ecom_26_fragrance_edp_50ml_bda_front_0037.jpg?width=1920"},
+  "Musc Ravageur|Frédéric Malle":{"price_eur":230,"price_volume":"50 ml","price_status":"officiel","image_url":"https://www.fredericmalle.eu/media/export/cms/Gnav/fm_sku_H47101_146x180_0.jpg"},
+  "Wood Sage & Sea Salt|Jo Malone London":{"price_eur":152,"price_volume":"100 ml","price_status":"officiel","image_url":"https://sdcdn.io/jm/jm_sku_L41501_3000x3000_0S.png?height=700px&width=700px"},
+  "Black Opium|Yves Saint Laurent":{"price_eur":117,"price_volume":"50 ml","price_status":"officiel","image_url":"https://lyko.com/globalassets/product-images/yves-saint-laurent-black-opium-edp-90ml-2064-133-0090_1.jpg"},
+  "Terre d'Hermès|Hermès":{"price_eur":128,"price_volume":"100 ml","price_status":"officiel","image_url":"https://assets.hermes.com/is/image/hermesproduct/terre-d-hermes-eau-de-toilette--107188V0-worn-2-0-0-800-800_g.jpg"},
+  "Oud Wood|Tom Ford":{"price_eur":266,"price_volume":"50 ml","price_status":"indicatif","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T1XF01_2000x2000_0.png?v=1789358409&width=2000"},
+  "Lost Cherry|Tom Ford":{"price_eur":358,"price_volume":"50 ml","price_status":"indicatif","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T6LN01_2000x2000_0.png?v=1789351281&width=2000"},
+  "Ombré Leather|Tom Ford":{"price_eur":239,"price_volume":"100 ml","price_status":"indicatif","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T5Y201_2000x2000_0.png?v=1789366336&width=2000"},
+  "Neroli Portofino|Tom Ford":{"price_eur":null,"price_volume":"50 ml","price_status":"à vérifier","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T0M901_2000x2000_0.png?v=1789332953&width=2000"},
+  "Grand Soir|Maison Francis Kurkdjian":{"price_eur":205,"price_volume":"70 ml","price_status":"officiel","image_url":"https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwf271d704/GRAND_SOIR/FRAGRANCE/3700559614242_GRAND_SOIR_EDP_70ML_1.png?q=85&sfrm=png&sh=700&strip=true&sw=700"},
+  "Baccarat Rouge 540|Maison Francis Kurkdjian":{"price_eur":265,"price_volume":"70 ml","price_status":"officiel","image_url":"https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwa46019b3/BACCARAT_ROUGE_540/FRAGRANCE/3700559603116_BR540_EDP_70ML_1.png?q=85&sfrm=png&sh=700&strip=true&sw=700"},
+  "Layton|Parfums de Marly":{"price_eur":225,"price_volume":"75 ml","price_status":"officiel"},
+  "Delina|Parfums de Marly":{"price_eur":285,"price_volume":"75 ml","price_status":"officiel","image_url":"https://parfums-de-marly.com/cdn/shop/files/DELINA-PERFUME-75-PACK1-1X1_CENTERED_1_4a6d11a8-5b19-4ffb-950b-15dda6043b65.png?v=1759501486&width=800"},
+  "Another 13|Le Labo":{"price_eur":200.25,"price_volume":"50 ml","price_status":"indicatif","image_url":"https://lelabo.ips.photos/lelabo-java/images/skus/050PA13100__PRODUCT_01--IMG_1200--ANOTHER13--122019503.jpg"},
+  "Gypsy Water|Byredo":{"price_eur":170,"price_volume":"50 ml","price_status":"officiel","image_url":"https://www.byredo.com/cdn-cgi/image/width%3Dauto%2Cheight%3D1200%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/0/806014_1_full_no.jpg"},
+  "Mojave Ghost|Byredo":{"price_eur":170,"price_volume":"50 ml","price_status":"officiel","image_url":"https://www.byredo.com/cdn-cgi/image/width%3Dauto%2Cheight%3D1200%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/0/0065204854_1_full_no.jpg"},
+  "Angel's Share|Kilian Paris":{"price_eur":186.75,"price_volume":"50 ml","price_status":"indicatif"}
+}
