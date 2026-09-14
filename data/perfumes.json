@@ -2,13 +2,14 @@
   {
     "name": "Tobacco Vanille",
     "brand": "Tom Ford",
-    "notes": ["vanille", "tabac", "tonka"],
+    "notes": ["vanille", "tabac", "tonka", "cacao"],
     "families": ["gourmand", "ambre", "epice"],
     "sensations": ["chaud", "sucre", "puissant", "sombre"],
     "seasons": ["hiver", "automne"],
     "occasions": ["soiree", "date"],
     "performance": ["longue_tenue", "fort_sillage"],
-    "price_level": 4
+    "price_level": 4,
+    "official_url": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum"
   },
   {
     "name": "Jazz Club",
@@ -35,13 +36,14 @@
   {
     "name": "Bal d'Afrique",
     "brand": "Byredo",
-    "notes": ["bergamote", "cedre", "vetiver"],
-    "families": ["frais", "boise"],
-    "sensations": ["elegant", "leger"],
+    "notes": ["bergamote", "cedre", "vetiver", "musc"],
+    "families": ["frais", "boise", "floral"],
+    "sensations": ["elegant", "leger", "lumineux"],
     "seasons": ["printemps", "ete"],
     "occasions": ["quotidien", "bureau"],
     "performance": ["discret"],
-    "price_level": 4
+    "price_level": 4,
+    "official_url": "https://www.byredo.com/eu_fr/p/bal-d-afrique-eau-de-parfum"
   },
   {
     "name": "Musc Ravageur",
@@ -86,5 +88,141 @@
     "occasions": ["bureau", "quotidien"],
     "performance": ["longue_tenue"],
     "price_level": 3
+  },
+  {
+    "name": "Oud Wood",
+    "brand": "Tom Ford",
+    "notes": ["oud", "santal", "cardamome", "ambre"],
+    "families": ["boise", "epice", "ambre"],
+    "sensations": ["sombre", "elegant", "chaud"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["soiree", "date", "bureau"],
+    "performance": ["longue_tenue"],
+    "price_level": 4,
+    "official_url": "https://www.tomfordbeauty.com/collections/fragrance"
+  },
+  {
+    "name": "Lost Cherry",
+    "brand": "Tom Ford",
+    "notes": ["cerise", "amande", "tonka"],
+    "families": ["fruite", "gourmand", "ambre"],
+    "sensations": ["sucre", "sensuel", "chaud"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["date", "soiree"],
+    "performance": ["longue_tenue"],
+    "price_level": 5,
+    "official_url": "https://www.tomfordbeauty.com/collections/fragrance"
+  },
+  {
+    "name": "Ombré Leather",
+    "brand": "Tom Ford",
+    "notes": ["cuir", "jasmin", "ambre"],
+    "families": ["cuire", "floral", "ambre"],
+    "sensations": ["puissant", "sombre", "sec"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 4,
+    "official_url": "https://www.tomfordbeauty.com/products/fragrance"
+  },
+  {
+    "name": "Neroli Portofino",
+    "brand": "Tom Ford",
+    "notes": ["neroli", "bergamote", "citron"],
+    "families": ["frais", "hesperide", "aromatique"],
+    "sensations": ["propre", "leger", "lumineux"],
+    "seasons": ["ete", "printemps"],
+    "occasions": ["quotidien", "bureau"],
+    "performance": ["discret"],
+    "price_level": 4,
+    "official_url": "https://www.tomfordbeauty.com/collections/fragrance"
+  },
+  {
+    "name": "Grand Soir",
+    "brand": "Maison Francis Kurkdjian",
+    "notes": ["ambre", "vanille", "benjoin"],
+    "families": ["ambre"],
+    "sensations": ["chaud", "elegant", "enveloppant", "sensuel"],
+    "seasons": ["hiver", "automne"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 5
+  },
+  {
+    "name": "Baccarat Rouge 540",
+    "brand": "Maison Francis Kurkdjian",
+    "notes": ["safran", "ambre", "cedre"],
+    "families": ["ambre", "boise"],
+    "sensations": ["puissant", "elegant", "sucre"],
+    "seasons": ["automne", "hiver", "printemps"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 5
+  },
+  {
+    "name": "Layton",
+    "brand": "Parfums de Marly",
+    "notes": ["vanille", "cardamome", "bergamote"],
+    "families": ["ambre", "boise", "epice"],
+    "sensations": ["chaud", "sensuel", "puissant"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 5
+  },
+  {
+    "name": "Delina",
+    "brand": "Parfums de Marly",
+    "notes": ["rose", "rhubarbe", "musc"],
+    "families": ["floral", "fruite"],
+    "sensations": ["lumineux", "elegant", "sensuel"],
+    "seasons": ["printemps", "ete"],
+    "occasions": ["date", "quotidien"],
+    "performance": ["longue_tenue"],
+    "price_level": 5
+  },
+  {
+    "name": "Another 13",
+    "brand": "Le Labo",
+    "notes": ["musc", "ambre"],
+    "families": ["musque", "ambre"],
+    "sensations": ["propre", "moderne", "leger"],
+    "seasons": ["printemps", "ete", "automne"],
+    "occasions": ["quotidien", "bureau", "date"],
+    "performance": ["longue_tenue"],
+    "price_level": 4
+  },
+  {
+    "name": "Gypsy Water",
+    "brand": "Byredo",
+    "notes": ["bergamote", "citron", "vanille", "santal"],
+    "families": ["boise", "frais"],
+    "sensations": ["leger", "elegant", "doux"],
+    "seasons": ["printemps", "ete", "automne"],
+    "occasions": ["quotidien", "bureau"],
+    "performance": ["discret"],
+    "price_level": 4
+  },
+  {
+    "name": "Mojave Ghost",
+    "brand": "Byredo",
+    "notes": ["santal", "ambre", "violette"],
+    "families": ["boise", "floral"],
+    "sensations": ["doux", "propre", "elegant"],
+    "seasons": ["printemps", "ete"],
+    "occasions": ["quotidien", "bureau", "date"],
+    "performance": ["discret"],
+    "price_level": 4
+  },
+  {
+    "name": "Angel's Share",
+    "brand": "Kilian Paris",
+    "notes": ["cognac", "cannelle", "tonka", "vanille"],
+    "families": ["gourmand", "ambre", "epice"],
+    "sensations": ["chaud", "sucre", "enveloppant", "puissant"],
+    "seasons": ["hiver", "automne"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 5
   }
 ]
