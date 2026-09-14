@@ -6078,5 +6078,7605 @@
     "price_volume": "100 ml",
     "price_status": "indicatif",
     "official_url": "https://amouage.com/"
+  },
+  {
+    "name": "Sauvage",
+    "brand": "Dior",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-parfum-Y0998004.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw8bef6812/Y0998004/Y0998004_C099600455_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bois Dargent",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/bois-dargent-Y0959160.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwbf974796/Y0959160/Y0959160_C099700390_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Joy De Dior",
+    "brand": "Dior",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/joy-de-dior-Y0996027.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwe5b20247/Y0996027/Y0996027_C099600151_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Jasmin Des Anges",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/jasmin-des-anges-Y0742427.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw4dfd8c10/Y0742427/Y0742427_C099700394_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Purple Oud",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/purple-oud-Y0786427.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw5252d57e/Y0786427/Y0786427_C099700399_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Rose Kabuki",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/rose-kabuki-Y0996013.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw18d79bb0/Y0996013/Y0996013_C099700400_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Holy Peony",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/holy-peony-Y0996109.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw7d4648ce/Y0996109/Y0996109_C099800306_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Dioramour",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/dioramour-Y0743427.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw2d2999cf/Y0743427/Y0743427_C099800302_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Spice Blend",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/spice-blend-Y0996128.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwfc5e759c/Y0996128/Y0996128_C099700403_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lucky",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/lucky-Y0750427.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwf1153739/Y0750427/Y0750427_C099700396_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Ecrin Miss Dior Mini Miss En Edition Limitee",
+    "brand": "Dior",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/ecrin-miss-dior-mini-miss-en-edition-limitee-Y0000213.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw2ef3835e/Y0000213/Y0000213_E000000937_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Dior Addict",
+    "brand": "Dior",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/dior-addict-Y0291000.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwdc0d105d/Y0291000/Y0291000_C029100727_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Dior Homme",
+    "brand": "Dior",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/dior-homme-eau-de-toilette-Y0996157.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw28c39135/Y0996157/Y0996157_C099600157_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Dior Hydra Life Eau Fraiche 2 En 1",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/dior-hydra-life-eau-fraiche-2-en-1-Y0996034.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw1df2ca47/Y0996034/Y0996034_C099600034_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Eau Sauvage Cologne",
+    "brand": "Dior",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/eau-sauvage-cologne-Y0997220.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwd1d81ec6/Y0997220/Y0997220_F099724009_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Miss Dior",
+    "brand": "Dior",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/miss-dior-extrait-de-parfum-original-Y0862150.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw4b1ae24b/Y0862150/Y0862150_F086215000_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Fahrenheit",
+    "brand": "Dior",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/fahrenheit-parfum-Y0866230.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw6d2f83b7/Y0866230/Y0866230_F086623009_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Eau Sauvage",
+    "brand": "Dior",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/eau-sauvage-parfum-Y0896220.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw350ab47e/Y0896220/Y0896220_F089622009_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Musc Elixir Precieux",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/musc-elixir-precieux-Y0046330.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwe2ea09e8/Y0046330/Y0046330_F004633000_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Hypnotic Poison",
+    "brand": "Dior",
+    "gender": "femme",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/hypnotic-poison-eau-de-toilette-Y0063401.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw26526182/Y0063401/Y0063401_F006344009_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Oud Elixir Precieux",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/oud-elixir-precieux-Y0046130.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw2b961504/Y0046130/Y0046130_F004613000_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Ambre Elixir Precieux",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/ambre-elixir-precieux-Y0046430.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw620406ba/Y0046430/Y0046430_F004643000_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Jadore",
+    "brand": "Dior",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/jadore-eau-de-toilette-roller-pearl-Y0996038.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/fr_FR/dwb2c50225/Y0996038/Y0996038_C099600482_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Patchouli Elixir Precieux",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/patchouli-elixir-precieux-Y0997037.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dweab96404/Y0997037/Y0997037_C099700199_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Miss Dior Blooming Bouquet Mini Miss",
+    "brand": "Dior",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/miss-dior-blooming-bouquet-mini-miss-parfum-solide-Y0997138.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw8665a2d4/Y0997138/Y0997138_C099700676_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Gris Dior Esprit De",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/gris-dior-esprit-de-parfum-Y0997181.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw305ede61/Y0997181/Y0997181_C099700667_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Ambre Nuit Esprit De",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/ambre-nuit-esprit-de-parfum-Y0997182.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwe0dfe94d/Y0997182/Y0997182_C099700797_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Oud Ispahan Esprit De",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/oud-ispahan-esprit-de-parfum-Y0997183.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw6ac1c75e/Y0997183/Y0997183_C099800163_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Rouge Trafalgar Esprit De",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/rouge-trafalgar-esprit-de-parfum-Y0997184.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwf4639b25/Y0997184/Y0997184_C099800161_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lucky Esprit De",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/lucky-esprit-de-parfum-Y0997185.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw5aaf76d9/Y0997185/Y0997185_C099800162_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "La Palette Du",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/la-palette-du-parfumeur-Y0000408.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw6f2bae17/Y0000408/Y0000408_E000002005_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Flaconnier Esprit De",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/flaconnier-esprit-de-parfum---edition-limitee-Y0000025.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw35dbd14e/Y0000025/Y0000025_E000000274_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Palette Du",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/palette-du-parfumeur-Y0000085.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw64455a8e/Y0000085/Y0000085_E000000281_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bougies",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/bougies-parfumees-Y0000229.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwf26e5cf5/Y0000229/Y0000229_E000000393_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bois Dargent Esprit De",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/bois-dargent-esprit-de-parfum-Y0000089.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwbf4d9bc6/Y0000089/Y0000089_E000000484_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Sauvage Extrait",
+    "brand": "Dior",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-extrait-Y0000281.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwf522897c/Y0000281/Y0000281_E000001620_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Palette Florale Du",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 78,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/palette-florale-du-parfumeur-Y0000146.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwcdeaf8f2/Y0000146/Y0000146_E000001193_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Jasmin Des Anges Esprit De",
+    "brand": "Dior",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 4,
+    "price_eur": 160,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/jasmin-des-anges-esprit-de-parfum-Y0000268.html",
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwa7792ef4/Y0000268/Y0000268_E000001785_E01_RHC.jpg",
+    "image_status": "official-sitemap",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Coco Noir",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 48,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/113620/coco-noir-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/coco-noir-eau-de-parfum-spray-1-2fl-oz--packshot-default-113620-9564844621854.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Cuir De Russie",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122040/cuir-de-russie-eau-de-parfum-ambre-cuire-floral/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-6681228.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°18",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 460,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122260/n18-eau-de-parfum-boise-floral-musque/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-45641707.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "La Pausa",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 460,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122270/la-pausa-eau-de-parfum-floral-poudre-boise/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-45641690.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Gabrielle Chanel",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120440/gabrielle-chanel-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/gabrielle-chanel-eau-de-parfum-spray-1-2fl-oz--packshot-default-120440-9564844883998.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Cristalle",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 48,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/115690/cristalle-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/cristalle-eau-de-toilette-spray-3-4fl-oz--packshot-default-115690-9536315654174.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Le Lion De Chanel",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122180/le-lion-de-chanel-eau-de-parfum-ambre-boise-intense/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-6508695.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Coco Mademoiselle",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 46,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/116650/coco-mademoiselle-eau-de-parfum-intense-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/coco-mademoiselle-eau-de-parfum-intense-spray-1-7fl-oz--packshot-default-116650-9564887842846.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Chance Eau Tendre",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/126290/chance-eau-tendre-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/chance-eau-tendre-eau-de-toilette-spray-1-2fl-oz--packshot-default-126290-9564851601438.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Carte Cadeau",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 82,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.chanel.com/fr/parfums/p/087203/carte-cadeau/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.chanel.com/fr/parfums/p/087203/carte-cadeau/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-sitemap-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Cuir De Russie Extrait Ambre Cuire Floral",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120110/cuir-de-russie-extrait-ambre-cuire-floral/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/cuir-de-russie-extrait-sans-coupe-fil-ambery-leathery-floral-1fl-oz--packshot-default-120110-9591304716318.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Chance Eau Vive",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 40,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/126570/chance-eau-vive-eau-de-toilette/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/chance-eau-vive-eau-de-toilette-spray-5fl-oz--packshot-default-126570-9564893413406.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Chance Eau Splendide",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 48,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/136210/chance-eau-splendide-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.45,h_0.45,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/chance-eau-splendide-eau-de-parfum-spray-1-7fl-oz--packshot-default-136210-9561648758814.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Allure Homme Sport Eau Extreme",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 45,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/123560/allure-homme-sport-eau-extreme-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/allure-homme-sport-eau-extreme-eau-de-parfum-spray-3-4fl-oz--packshot-default-123560-9564919988254.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Gabrielle Chanel Leau",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120350/gabrielle-chanel-leau/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/gabrielle-chanel-l-eau-eau-de-toilette-spray-1-7fl-oz--packshot-default-120350-9541915082782.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bois Des Iles Extrait Lecrin Boise Ambre Epice",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120068/bois-des-iles-extrait-lecrin-boise-ambre-epice/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310837.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Comete",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122490/comete-eau-de-parfum-floral-poudre-musque/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-44281447.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Coco Mademoiselle Leau Privee Eau Pour La Nuit",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 34,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/116250/coco-mademoiselle-leau-privee-eau-pour-la-nuit/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/coco-mademoiselle-l-eau-privee-eau-pour-la-nuit-spray-1-7fl-oz--packshot-default-116250-9564865691678.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°5",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/125530/n5-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/n-5-eau-de-parfum-spray-3-4fl-oz--packshot-default-125530-9564912943134.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Coco",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 55,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/113420/coco-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/coco-eau-de-parfum-spray-1-2fl-oz--packshot-default-113420-9595447902238.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Gabrielle Chanel Essence",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 62,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120620/gabrielle-chanel-essence-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/gabrielle-chanel-essence-eau-de-parfum-spray-1-7fl-oz--packshot-default-120620-9564846981150.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Chance Eau Fraiche",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 48,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/136460/chance-eau-fraiche-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/chance-eau-fraiche-eau-de-parfum-spray-5fl-oz--packshot-default-136460-9543031586846.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°19 Poudre",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/119490/n19-poudre-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/n-19-poudre-eau-de-parfum-spray-3-4fl-oz--packshot-default-119490-9564912713758.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Allure",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 58,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/112430/allure-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/allure-eau-de-parfum-spray-1-7fl-oz--packshot-default-112430-9564892823582.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Extrait Lecrin Ambre Musque Floral",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120064/1957-extrait-lecrin-ambre-musque-floral/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310708.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Allure Homme Sport All Over Spray",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 47,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/123710/allure-homme-sport-all-over-spray/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/allure-homme-sport-all-over-spray-3-4fl-oz--packshot-default-123710-9586168987678.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bleu De Chanel",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 47,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/107460/bleu-de-chanel-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/bleu-de-chanel-eau-de-toilette-spray-3-4fl-oz--packshot-default-107460-9564920184862.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Coco Mademoiselle Crush Absolu Ambre Intense",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 55,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/116190/coco-mademoiselle-crush-absolu-ambre-intense/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/coco-mademoiselle-crush-absolu-ambery-intense-3-4fl-oz--packshot-default-116190-9591355113502.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Misia",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 460,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122340/misia-eau-de-parfum-floral-poudre-ambre/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-45641534.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Eau De Cologne Zeste Frais Floral",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/101270/eau-de-cologne-zeste-frais-floral/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-7488045.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°19",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/119690/n19-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/n-19-eau-de-toilette-spray-3-4fl-oz--packshot-default-119690-9536317390878.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Allure Homme All Over Spray",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 45,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/121820/allure-homme-all-over-spray/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/allure-homme-all-over-spray-3-4fl-oz--packshot-default-121820-9522413469726.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Egoiste",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 45,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/114460/egoiste-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/egoiste-eau-de-toilette-spray-3-4fl-oz--packshot-default-114460-9564892069918.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Coco Mademoiselle Fragrance Primer",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 46,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/116690/coco-mademoiselle-fragrance-primer/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/coco-mademoiselle-fragrance-primer-3-4fl-oz--packshot-default-116690-9565210509342.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Extrait Ambre Musque Floral",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120102/1957-extrait-ambre-musque-floral/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/1957-extrait-sans-coupe-fil-ambery-musky-floral-1fl-oz--packshot-default-120102-9591305043998.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "E Carte Cadeau",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 118,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/096010/e-carte-cadeau/",
+    "image_url": "https://www.chanel.com/images/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_1920/coco-mademoiselle-crush-absolu-ambery-intense-3-4fl-oz--packshot-default-116190-9591355113502.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Allure Sensuelle",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 70,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/129730/allure-sensuelle-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/allure-sensuelle-eau-de-parfum-spray-3-4fl-oz--packshot-default-129730-9564893708318.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Gabrielle Chanel Fragrance Primer",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 72,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120840/gabrielle-chanel-fragrance-primer/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/gabrielle-chanel-fragrance-primer-5fl-oz--packshot-default-120840-9567010521118.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Gardenia",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 460,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122210/gardenia-eau-de-parfum-floral-bouquet-intense/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-45642212.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°5 Eau Premiere",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/105340/n5-eau-premiere-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/n-5-eau-premiere-eau-de-parfum-spray-3-4fl-oz--packshot-default-105340-9564910321694.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Cristalle Eau Verte",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 48,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/111690/cristalle-eau-verte-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/cristalle-eau-verte-eau-de-parfum-spray-3-4fl-oz--packshot-default-111690-9536316637214.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Allure Homme",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 45,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/121450/allure-homme-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/allure-homme-eau-de-toilette-spray-1-7fl-oz--packshot-default-121450-9564889874462.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Gardenia Extrait Lecrin Floral Bouquet Intense",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120074/gardenia-extrait-lecrin-floral-bouquet-intense/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310720.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Beige",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 460,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122310/beige-eau-de-parfum-floral-intense-mielle/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-45641616.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°22 Extrait Lecrin Floral Poudre Aldehyde",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120078/n22-extrait-lecrin-floral-poudre-aldehyde/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310733.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Coromandel",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 460,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122290/coromandel-eau-de-parfum-ambre-boise-vanille/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-45641639.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°5 Leau On Hand Cream",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/105580/n5-leau-on-hand-cream/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/n-5-l-eau-on-hand-cream-1-7fl-oz--packshot-default-105580-9564842590238.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bleu De Chanel Soin Hydratant 3 En 1",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 47,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/107580/bleu-de-chanel-soin-hydratant-3-en-1/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/bleu-de-chanel-3-in-1-moisturizer-3fl-oz--packshot-default-107580-9541427167262.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Sycomore",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122100/sycomore-eau-de-parfum-boise-ambre-intense/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-6747146.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Coromandel Extrait Lecrin Ambre Boise Vanille",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120070/coromandel-extrait-lecrin-ambre-boise-vanille/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310822.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Cuir De Russie Extrait Lecrin Ambre Cuire Floral",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120072/cuir-de-russie-extrait-lecrin-ambre-cuire-floral/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310787.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°5 Extrait Lecrin Floral Abstrait Intense",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 475,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120080/n5-extrait-lecrin-floral-abstrait-intense/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310828.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Pour Monsieur",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 60,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/117460/pour-monsieur-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.55,h_0.55,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/pour-monsieur-eau-de-toilette-3-4fl-oz--packshot-default-117460-9564890791966.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Allure Homme Sport Superleggera",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 45,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/123410/allure-homme-sport-superleggera-eau-de-parfum/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/allure-homme-sport-superleggera-eau-de-parfum-spray-3-4fl-oz--packshot-default-123410-9549072662558.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bel Respiro",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122080/bel-respiro-eau-de-parfum-aromatique-vert-floral/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-6747132.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bois Des Iles Extrait Boise Ambre Epice",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120106/bois-des-iles-extrait-boise-ambre-epice/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/bois-des-iles-extrait-sans-coupe-fil-woody-ambery-spicy-1fl-oz--packshot-default-120106-9591304978462.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Eau De",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122160/1957-eau-de-parfum-ambre-musque-floral/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-6743954.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Chance",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/126460/chance-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/chance-eau-de-toilette-spray-3-4fl-oz--packshot-default-126460-9564893937694.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Paris Deauville Les Eaux De Chanel",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 55,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/102600/paris-deauville-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/paris-deauville-les-eaux-de-chanel-eau-de-toilette-spray-1-7fl-oz--packshot-default-102600-9589583806494.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°5 Leau",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/105510/n5-leau-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/n-5-l-eau-eau-de-toilette-spray-1-2fl-oz--packshot-default-105510-9564841705502.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Paris Paris Les Eaux De Chanel",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 51,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/102440/paris-paris-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/paris-paris-les-eaux-de-chanel-eau-de-toilette-spray-4-2fl-oz--packshot-default-102440-9564863004702.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Platinum Egoiste",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 60,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/124450/platinum-egoiste-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/platinum-egoiste-eau-de-toilette-spray-1-7fl-oz--packshot-default-124450-9564854452254.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Extrait Lecrin Floral Fruite Boise",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120062/1932-extrait-lecrin-floral-fruite-boise/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310687.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Coromandel Extrait Ambre Boise Vanille",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120108/coromandel-extrait-ambre-boise-vanille/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/coromandel-extrait-sans-coupe-fil-ambery-woody-vanilla-1fl-oz--packshot-default-120108-9591304814622.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Boy Chanel",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 460,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122350/boy-chanel-eau-de-parfum-aromatique-floral-boise/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-45641468.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°22",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122020/n22-eau-de-parfum-floral-poudre-aldehyde/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-6747094.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Allure Homme Sport Cologne",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 45,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/123320/allure-homme-sport-cologne-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/allure-homme-sport-cologne-3-4fl-oz--packshot-default-123320-9564892692510.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Paris Riviera Les Eaux De Chanel",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 60,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/102430/paris-riviera-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/paris-riviera-les-eaux-de-chanel-eau-de-toilette-spray-4-2fl-oz--packshot-default-102430-9589583773726.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Jersey",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 460,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122320/jersey-eau-de-parfum-aromatique-musque-vanille/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-45641579.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Allure Homme Edition Blanche",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 45,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/127450/allure-homme-edition-blanche-eau-de-parfum-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/allure-homme-edition-blanche-eau-de-parfum-spray-1-7fl-oz--packshot-default-127450-9564890824734.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Jersey Extrait Aromatique Musque Vanille",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120114/jersey-extrait-aromatique-musque-vanille/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/jersey-extrait-sans-coupe-fil-aromatic-musky-vanilla-1fl-oz--packshot-default-120114-9591304847390.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bois Des Iles",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122030/bois-des-iles-eau-de-parfum-boise-ambre-epice/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-6747111.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°22 Extrait Floral Poudre Aldehyde",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120116/n22-extrait-floral-poudre-aldehyde/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/n-22-extrait-sans-coupe-fil-floral-powdery-aldehydic-1fl-oz--packshot-default-120116-9591304781854.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Beige Extrait Floral Intense Mielle",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120104/beige-extrait-floral-intense-mielle/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/beige-extrait-sans-coupe-fil-floral-intense-honey-1fl-oz--packshot-default-120104-9591305011230.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Extrait Floral Fruite Boise",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120100/1932-extrait-floral-fruite-boise/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/1932-extrait-sans-coupe-fil-floral-fruity-woody-1fl-oz--packshot-default-120100-9591304945694.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Beige Extrait Lecrin Floral Intense Mielle",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120066/beige-extrait-lecrin-floral-intense-mielle/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310797.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Rue Cambon",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/122050/31-rue-cambon-eau-de-parfum-boise-floral-epice/",
+    "image_url": "https://www.chanel.com/images/as/w_0.51,h_0.51,c_crop//f_auto//-6747101.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bleu De Chanel Lexclusif",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 45,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/107230/bleu-de-chanel-lexclusif/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.42,h_0.42,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/bleu-de-chanel-l-exclusif-parfum-spray-5-4fl-oz--packshot-default-107230-9586135498782.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Paris Edimbourg Les Eaux De Chanel",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 55,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/102747/paris-edimbourg-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/paris-edimbourg-les-eaux-de-chanel-eau-de-toilette-spray-4-2fl-oz--packshot-default-102747-9589583872030.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Sycomore Extrait Boise Ambre Intense",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120124/sycomore-extrait-boise-ambre-intense/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/sycomore-extrait-sans-coupe-fil-woody-ambery-intense-1fl-oz--packshot-default-120124-9591304912926.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "N°5 Extrait Floral Abstrait Intense",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120120/n5-extrait-floral-abstrait-intense/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/n-5-extrait-floral-abstract-intense-1fl-oz--packshot-default-120120-9591304880158.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bleu De Chanel All Over Spray",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 47,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/107520/bleu-de-chanel-all-over-spray/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.60,h_0.6,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/bleu-de-chanel-all-over-spray-3-4fl-oz--packshot-default-107520-9541427134494.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Paris Venise Les Eaux De Chanel",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 55,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/102420/paris-venise-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/paris-venise-les-eaux-de-chanel-eau-de-toilette-spray-4-2fl-oz--packshot-default-102420-9564855500830.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Les Eaux De Chanel Le Voyage Collection De 6",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 165,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/102108/les-eaux-de-chanel-le-voyage-collection-de-6-vaporisateurs-pour-le-voyage/",
+    "image_url": "https://www.chanel.com/images//t_one/w_1.10,h_1.10,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/les-eaux-de-chanel-le-voyage-collection-of-6-travel-sprays-6-x-0-5fl-oz--packshot-default-102108-9587389857822.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Gardenia Extrait Floral Bouquet Intense",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 380,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120112/gardenia-extrait-floral-bouquet-intense/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/gardenia-extrait-sans-coupe-fil-floral-bouquet-intense-1fl-oz--packshot-default-120112-9591304749086.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Paris Biarritz Les Eaux De Chanel",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 70,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/102410/paris-biarritz-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/paris-biarritz-les-eaux-de-chanel-eau-de-toilette-spray-4-2fl-oz--packshot-default-102410-9564851535902.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Sycomore Extrait Lecrin Boise Ambre Intense",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120082/sycomore-extrait-lecrin-boise-ambre-intense/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310809.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Antaeus",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 60,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/118460/antaeus-eau-de-toilette-vaporisateur/",
+    "image_url": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_620/antaeus-eau-de-toilette-spray-3-4fl-oz--packshot-default-118460-9564891316254.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Jersey Extrait Lecrin Aromatique Musque Vanille",
+    "brand": "Chanel",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 440,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.chanel.com/fr/parfums/p/120076/jersey-extrait-lecrin-aromatique-musque-vanille/",
+    "image_url": "https://www.chanel.com/images/as/w_0.6,h_0.6,c_crop//f_auto//-82310701.jpg",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Bougie",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 139,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-bougie-parfumee-personnalisable-B000001.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Oud Nude",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-oud-nude-eau-de-parfum-G014492.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Cherry Oud",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-cherry-oud---eau-de-parfum-G014493.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Oud Khol",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-oud-khol-eau-de-parfum-G014494.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Jasmin Bonheur",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-jasmin-bonheur---eau-de-parfum-G014658.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Tobacco Honey",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-tobacco-honey-eau-de-parfum-G014726.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Bergamote Fantastico Extrait 11   Extrait",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 550,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-bergamote-fantastico-extrait-11---extrait-G014750.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Jasmin Grandiflorum Extrait 30   Extrait",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 550,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-jasmin-grandiflorum-extrait-30---extrait-G014751.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Iris Pallida Extrait 6   Extrait",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 550,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-iris-pallida-extrait-6---extrait-G014753.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Vanille Planifolia Extrait 21 Extrait",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 550,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-vanille-planifolia-extrait-21-extrait-G014754.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Rose Centifolia Extrait 1 Extrait",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 550,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-rose-centifolia-extrait-1-extrait-G014755.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Neroli Plein Sud",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-neroli-plein-sud-eau-de-parfum-G014792.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Feve Gourmande",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-feve-gourmande-eau-de-parfum-G014799.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Patchouli Paris",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-patchouli-paris-eau-de-parfum-G014881.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Peche Mirage",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-peche-mirage---eau-de-parfum-G014918.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Angelique Noire",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-angelique-noire-eau-de-parfum-G017898.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Cruel Gardenia",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-cruel-gardenia-eau-de-parfum-G017902.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Cuir Beluga",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-cuir-beluga-eau-de-parfum-G017904.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Spiritueuse Double Vanille",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-spiritueuse-double-vanille-eau-de-parfum-G017906.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Joyeuse Tubereuse",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-joyeuse-tubereuse-eau-de-parfum-G017908.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Neroli Outrenoir",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-neroli-outrenoir-eau-de-parfum-G017910.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Rose Barbare",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-rose-barbare-eau-de-parfum-G017912.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Epices Volees",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-epices-volees-eau-de-parfum-G017932.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Herbes Troublantes",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-herbes-troublantes-eau-de-parfum-G017940.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Rose Cherie",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "rose",
+      "jasmin",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-rose-cherie-eau-de-parfum-G018104.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Santal Pao Rosa",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-santal-pao-rosa-eau-de-parfum-G018120.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Musc Outreblanc",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-musc-outreblanc-eau-de-parfum-G018223.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Orchidee Imperiale Black Extrait Prive Lumiere",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 550,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-black-extrait-prive-lumiere-G062005.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Orchidee Imperiale Black Extrait Prive Recuperation",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 550,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-black-extrait-prive-recuperation-G062007.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Orchidee Imperiale Black Extrait Prive Renouveau",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 5,
+    "price_eur": 550,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-black-extrait-prive-renouveau-G062008.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Vetiver Fauve",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 335,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-vetiver-fauve---eau-de-parfum-G062111.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Eau De Coton",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 215,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-coton---eau-de-toilette-G062212.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Eau De Popeline",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 215,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-popeline-eau-de-toilette-G062214.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Eau De Lingerie",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 215,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-lingerie-eau-de-toilette-G062216.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Eau De Tulle",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 215,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-tulle-eau-de-parfum-G062218.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Lart La Matiere Eau De Cashmere",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 215,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-cashmere-eau-de-toilette-G062220.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "La Petite Robe Noire",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 74,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/la-petite-robe-noire-eau-de-toilette-P014926.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Les Colognes Eau De Cologne Imperiale",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 118,
+    "price_volume": "50 ml",
+    "price_status": "officiel",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/les-colognes-eau-de-cologne-imperiale-P021766.html",
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png",
+    "image_status": "official-product-page",
+    "link_status": "verified-official-product",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Terre D Hermes Eau Intense Vetiver",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-intense-vetiver-eau-de-parfum-V100057V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-intense-vetiver-eau-de-parfum-V100057V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Un Jardin Sur La Lagune",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-la-lagune-eau-de-toilette-V100079V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/un-jardin-sur-la-lagune-eau-de-toilette-V100079V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "H24",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-toilette-V101561V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/h24-eau-de-toilette-V101561V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "L Ombre Des Merveilles",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/l-ombre-des-merveilles-eau-de-parfum-V101653V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/l-ombre-des-merveilles-eau-de-parfum-V101653V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Eau D Orange Verte Eau De Cologne",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/eau-d-orange-verte-eau-de-cologne-V101914V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/eau-d-orange-verte-eau-de-cologne-V101914V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Twilly D Hermes Eau Ginger",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-ginger-eau-de-parfum-V103949V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-ginger-eau-de-parfum-V103949V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Eau Des Merveilles Bleue",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/eau-des-merveilles-bleue-eau-de-toilette-V107059V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/eau-des-merveilles-bleue-eau-de-toilette-V107059V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Elixir Des Merveilles",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/elixir-des-merveilles-eau-de-parfum-V107061V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/elixir-des-merveilles-eau-de-parfum-V107061V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Violette Volynka",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/violette-volynka-eau-de-toilette-V107109V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/violette-volynka-eau-de-toilette-V107109V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Cardamusc Essence De",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/cardamusc-essence-de-parfum-V107117V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/cardamusc-essence-de-parfum-V107117V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Eau De Rhubarbe Ecarlate Eau De Cologne",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/eau-de-rhubarbe-ecarlate-eau-de-cologne-V107155V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/eau-de-rhubarbe-ecarlate-eau-de-cologne-V107155V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Twilly D Hermes Eau Poivree",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-poivree-eau-de-parfum-V107167V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-poivree-eau-de-parfum-V107167V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Terre D Hermes",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "L Ambre Des Merveilles",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/l-ambre-des-merveilles-eau-de-parfum-V107245V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/l-ambre-des-merveilles-eau-de-parfum-V107245V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Twilly D Hermes",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-de-parfum-V107263V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-de-parfum-V107263V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Faubourg",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/24-faubourg-eau-de-parfum-V107375V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/24-faubourg-eau-de-parfum-V107375V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Bel Ami Vetiver",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/bel-ami-vetiver-eau-de-toilette-V107386V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/bel-ami-vetiver-eau-de-toilette-V107386V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Caleche",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/caleche-eau-de-toilette-V107388V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/caleche-eau-de-toilette-V107388V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Caleche Soie De",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/caleche-soie-de-parfum-V107397V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/caleche-soie-de-parfum-V107397V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Rocabar",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/rocabar-eau-de-toilette-V107401V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/rocabar-eau-de-toilette-V107401V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Equipage",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/equipage-eau-de-toilette-V107405V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/equipage-eau-de-toilette-V107405V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Vetiver Tonka",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/vetiver-tonka-eau-de-toilette-V107432V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/vetiver-tonka-eau-de-toilette-V107432V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Hiris",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/hiris-eau-de-toilette-V107436V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/hiris-eau-de-toilette-V107436V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Terre D Hermes Eau Givree",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Jour D Hermes Absolu",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/jour-d-hermes-absolu-eau-de-parfum-V107548V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/jour-d-hermes-absolu-eau-de-parfum-V107548V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Voyage D Hermes",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/voyage-d-hermes-eau-de-toilette-V107568V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/voyage-d-hermes-eau-de-toilette-V107568V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Amazone",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/amazone-eau-de-toilette-V108306V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/amazone-eau-de-toilette-V108306V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Rouge Hermes",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/rouge-hermes-eau-de-toilette-V108307V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/rouge-hermes-eau-de-toilette-V108307V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Un Jardin A Cythere",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-a-cythere-eau-de-toilette-V109287V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/un-jardin-a-cythere-eau-de-toilette-V109287V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Barenia",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Tutti Twilly D Hermes",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/tutti-twilly-d-hermes-eau-de-parfum-V110825V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/tutti-twilly-d-hermes-eau-de-parfum-V110825V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Oud Alezan",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/oud-alezan-eau-de-parfum-V113467V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/oud-alezan-eau-de-parfum-V113467V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Agar Ebene",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "musc",
+      "bois"
+    ],
+    "families": [
+      "frais",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "modere"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/agar-ebene-eau-de-toilette-V113482V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/agar-ebene-eau-de-toilette-V113482V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Ambre Narguile",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "vanille",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
+  },
+  {
+    "name": "Cuir D Ange",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "bois",
+      "ambre",
+      "epices"
+    ],
+    "families": [
+      "boise",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 76,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/product/cuir-d-ange-eau-de-toilette-V113484V0/",
+    "image_url": "https://image.thum.io/get/width/700/crop/700/noanimate/https://www.hermes.com/fr/fr/product/cuir-d-ange-eau-de-toilette-V113484V0/",
+    "image_status": "official-page-preview",
+    "link_status": "verified-official-sitemap",
+    "verified_at": "2026-09-14"
   }
 ]
