@@ -2553,5 +2553,3530 @@
     "price_volume": "100 ml",
     "price_status": "indicatif",
     "official_url": "https://www.essentialparfums.com/fr/"
+  },
+  {
+    "name": "Vibrant Leather",
+    "brand": "Zara",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "cuir",
+      "cedre"
+    ],
+    "families": [
+      "boise",
+      "cuire",
+      "frais"
+    ],
+    "sensations": [
+      "moderne",
+      "sec",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 35,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.zara.com/fr/fr/homme-parfums-l551.html"
+  },
+  {
+    "name": "Rich Warm Addictive",
+    "brand": "Zara",
+    "gender": "homme",
+    "notes": [
+      "rhum",
+      "vanille",
+      "tabac"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sucre",
+      "enveloppant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 30,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.zara.com/fr/fr/homme-parfums-l551.html"
+  },
+  {
+    "name": "Red Temptation",
+    "brand": "Zara",
+    "gender": "femme",
+    "notes": [
+      "safran",
+      "ambre",
+      "musc"
+    ],
+    "families": [
+      "ambre",
+      "boise"
+    ],
+    "sensations": [
+      "puissant",
+      "sucre",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 1,
+    "price_eur": 30,
+    "price_volume": "80 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.zara.com/fr/fr/femme-parfums-l1415.html"
+  },
+  {
+    "name": "Gardenia",
+    "brand": "Zara",
+    "gender": "femme",
+    "notes": [
+      "fleur_oranger",
+      "cafe",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "gourmand"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 26,
+    "price_volume": "90 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.zara.com/fr/fr/femme-parfums-l1415.html"
+  },
+  {
+    "name": "Vanille Bourbon",
+    "brand": "Adopt",
+    "gender": "femme",
+    "notes": [
+      "vanille",
+      "caramel",
+      "musc"
+    ],
+    "families": [
+      "gourmand"
+    ],
+    "sensations": [
+      "sucre",
+      "doux",
+      "cremeux"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 17,
+    "price_volume": "30 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.adopt.com/fr/parfums.html"
+  },
+  {
+    "name": "Blue Suit",
+    "brand": "Adopt",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "lavande",
+      "cedre"
+    ],
+    "families": [
+      "aromatique",
+      "boise",
+      "frais"
+    ],
+    "sensations": [
+      "propre",
+      "moderne",
+      "frais"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 17,
+    "price_volume": "30 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.adopt.com/fr/parfums.html"
+  },
+  {
+    "name": "Fleur de Cerisier",
+    "brand": "Adopt",
+    "gender": "femme",
+    "notes": [
+      "cerise",
+      "rose",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "fruite"
+    ],
+    "sensations": [
+      "doux",
+      "lumineux",
+      "leger"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 17,
+    "price_volume": "30 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.adopt.com/fr/parfums.html"
+  },
+  {
+    "name": "Vanille",
+    "brand": "Solinotes",
+    "gender": "femme",
+    "notes": [
+      "vanille",
+      "tonka",
+      "musc"
+    ],
+    "families": [
+      "gourmand"
+    ],
+    "sensations": [
+      "sucre",
+      "doux",
+      "cremeux"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 20,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://solinotes.com/collections/eaux-de-parfum"
+  },
+  {
+    "name": "Thé Blanc",
+    "brand": "Solinotes",
+    "gender": "mixte",
+    "notes": [
+      "the",
+      "bergamote",
+      "musc"
+    ],
+    "families": [
+      "frais",
+      "musque"
+    ],
+    "sensations": [
+      "propre",
+      "leger",
+      "doux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 20,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://solinotes.com/collections/eaux-de-parfum"
+  },
+  {
+    "name": "Cuir de Nuit",
+    "brand": "Yves Rocher",
+    "gender": "femme",
+    "notes": [
+      "cuir",
+      "vanille",
+      "cacao"
+    ],
+    "families": [
+      "cuire",
+      "gourmand"
+    ],
+    "sensations": [
+      "chaud",
+      "sensuel",
+      "sombre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 39,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.yves-rocher.fr/parfum/c/20000"
+  },
+  {
+    "name": "Hoggar",
+    "brand": "Yves Rocher",
+    "gender": "homme",
+    "notes": [
+      "cedre",
+      "lavande",
+      "tonka"
+    ],
+    "families": [
+      "boise",
+      "aromatique"
+    ],
+    "sensations": [
+      "chaud",
+      "elegant",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 39,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.yves-rocher.fr/parfum/c/20000"
+  },
+  {
+    "name": "Comme une Évidence",
+    "brand": "Yves Rocher",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "patchouli",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "elegant",
+      "propre",
+      "doux"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 39,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.yves-rocher.fr/parfum/c/20000"
+  },
+  {
+    "name": "Bois d'Orange",
+    "brand": "Roger&Gallet",
+    "gender": "mixte",
+    "notes": [
+      "orange",
+      "cedre",
+      "vetiver"
+    ],
+    "families": [
+      "hesperide",
+      "boise",
+      "frais"
+    ],
+    "sensations": [
+      "lumineux",
+      "frais",
+      "leger"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 29,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.roger-gallet.com/fr-fr/parfums"
+  },
+  {
+    "name": "Fleur de Figuier",
+    "brand": "Roger&Gallet",
+    "gender": "femme",
+    "notes": [
+      "figue",
+      "musc",
+      "mandarine"
+    ],
+    "families": [
+      "fruite",
+      "musque"
+    ],
+    "sensations": [
+      "doux",
+      "lumineux",
+      "cremeux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 29,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.roger-gallet.com/fr-fr/parfums"
+  },
+  {
+    "name": "Boum Vanille Sa Pomme d'Amour",
+    "brand": "Jeanne Arthes",
+    "gender": "femme",
+    "notes": [
+      "pomme",
+      "vanille",
+      "praline"
+    ],
+    "families": [
+      "gourmand",
+      "fruite"
+    ],
+    "sensations": [
+      "sucre",
+      "doux",
+      "enveloppant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 12,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.jeanne-arthes.com/"
+  },
+  {
+    "name": "Blue Seduction",
+    "brand": "Antonio Banderas",
+    "gender": "homme",
+    "notes": [
+      "menthe",
+      "sel_marin",
+      "musc"
+    ],
+    "families": [
+      "aquatique",
+      "frais"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "leger"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 25,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.antonio-banderas-perfumes.com/"
+  },
+  {
+    "name": "Dynamic Pulse",
+    "brand": "Adidas",
+    "gender": "homme",
+    "notes": [
+      "menthe",
+      "cedre",
+      "citron"
+    ],
+    "families": [
+      "aromatique",
+      "boise",
+      "frais"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "moderne"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 15,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.adidas.fr/"
+  },
+  {
+    "name": "Instinct",
+    "brand": "David Beckham",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "vetiver",
+      "cedre"
+    ],
+    "families": [
+      "boise",
+      "hesperide"
+    ],
+    "sensations": [
+      "elegant",
+      "sec",
+      "frais"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 25,
+    "price_volume": "75 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.davidbeckhamfragrances.com/"
+  },
+  {
+    "name": "To Be",
+    "brand": "Police",
+    "gender": "homme",
+    "notes": [
+      "pamplemousse",
+      "poivre",
+      "ambre"
+    ],
+    "families": [
+      "aromatique",
+      "ambre"
+    ],
+    "sensations": [
+      "moderne",
+      "puissant",
+      "frais"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 28,
+    "price_volume": "125 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.policelifestyle.com/fr/"
+  },
+  {
+    "name": "Colors Man Black",
+    "brand": "Benetton",
+    "gender": "homme",
+    "notes": [
+      "poivre",
+      "cuir",
+      "vanille"
+    ],
+    "families": [
+      "epice",
+      "cuire",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "sombre",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 24,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://fr.benetton.com/"
+  },
+  {
+    "name": "Encre Noire",
+    "brand": "Lalique",
+    "gender": "homme",
+    "notes": [
+      "vetiver",
+      "cedre",
+      "mousse"
+    ],
+    "families": [
+      "boise"
+    ],
+    "sensations": [
+      "sec",
+      "sombre",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 35,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://fr.lalique.com/collections/parfums"
+  },
+  {
+    "name": "Cool Water",
+    "brand": "Davidoff",
+    "gender": "homme",
+    "notes": [
+      "sel_marin",
+      "menthe",
+      "lavande"
+    ],
+    "families": [
+      "aquatique",
+      "aromatique",
+      "frais"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "leger"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 42,
+    "price_volume": "125 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.zinodavidoff.com/fr/fr/fragrances"
+  },
+  {
+    "name": "Green Tea",
+    "brand": "Elizabeth Arden",
+    "gender": "femme",
+    "notes": [
+      "the",
+      "citron",
+      "menthe"
+    ],
+    "families": [
+      "hesperide",
+      "aromatique",
+      "frais"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 25,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.elizabetharden.fr/"
+  },
+  {
+    "name": "Fantasy",
+    "brand": "Britney Spears",
+    "gender": "femme",
+    "notes": [
+      "fruits",
+      "cacao",
+      "vanille"
+    ],
+    "families": [
+      "gourmand",
+      "fruite"
+    ],
+    "sensations": [
+      "sucre",
+      "cremeux",
+      "doux"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 35,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://britneyspearsbeauty.com/"
+  },
+  {
+    "name": "Cloud",
+    "brand": "Ariana Grande",
+    "gender": "femme",
+    "notes": [
+      "lavande",
+      "coco",
+      "vanille"
+    ],
+    "families": [
+      "gourmand",
+      "musque"
+    ],
+    "sensations": [
+      "doux",
+      "cremeux",
+      "sucre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 45,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://arianagrandefragrances.com/"
+  },
+  {
+    "name": "Rochas Man",
+    "brand": "Rochas",
+    "gender": "homme",
+    "notes": [
+      "cafe",
+      "lavande",
+      "vanille"
+    ],
+    "families": [
+      "gourmand",
+      "aromatique"
+    ],
+    "sensations": [
+      "chaud",
+      "sucre",
+      "doux"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 42,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.rochas.com/fr/parfums/"
+  },
+  {
+    "name": "Amor Amor",
+    "brand": "Cacharel",
+    "gender": "femme",
+    "notes": [
+      "cassis",
+      "orange",
+      "vanille"
+    ],
+    "families": [
+      "fruite",
+      "floral"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 49,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.cacharel-parfums.com/fr_FR/"
+  },
+  {
+    "name": "Anaïs Anaïs",
+    "brand": "Cacharel",
+    "gender": "femme",
+    "notes": [
+      "muguet",
+      "rose",
+      "cedre"
+    ],
+    "families": [
+      "floral"
+    ],
+    "sensations": [
+      "doux",
+      "poudre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 48,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.cacharel-parfums.com/fr_FR/"
+  },
+  {
+    "name": "Chrome",
+    "brand": "Azzaro",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "romarin",
+      "musc"
+    ],
+    "families": [
+      "aromatique",
+      "frais"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 2,
+    "price_eur": 55,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.azzaro.com/fr/parfums/"
+  },
+  {
+    "name": "Individuel",
+    "brand": "Montblanc",
+    "gender": "homme",
+    "notes": [
+      "lavande",
+      "cannelle",
+      "vanille"
+    ],
+    "families": [
+      "aromatique",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 1,
+    "price_eur": 39,
+    "price_volume": "75 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.montblanc.com/fr-fr/collection/parfums"
+  },
+  {
+    "name": "Explorer",
+    "brand": "Montblanc",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "vetiver",
+      "patchouli"
+    ],
+    "families": [
+      "boise",
+      "aromatique"
+    ],
+    "sensations": [
+      "moderne",
+      "elegant",
+      "sec"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 72,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.montblanc.com/fr-fr/collection/parfums"
+  },
+  {
+    "name": "Legend Spirit",
+    "brand": "Montblanc",
+    "gender": "homme",
+    "notes": [
+      "pamplemousse",
+      "lavande",
+      "bois"
+    ],
+    "families": [
+      "aromatique",
+      "frais"
+    ],
+    "sensations": [
+      "propre",
+      "frais",
+      "leger"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 2,
+    "price_eur": 58,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.montblanc.com/fr-fr/collection/parfums"
+  },
+  {
+    "name": "Jimmy Choo Man Intense",
+    "brand": "Jimmy Choo",
+    "gender": "homme",
+    "notes": [
+      "lavande",
+      "tonka",
+      "patchouli"
+    ],
+    "families": [
+      "aromatique",
+      "ambre"
+    ],
+    "sensations": [
+      "chaud",
+      "puissant",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 65,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://fr.jimmychoo.com/fr/parfums/"
+  },
+  {
+    "name": "Jimmy Choo Eau de Parfum",
+    "brand": "Jimmy Choo",
+    "gender": "femme",
+    "notes": [
+      "pomme",
+      "jasmin",
+      "caramel"
+    ],
+    "families": [
+      "fruite",
+      "gourmand",
+      "floral"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 68,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://fr.jimmychoo.com/fr/parfums/"
+  },
+  {
+    "name": "For Her Eau de Toilette",
+    "brand": "Narciso Rodriguez",
+    "gender": "femme",
+    "notes": [
+      "musc",
+      "rose",
+      "patchouli"
+    ],
+    "families": [
+      "musque",
+      "floral"
+    ],
+    "sensations": [
+      "propre",
+      "sensuel",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 78,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.narcisorodriguezparfums.com/fr/"
+  },
+  {
+    "name": "Bleu Noir Eau de Parfum",
+    "brand": "Narciso Rodriguez",
+    "gender": "homme",
+    "notes": [
+      "musc",
+      "cedre",
+      "vetiver"
+    ],
+    "families": [
+      "musque",
+      "boise"
+    ],
+    "sensations": [
+      "sombre",
+      "elegant",
+      "propre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 79,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.narcisorodriguezparfums.com/fr/"
+  },
+  {
+    "name": "L'Eau d'Issey Pour Homme",
+    "brand": "Issey Miyake",
+    "gender": "homme",
+    "notes": [
+      "citron",
+      "sel_marin",
+      "vetiver"
+    ],
+    "families": [
+      "aquatique",
+      "hesperide"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "sec"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 2,
+    "price_eur": 65,
+    "price_volume": "125 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.isseymiyakeparfums.com/fr/"
+  },
+  {
+    "name": "L'Eau d'Issey",
+    "brand": "Issey Miyake",
+    "gender": "femme",
+    "notes": [
+      "muguet",
+      "rose",
+      "sel_marin"
+    ],
+    "families": [
+      "floral",
+      "aquatique"
+    ],
+    "sensations": [
+      "propre",
+      "lumineux",
+      "frais"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 2,
+    "price_eur": 69,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.isseymiyakeparfums.com/fr/"
+  },
+  {
+    "name": "Kenzo Homme Eau de Parfum",
+    "brand": "Kenzo",
+    "gender": "homme",
+    "notes": [
+      "sel_marin",
+      "cuir",
+      "patchouli"
+    ],
+    "families": [
+      "aquatique",
+      "cuire",
+      "boise"
+    ],
+    "sensations": [
+      "frais",
+      "puissant",
+      "sombre"
+    ],
+    "seasons": [
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 75,
+    "price_volume": "110 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.kenzoparfums.com/fr/fr/"
+  },
+  {
+    "name": "Flower by Kenzo Eau de Parfum",
+    "brand": "Kenzo",
+    "gender": "femme",
+    "notes": [
+      "violette",
+      "rose",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "poudre"
+    ],
+    "sensations": [
+      "poudre",
+      "doux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 72,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.kenzoparfums.com/fr/fr/"
+  },
+  {
+    "name": "CK One",
+    "brand": "Calvin Klein",
+    "gender": "mixte",
+    "notes": [
+      "bergamote",
+      "the",
+      "musc"
+    ],
+    "families": [
+      "hesperide",
+      "frais",
+      "musque"
+    ],
+    "sensations": [
+      "propre",
+      "leger",
+      "frais"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 1,
+    "price_eur": 45,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.calvinklein.fr/parfums"
+  },
+  {
+    "name": "Euphoria",
+    "brand": "Calvin Klein",
+    "gender": "femme",
+    "notes": [
+      "grenade",
+      "jasmin",
+      "ambre"
+    ],
+    "families": [
+      "fruite",
+      "floral",
+      "ambre"
+    ],
+    "sensations": [
+      "sensuel",
+      "sombre",
+      "sucre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 59,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.calvinklein.fr/parfums"
+  },
+  {
+    "name": "Eternity for Men",
+    "brand": "Calvin Klein",
+    "gender": "homme",
+    "notes": [
+      "lavande",
+      "sauge",
+      "santal"
+    ],
+    "families": [
+      "aromatique",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant",
+      "frais"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 2,
+    "price_eur": 55,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.calvinklein.fr/parfums"
+  },
+  {
+    "name": "Man Eau Fraîche",
+    "brand": "Versace",
+    "gender": "homme",
+    "notes": [
+      "citron",
+      "cedre",
+      "sauge"
+    ],
+    "families": [
+      "hesperide",
+      "boise",
+      "frais"
+    ],
+    "sensations": [
+      "frais",
+      "leger",
+      "propre"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 2,
+    "price_eur": 72,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.versace.com/fr/fr/"
+  },
+  {
+    "name": "Crystal Noir",
+    "brand": "Versace",
+    "gender": "femme",
+    "notes": [
+      "gingembre",
+      "coco",
+      "santal"
+    ],
+    "families": [
+      "floral",
+      "ambre"
+    ],
+    "sensations": [
+      "cremeux",
+      "sensuel",
+      "sombre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 75,
+    "price_volume": "90 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.versace.com/fr/fr/"
+  },
+  {
+    "name": "Light Blue Eau Intense",
+    "brand": "Dolce&Gabbana",
+    "gender": "femme",
+    "notes": [
+      "citron",
+      "pomme",
+      "musc"
+    ],
+    "families": [
+      "fruite",
+      "aquatique",
+      "frais"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 82,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dolcegabbana.com/fr-fr/beauty/"
+  },
+  {
+    "name": "Dolce Garden",
+    "brand": "Dolce&Gabbana",
+    "gender": "femme",
+    "notes": [
+      "fleur_oranger",
+      "coco",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "gourmand"
+    ],
+    "sensations": [
+      "cremeux",
+      "doux",
+      "sucre"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 75,
+    "price_volume": "75 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dolcegabbana.com/fr-fr/beauty/"
+  },
+  {
+    "name": "Boss Orange Woman",
+    "brand": "Hugo Boss",
+    "gender": "femme",
+    "notes": [
+      "pomme",
+      "fleur_oranger",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "fruite"
+    ],
+    "sensations": [
+      "doux",
+      "lumineux",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 2,
+    "price_eur": 62,
+    "price_volume": "75 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hugoboss.com/fr/fr/parfums/"
+  },
+  {
+    "name": "Boss Bottled Eau de Toilette",
+    "brand": "Hugo Boss",
+    "gender": "homme",
+    "notes": [
+      "pomme",
+      "cannelle",
+      "bois"
+    ],
+    "families": [
+      "boise",
+      "epice"
+    ],
+    "sensations": [
+      "chaud",
+      "elegant",
+      "propre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 72,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hugoboss.com/fr/fr/parfums/"
+  },
+  {
+    "name": "Gucci Guilty Pour Homme Eau de Toilette",
+    "brand": "Gucci",
+    "gender": "homme",
+    "notes": [
+      "lavande",
+      "citron",
+      "cedre"
+    ],
+    "families": [
+      "aromatique",
+      "boise"
+    ],
+    "sensations": [
+      "propre",
+      "elegant",
+      "frais"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 89,
+    "price_volume": "90 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.gucci.com/fr/fr/ca/beauty/fragrances-c-beauty-fragrances"
+  },
+  {
+    "name": "Gucci Bloom Eau de Parfum",
+    "brand": "Gucci",
+    "gender": "femme",
+    "notes": [
+      "jasmin",
+      "tubereuse",
+      "fleur_oranger"
+    ],
+    "families": [
+      "floral"
+    ],
+    "sensations": [
+      "cremeux",
+      "elegant",
+      "enveloppant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 99,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.gucci.com/fr/fr/ca/beauty/fragrances-c-beauty-fragrances"
+  },
+  {
+    "name": "Gucci Flora Gorgeous Gardenia",
+    "brand": "Gucci",
+    "gender": "femme",
+    "notes": [
+      "pomme",
+      "jasmin",
+      "jasmin"
+    ],
+    "families": [
+      "floral",
+      "fruite"
+    ],
+    "sensations": [
+      "lumineux",
+      "sucre",
+      "doux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 95,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.gucci.com/fr/fr/ca/beauty/fragrances-c-beauty-fragrances"
+  },
+  {
+    "name": "Gentleman Eau de Parfum Boisée",
+    "brand": "Givenchy",
+    "gender": "homme",
+    "notes": [
+      "iris",
+      "cacao",
+      "santal"
+    ],
+    "families": [
+      "boise",
+      "poudre"
+    ],
+    "sensations": [
+      "elegant",
+      "chaud",
+      "cremeux"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 92,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.givenchybeauty.com/fr/fr/parfums/"
+  },
+  {
+    "name": "L'Interdit Eau de Parfum",
+    "brand": "Givenchy",
+    "gender": "femme",
+    "notes": [
+      "tubereuse",
+      "fleur_oranger",
+      "patchouli"
+    ],
+    "families": [
+      "floral",
+      "boise"
+    ],
+    "sensations": [
+      "puissant",
+      "elegant",
+      "sombre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 3,
+    "price_eur": 94,
+    "price_volume": "80 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.givenchybeauty.com/fr/fr/parfums/"
+  },
+  {
+    "name": "Irresistible Givenchy Eau de Parfum",
+    "brand": "Givenchy",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "pomme",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "fruite",
+      "musque"
+    ],
+    "sensations": [
+      "lumineux",
+      "doux",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 92,
+    "price_volume": "80 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.givenchybeauty.com/fr/fr/parfums/"
+  },
+  {
+    "name": "Alien Eau de Parfum",
+    "brand": "Mugler",
+    "gender": "femme",
+    "notes": [
+      "jasmin",
+      "ambre",
+      "bois"
+    ],
+    "families": [
+      "floral",
+      "ambre"
+    ],
+    "sensations": [
+      "puissant",
+      "mysterieux",
+      "enveloppant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 3,
+    "price_eur": 95,
+    "price_volume": "90 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.mugler.fr/parfums/"
+  },
+  {
+    "name": "Angel Eau de Parfum",
+    "brand": "Mugler",
+    "gender": "femme",
+    "notes": [
+      "patchouli",
+      "caramel",
+      "cacao"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "sucre",
+      "puissant",
+      "enveloppant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 3,
+    "price_eur": 98,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.mugler.fr/parfums/"
+  },
+  {
+    "name": "A*Men Eau de Toilette",
+    "brand": "Mugler",
+    "gender": "homme",
+    "notes": [
+      "cafe",
+      "caramel",
+      "patchouli"
+    ],
+    "families": [
+      "gourmand",
+      "boise"
+    ],
+    "sensations": [
+      "puissant",
+      "sombre",
+      "sucre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 2,
+    "price_eur": 79,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.mugler.fr/parfums/"
+  },
+  {
+    "name": "Alien Goddess Eau de Parfum",
+    "brand": "Mugler",
+    "gender": "femme",
+    "notes": [
+      "coco",
+      "jasmin",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "gourmand"
+    ],
+    "sensations": [
+      "cremeux",
+      "lumineux",
+      "sucre"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 92,
+    "price_volume": "90 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.mugler.fr/parfums/"
+  },
+  {
+    "name": "Armani Code Eau de Toilette",
+    "brand": "Giorgio Armani",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "iris",
+      "tonka"
+    ],
+    "families": [
+      "ambre",
+      "aromatique"
+    ],
+    "sensations": [
+      "elegant",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 92,
+    "price_volume": "125 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.armanibeauty.fr/parfums/"
+  },
+  {
+    "name": "Sì Eau de Parfum",
+    "brand": "Giorgio Armani",
+    "gender": "femme",
+    "notes": [
+      "cassis",
+      "rose",
+      "vanille"
+    ],
+    "families": [
+      "fruite",
+      "floral"
+    ],
+    "sensations": [
+      "elegant",
+      "sensuel",
+      "sucre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 105,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.armanibeauty.fr/parfums/"
+  },
+  {
+    "name": "Because It's You Eau de Parfum",
+    "brand": "Emporio Armani",
+    "gender": "femme",
+    "notes": [
+      "fruits",
+      "rose",
+      "vanille"
+    ],
+    "families": [
+      "fruite",
+      "floral",
+      "gourmand"
+    ],
+    "sensations": [
+      "sucre",
+      "doux",
+      "sensuel"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 2,
+    "price_eur": 82,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.armanibeauty.fr/parfums/"
+  },
+  {
+    "name": "Acqua di Giò Eau de Toilette",
+    "brand": "Giorgio Armani",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "sel_marin",
+      "cedre"
+    ],
+    "families": [
+      "aquatique",
+      "frais"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 2,
+    "price_eur": 85,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.armanibeauty.fr/parfums/"
+  },
+  {
+    "name": "Trésor Eau de Parfum",
+    "brand": "Lancôme",
+    "gender": "femme",
+    "notes": [
+      "rose",
+      "fruits",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "fruite",
+      "ambre"
+    ],
+    "sensations": [
+      "poudre",
+      "elegant",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 90,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.lancome.fr/parfum/"
+  },
+  {
+    "name": "Miracle Eau de Parfum",
+    "brand": "Lancôme",
+    "gender": "femme",
+    "notes": [
+      "fruits",
+      "gingembre",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "fruite"
+    ],
+    "sensations": [
+      "lumineux",
+      "frais",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 2,
+    "price_eur": 82,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.lancome.fr/parfum/"
+  },
+  {
+    "name": "Chance Eau Tendre Eau de Toilette",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "pamplemousse",
+      "rose",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "fruite"
+    ],
+    "sensations": [
+      "doux",
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 125,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.chanel.com/fr/parfums/femmes/c/7x1x1/"
+  },
+  {
+    "name": "Chance Eau de Parfum",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "poivre",
+      "jasmin",
+      "patchouli"
+    ],
+    "families": [
+      "floral",
+      "epice"
+    ],
+    "sensations": [
+      "elegant",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 137,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.chanel.com/fr/parfums/femmes/c/7x1x1/"
+  },
+  {
+    "name": "Bleu de Chanel Parfum",
+    "brand": "Chanel",
+    "gender": "homme",
+    "notes": [
+      "cedre",
+      "santal",
+      "lavande"
+    ],
+    "families": [
+      "boise",
+      "aromatique"
+    ],
+    "sensations": [
+      "elegant",
+      "puissant",
+      "cremeux"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 158,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.chanel.com/fr/parfums/hommes/c/7x1x2/"
+  },
+  {
+    "name": "Gabrielle Chanel Eau de Parfum",
+    "brand": "Chanel",
+    "gender": "femme",
+    "notes": [
+      "jasmin",
+      "ylang_ylang",
+      "fleur_oranger"
+    ],
+    "families": [
+      "floral"
+    ],
+    "sensations": [
+      "lumineux",
+      "elegant",
+      "cremeux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 137,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.chanel.com/fr/parfums/femmes/c/7x1x1/"
+  },
+  {
+    "name": "Hypnotic Poison Eau de Toilette",
+    "brand": "Dior",
+    "gender": "femme",
+    "notes": [
+      "amande",
+      "vanille",
+      "jasmin"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "sucre",
+      "chaud",
+      "enveloppant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 3,
+    "price_eur": 115,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/parfums/parfums-femme"
+  },
+  {
+    "name": "Fahrenheit Eau de Toilette",
+    "brand": "Dior",
+    "gender": "homme",
+    "notes": [
+      "cuir",
+      "violette",
+      "vetiver"
+    ],
+    "families": [
+      "cuire",
+      "boise"
+    ],
+    "sensations": [
+      "sec",
+      "puissant",
+      "sombre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 105,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/parfums/parfums-homme"
+  },
+  {
+    "name": "Sauvage Elixir",
+    "brand": "Dior",
+    "gender": "homme",
+    "notes": [
+      "lavande",
+      "cannelle",
+      "bois"
+    ],
+    "families": [
+      "aromatique",
+      "epice"
+    ],
+    "sensations": [
+      "puissant",
+      "chaud",
+      "sombre"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 4,
+    "price_eur": 174,
+    "price_volume": "60 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/parfums/parfums-homme/sauvage"
+  },
+  {
+    "name": "Dior Homme Cologne",
+    "brand": "Dior",
+    "gender": "homme",
+    "notes": [
+      "bergamote",
+      "fleur_oranger",
+      "musc"
+    ],
+    "families": [
+      "hesperide",
+      "musque"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "leger"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 3,
+    "price_eur": 105,
+    "price_volume": "125 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/parfums/parfums-homme"
+  },
+  {
+    "name": "Poison Girl Eau de Parfum",
+    "brand": "Dior",
+    "gender": "femme",
+    "notes": [
+      "orange",
+      "rose",
+      "vanille"
+    ],
+    "families": [
+      "gourmand",
+      "floral"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 125,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.dior.com/fr_fr/beauty/parfums/parfums-femme"
+  },
+  {
+    "name": "L'Homme Eau de Toilette",
+    "brand": "Yves Saint Laurent",
+    "gender": "homme",
+    "notes": [
+      "gingembre",
+      "bergamote",
+      "cedre"
+    ],
+    "families": [
+      "aromatique",
+      "boise"
+    ],
+    "sensations": [
+      "elegant",
+      "frais",
+      "propre"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 105,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.yslbeauty.fr/parfum/parfum-homme/"
+  },
+  {
+    "name": "Opium Eau de Parfum",
+    "brand": "Yves Saint Laurent",
+    "gender": "femme",
+    "notes": [
+      "cannelle",
+      "jasmin",
+      "ambre"
+    ],
+    "families": [
+      "ambre",
+      "epice"
+    ],
+    "sensations": [
+      "chaud",
+      "puissant",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 3,
+    "price_eur": 125,
+    "price_volume": "90 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.yslbeauty.fr/parfum/parfum-femme/"
+  },
+  {
+    "name": "Mon Paris Eau de Parfum",
+    "brand": "Yves Saint Laurent",
+    "gender": "femme",
+    "notes": [
+      "fruits",
+      "jasmin",
+      "patchouli"
+    ],
+    "families": [
+      "fruite",
+      "floral"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 120,
+    "price_volume": "90 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.yslbeauty.fr/parfum/parfum-femme/"
+  },
+  {
+    "name": "Aqua Allegoria Mandarine Basilic",
+    "brand": "Guerlain",
+    "gender": "mixte",
+    "notes": [
+      "mandarine",
+      "basilic",
+      "the"
+    ],
+    "families": [
+      "hesperide",
+      "aromatique"
+    ],
+    "sensations": [
+      "frais",
+      "lumineux",
+      "leger"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 3,
+    "price_eur": 105,
+    "price_volume": "125 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/parfum/"
+  },
+  {
+    "name": "Vétiver Parfum",
+    "brand": "Guerlain",
+    "gender": "homme",
+    "notes": [
+      "vetiver",
+      "tabac",
+      "poivre"
+    ],
+    "families": [
+      "boise",
+      "epice"
+    ],
+    "sensations": [
+      "sec",
+      "elegant",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 140,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/parfum/"
+  },
+  {
+    "name": "Habit Rouge Eau de Parfum",
+    "brand": "Guerlain",
+    "gender": "homme",
+    "notes": [
+      "citron",
+      "cuir",
+      "vanille"
+    ],
+    "families": [
+      "cuire",
+      "ambre"
+    ],
+    "sensations": [
+      "elegant",
+      "chaud",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 125,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.guerlain.com/fr/fr-fr/parfum/"
+  },
+  {
+    "name": "Un Jardin sur le Nil",
+    "brand": "Hermès",
+    "gender": "mixte",
+    "notes": [
+      "pamplemousse",
+      "mangue",
+      "bois"
+    ],
+    "families": [
+      "fruite",
+      "frais"
+    ],
+    "sensations": [
+      "frais",
+      "lumineux",
+      "leger"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "discret"
+    ],
+    "price_level": 3,
+    "price_eur": 95,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/category/parfums/"
+  },
+  {
+    "name": "Eau des Merveilles",
+    "brand": "Hermès",
+    "gender": "femme",
+    "notes": [
+      "orange",
+      "ambre",
+      "cedre"
+    ],
+    "families": [
+      "ambre",
+      "boise"
+    ],
+    "sensations": [
+      "elegant",
+      "sec",
+      "lumineux"
+    ],
+    "seasons": [
+      "automne",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 115,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/category/parfums/"
+  },
+  {
+    "name": "Terre d'Hermès Eau Givrée",
+    "brand": "Hermès",
+    "gender": "homme",
+    "notes": [
+      "citron",
+      "cedre",
+      "vetiver"
+    ],
+    "families": [
+      "hesperide",
+      "boise"
+    ],
+    "sensations": [
+      "frais",
+      "sec",
+      "puissant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 105,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/category/parfums/"
+  },
+  {
+    "name": "Barénia Eau de Parfum",
+    "brand": "Hermès",
+    "gender": "femme",
+    "notes": [
+      "patchouli",
+      "gingembre",
+      "musc"
+    ],
+    "families": [
+      "boise",
+      "floral"
+    ],
+    "sensations": [
+      "elegant",
+      "sensuel",
+      "moderne"
+    ],
+    "seasons": [
+      "automne",
+      "printemps"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 129,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.hermes.com/fr/fr/category/parfums/"
+  },
+  {
+    "name": "Voce Viva Eau de Parfum",
+    "brand": "Valentino",
+    "gender": "femme",
+    "notes": [
+      "mandarine",
+      "fleur_oranger",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "gourmand"
+    ],
+    "sensations": [
+      "lumineux",
+      "sucre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 115,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.valentino-beauty.fr/parfums/"
+  },
+  {
+    "name": "Born in Roma Coral Fantasy Uomo",
+    "brand": "Valentino",
+    "gender": "homme",
+    "notes": [
+      "pomme",
+      "lavande",
+      "tabac"
+    ],
+    "families": [
+      "aromatique",
+      "fruite"
+    ],
+    "sensations": [
+      "moderne",
+      "chaud",
+      "puissant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 110,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.valentino-beauty.fr/parfums/parfums-homme/"
+  },
+  {
+    "name": "Born in Roma Coral Fantasy Donna",
+    "brand": "Valentino",
+    "gender": "femme",
+    "notes": [
+      "orange",
+      "rose",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "fruite"
+    ],
+    "sensations": [
+      "lumineux",
+      "sensuel",
+      "doux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 115,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.valentino-beauty.fr/parfums/parfums-femme/"
+  },
+  {
+    "name": "La Belle Le Parfum",
+    "brand": "Jean Paul Gaultier",
+    "gender": "femme",
+    "notes": [
+      "pomme",
+      "tonka",
+      "vanille"
+    ],
+    "families": [
+      "gourmand",
+      "ambre"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "chaud"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 3,
+    "price_eur": 120,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.jeanpaulgaultier.com/fr/fr/parfums"
+  },
+  {
+    "name": "Classique Eau de Toilette",
+    "brand": "Jean Paul Gaultier",
+    "gender": "femme",
+    "notes": [
+      "fleur_oranger",
+      "gingembre",
+      "vanille"
+    ],
+    "families": [
+      "floral",
+      "ambre"
+    ],
+    "sensations": [
+      "sensuel",
+      "chaud",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 105,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.jeanpaulgaultier.com/fr/fr/parfums"
+  },
+  {
+    "name": "Olympéa Eau de Parfum",
+    "brand": "Rabanne",
+    "gender": "femme",
+    "notes": [
+      "vanille",
+      "sel_marin",
+      "jasmin"
+    ],
+    "families": [
+      "ambre",
+      "floral"
+    ],
+    "sensations": [
+      "sucre",
+      "sensuel",
+      "puissant"
+    ],
+    "seasons": [
+      "ete",
+      "automne"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 3,
+    "price_eur": 105,
+    "price_volume": "80 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.rabanne.com/fr/fr/fragrance"
+  },
+  {
+    "name": "Philosykos Eau de Parfum",
+    "brand": "Diptyque",
+    "gender": "mixte",
+    "notes": [
+      "figue",
+      "bois",
+      "coco"
+    ],
+    "families": [
+      "boise",
+      "fruite"
+    ],
+    "sensations": [
+      "frais",
+      "cremeux",
+      "doux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 180,
+    "price_volume": "75 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.diptyqueparis.com/fr_fr/c/parfums.html"
+  },
+  {
+    "name": "Tam Dao Eau de Parfum",
+    "brand": "Diptyque",
+    "gender": "mixte",
+    "notes": [
+      "santal",
+      "cedre",
+      "musc"
+    ],
+    "families": [
+      "boise",
+      "musque"
+    ],
+    "sensations": [
+      "sec",
+      "cremeux",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 180,
+    "price_volume": "75 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.diptyqueparis.com/fr_fr/c/parfums.html"
+  },
+  {
+    "name": "Blanche",
+    "brand": "Byredo",
+    "gender": "mixte",
+    "notes": [
+      "aldehydes",
+      "rose",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "musque"
+    ],
+    "sensations": [
+      "propre",
+      "poudre",
+      "lumineux"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 165,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.byredo.com/eu_fr/c/perfume"
+  },
+  {
+    "name": "Gentle Fluidity Silver",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "mixte",
+    "notes": [
+      "pin",
+      "musc",
+      "ambre"
+    ],
+    "families": [
+      "aromatique",
+      "musque"
+    ],
+    "sensations": [
+      "frais",
+      "propre",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "bureau"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 4,
+    "price_eur": 205,
+    "price_volume": "70 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.franciskurkdjian.com/eu-fr/parfums/"
+  },
+  {
+    "name": "Oud Satin Mood",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "mixte",
+    "notes": [
+      "oud",
+      "rose",
+      "vanille"
+    ],
+    "families": [
+      "ambre",
+      "boise"
+    ],
+    "sensations": [
+      "puissant",
+      "enveloppant",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 5,
+    "price_eur": 245,
+    "price_volume": "70 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.franciskurkdjian.com/eu-fr/parfums/"
+  },
+  {
+    "name": "Pegasus",
+    "brand": "Parfums de Marly",
+    "gender": "homme",
+    "notes": [
+      "amande",
+      "lavande",
+      "vanille"
+    ],
+    "families": [
+      "ambre",
+      "aromatique"
+    ],
+    "sensations": [
+      "cremeux",
+      "puissant",
+      "elegant"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 5,
+    "price_eur": 280,
+    "price_volume": "125 ml",
+    "price_status": "indicatif",
+    "official_url": "https://parfums-de-marly.com/fr/collections/parfums-homme"
+  },
+  {
+    "name": "Valaya",
+    "brand": "Parfums de Marly",
+    "gender": "femme",
+    "notes": [
+      "fruits",
+      "fleur_oranger",
+      "musc"
+    ],
+    "families": [
+      "floral",
+      "fruite",
+      "musque"
+    ],
+    "sensations": [
+      "propre",
+      "lumineux",
+      "elegant"
+    ],
+    "seasons": [
+      "printemps",
+      "ete"
+    ],
+    "occasions": [
+      "quotidien",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 280,
+    "price_volume": "75 ml",
+    "price_status": "indicatif",
+    "official_url": "https://parfums-de-marly.com/fr/collections/parfums-femme"
+  },
+  {
+    "name": "Love, Don't Be Shy",
+    "brand": "Kilian Paris",
+    "gender": "femme",
+    "notes": [
+      "fleur_oranger",
+      "caramel",
+      "vanille"
+    ],
+    "families": [
+      "gourmand",
+      "floral"
+    ],
+    "sensations": [
+      "sucre",
+      "enveloppant",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "date",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 5,
+    "price_eur": 260,
+    "price_volume": "50 ml",
+    "price_status": "indicatif",
+    "official_url": "https://www.bykilian.fr/fr-e-fr/parfums"
+  },
+  {
+    "name": "Side Effect",
+    "brand": "Initio Parfums Privés",
+    "gender": "mixte",
+    "notes": [
+      "rhum",
+      "tabac",
+      "vanille"
+    ],
+    "families": [
+      "ambre",
+      "gourmand"
+    ],
+    "sensations": [
+      "chaud",
+      "puissant",
+      "sensuel"
+    ],
+    "seasons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "soiree",
+      "date"
+    ],
+    "performance": [
+      "longue_tenue",
+      "fort_sillage"
+    ],
+    "price_level": 5,
+    "price_eur": 280,
+    "price_volume": "90 ml",
+    "price_status": "indicatif",
+    "official_url": "https://initioparfums.com/"
+  },
+  {
+    "name": "Reflection Man",
+    "brand": "Amouage",
+    "gender": "homme",
+    "notes": [
+      "neroli",
+      "jasmin",
+      "santal"
+    ],
+    "families": [
+      "floral",
+      "boise"
+    ],
+    "sensations": [
+      "elegant",
+      "propre",
+      "cremeux"
+    ],
+    "seasons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "bureau",
+      "soiree"
+    ],
+    "performance": [
+      "longue_tenue"
+    ],
+    "price_level": 5,
+    "price_eur": 365,
+    "price_volume": "100 ml",
+    "price_status": "indicatif",
+    "official_url": "https://amouage.com/"
   }
 ]
