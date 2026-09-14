@@ -10,27 +10,28 @@
     const url = typeof input === 'string' ? input : input?.url || '';
     if (!url.endsWith('data/perfumes.json')) return nativeFetch(input, init);
 
-    const [perfumesResponse, metaResponse, linksResponse, links2Response, links3Response] = await Promise.all([
+    const linkFiles = [
+      'data/official-links.json',
+      'data/official-links-2.json',
+      'data/official-links-3.json',
+      'data/official-links-4.json'
+    ];
+    const [perfumesResponse, metaResponse, ...linkResponses] = await Promise.all([
       nativeFetch(input, init),
       nativeFetch('data/catalog-meta.json'),
-      nativeFetch('data/official-links.json'),
-      nativeFetch('data/official-links-2.json'),
-      nativeFetch('data/official-links-3.json')
+      ...linkFiles.map((file) => nativeFetch(file))
     ]);
     const perfumes = await perfumesResponse.json();
     const meta = metaResponse.ok ? await metaResponse.json() : {};
-    const links = linksResponse.ok ? await linksResponse.json() : {};
-    const links2 = links2Response.ok ? await links2Response.json() : {};
-    const links3 = links3Response.ok ? await links3Response.json() : {};
+    const linkSets = await Promise.all(linkResponses.map(async (response) => response.ok ? response.json() : {}));
+
     const merged = perfumes.map((perfume) => {
       const key = `${perfume.name}|${perfume.brand}`;
-      const override = meta[key] || {};
+      const linkOverrides = Object.assign({}, ...linkSets.map((set) => set[key] || {}));
       const item = {
         ...perfume,
-        ...override,
-        ...(links[key] || {}),
-        ...(links2[key] || {}),
-        ...(links3[key] || {})
+        ...(meta[key] || {}),
+        ...linkOverrides
       };
 
       if (!item.image_url && item.official_url) {
