@@ -50,16 +50,11 @@ function bindUI() {
     });
   });
 
-  ['seasonFilter', 'occasionFilter', 'priceFilter', 'sortFilter'].forEach((id) => {
-    document.getElementById(id).addEventListener('change', applyFilters);
-  });
-
-  document.getElementById('resetFilters').addEventListener('click', () => {
-    document.getElementById('seasonFilter').value = '';
-    document.getElementById('occasionFilter').value = '';
-    document.getElementById('priceFilter').value = '';
-    document.getElementById('sortFilter').value = 'match';
-    applyFilters();
+  document.querySelectorAll('input[name="gender"]').forEach((radio) => {
+    radio.addEventListener('change', () => {
+      if (!lastIntent.positive.length && !lastIntent.negative.length) renderFeatured();
+      else applyFilters();
+    });
   });
 
   document.addEventListener('click', (event) => {
@@ -140,11 +135,12 @@ function getSearchable(perfume) {
   };
 }
 
-function resetSearchFilters() {
-  document.getElementById('seasonFilter').value = '';
-  document.getElementById('occasionFilter').value = '';
-  document.getElementById('priceFilter').value = '';
-  document.getElementById('sortFilter').value = 'match';
+function getSelectedGender() {
+  return document.querySelector('input[name="gender"]:checked')?.value || '';
+}
+
+function matchesGender(perfume, selectedGender = getSelectedGender()) {
+  return !selectedGender || perfume.gender === selectedGender || perfume.gender === 'mixte';
 }
 
 function search(rawQuery) {
@@ -157,7 +153,6 @@ function search(rawQuery) {
     return;
   }
 
-  resetSearchFilters();
   lastIntent = extractIntent(query);
 
   currentResults = perfumes
@@ -185,27 +180,13 @@ function search(rawQuery) {
 }
 
 function applyFilters() {
-  const season = document.getElementById('seasonFilter').value;
-  const occasion = document.getElementById('occasionFilter').value;
-  const price = document.getElementById('priceFilter').value;
-  const sort = document.getElementById('sortFilter').value;
-
-  let filtered = [...currentResults];
-
-  if (season) filtered = filtered.filter((item) => (item.seasons || []).includes(season));
-  if (occasion) filtered = filtered.filter((item) => (item.occasions || []).includes(occasion));
-  if (price) filtered = filtered.filter((item) => Number(item.price_level || 0) === Number(price));
-
-  if (sort === 'priceAsc') filtered.sort((a, b) => Number(a.price_level || 0) - Number(b.price_level || 0));
-  else if (sort === 'priceDesc') filtered.sort((a, b) => Number(b.price_level || 0) - Number(a.price_level || 0));
-  else filtered.sort((a, b) => Number(b.score || 0) - Number(a.score || 0));
-
+  const filtered = currentResults.filter((item) => matchesGender(item));
   renderCards(filtered);
 }
 
 function renderFeatured() {
   lastIntent = { positive: [], negative: [] };
-  currentResults = perfumes.slice(0, 6).map((perfume, index) => ({
+  currentResults = perfumes.filter((perfume) => matchesGender(perfume)).slice(0, 6).map((perfume, index) => ({
     ...perfume,
     score: [94, 91, 88, 86, 83, 81][index] || 80
   }));
