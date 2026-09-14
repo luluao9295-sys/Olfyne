@@ -17,7 +17,8 @@
       'data/official-links-4.json',
       'data/official-links-5.json',
       'data/official-links-6.json',
-      'data/official-links-7.json'
+      'data/official-links-7.json',
+      'data/official-links-8.json'
     ];
     const [perfumesResponse, metaResponse, ...linkResponses] = await Promise.all([
       nativeFetch(input, init),
