@@ -31,6 +31,12 @@
         <h1>Décrivez ce que vous voulez <em>sentir.</em></h1>
         <p class="lead">Écrivez simplement vos envies : notes, ambiance, saison ou style. OLFYNE cherche les parfums qui correspondent le mieux.</p>
         <form id="searchForm" class="search-shell" role="search">
+          <fieldset class="gender-switch" aria-label="Choisir une catégorie de parfum">
+            <legend class="sr-only">Parfum pour</legend>
+            <label><input type="radio" name="gender" value="" checked><span>Tous</span></label>
+            <label><input type="radio" name="gender" value="homme"><span>Homme</span></label>
+            <label><input type="radio" name="gender" value="femme"><span>Femme</span></label>
+          </fieldset>
           <label for="searchInput" class="sr-only">Rechercher un parfum</label>
           <input id="searchInput" autocomplete="off" placeholder="Ex. vanille cuir tabac sombre hiver" />
           <button type="submit">Trouver mon parfum</button>
@@ -50,17 +56,10 @@
       </div>
     </section>
     <section class="value-strip" aria-label="Fonctionnalités">
-      <article><strong>01</strong><span>Recherche naturelle</span></article><article><strong>02</strong><span>Score de compatibilité</span></article><article><strong>03</strong><span>Filtres intelligents</span></article>
+      <article><strong>01</strong><span>Recherche naturelle</span></article><article><strong>02</strong><span>Score de compatibilité</span></article><article><strong>03</strong><span>Sélection homme / femme</span></article>
     </section>
     <section class="results-section" id="results">
       <div class="section-heading"><div><p class="eyebrow">SÉLECTION OLFYNE</p><h2>Vos correspondances</h2></div><p id="resultSummary">Essayez une recherche pour découvrir vos meilleurs matchs.</p></div>
-      <div class="filters" aria-label="Filtres des résultats">
-        <label><span>Saison</span><select id="seasonFilter"><option value="">Toutes</option><option value="printemps">Printemps</option><option value="ete">Été</option><option value="automne">Automne</option><option value="hiver">Hiver</option></select></label>
-        <label><span>Occasion</span><select id="occasionFilter"><option value="">Toutes</option><option value="quotidien">Quotidien</option><option value="bureau">Bureau</option><option value="date">Date</option><option value="soiree">Soirée</option></select></label>
-        <label><span>Budget</span><select id="priceFilter"><option value="">Tous</option><option value="2">Accessible</option><option value="3">Intermédiaire</option><option value="4">Premium</option><option value="5">Très premium</option></select></label>
-        <label><span>Trier</span><select id="sortFilter"><option value="match">Meilleur match</option><option value="priceAsc">Prix croissant</option><option value="priceDesc">Prix décroissant</option></select></label>
-        <button id="resetFilters" class="reset-filters" type="button">Réinitialiser</button>
-      </div>
       <div id="resultGrid" class="result-grid"></div>
     </section>
     <section class="about" id="about"><p class="eyebrow">NOTRE VISION</p><h2>Le parfum, recherché comme vous le pensez.</h2><p>Pas besoin de connaître le vocabulaire d’un parfumeur. OLFYNE transforme des mots simples — « propre », « sombre », « vanille », « soirée », « pas trop sucré » — en critères olfactifs pour vous rapprocher du bon parfum.</p></section>
