@@ -140,6 +140,13 @@ function getSearchable(perfume) {
   };
 }
 
+function resetSearchFilters() {
+  document.getElementById('seasonFilter').value = '';
+  document.getElementById('occasionFilter').value = '';
+  document.getElementById('priceFilter').value = '';
+  document.getElementById('sortFilter').value = 'match';
+}
+
 function search(rawQuery) {
   const summary = document.getElementById('resultSummary');
   const query = rawQuery.trim();
@@ -150,17 +157,25 @@ function search(rawQuery) {
     return;
   }
 
+  resetSearchFilters();
   lastIntent = extractIntent(query);
+
   currentResults = perfumes
     .map((perfume) => ({ ...perfume, score: scorePerfume(perfume, lastIntent) }))
     .filter((perfume) => perfume.score > 0)
     .sort((a, b) => b.score - a.score);
 
+  const understood = lastIntent.positive.map((x) => x.canonical).slice(0, 6);
+
   if (!currentResults.length) {
-    currentResults = perfumes.slice(0, 6).map((p) => ({ ...p, score: 0 }));
+    summary.textContent = understood.length
+      ? `Aucun parfum assez proche pour : ${understood.join(' · ')}`
+      : `Aucun résultat pertinent pour “${query}”.`;
+    renderCards([]);
+    document.getElementById('results').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return;
   }
 
-  const understood = lastIntent.positive.map((x) => x.canonical).slice(0, 6);
   summary.textContent = understood.length
     ? `OLFYNE comprend : ${understood.join(' · ')}`
     : `Recherche : “${query}”`;
@@ -200,7 +215,7 @@ function renderFeatured() {
 function renderCards(items) {
   const grid = document.getElementById('resultGrid');
   if (!items.length) {
-    grid.innerHTML = '<div class="empty">Aucun parfum ne correspond à ces filtres.</div>';
+    grid.innerHTML = '<div class="empty">Aucun parfum pertinent trouvé pour cette recherche. Essayez avec d’autres notes ou une ambiance différente.</div>';
     return;
   }
 
