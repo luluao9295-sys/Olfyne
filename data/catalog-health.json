@@ -1,0 +1,2691 @@
+{
+  "active": 269,
+  "checked_at_utc": "2026-09-15T22:25:33Z",
+  "disabled": 101,
+  "items": {
+    "1 Million Eau de Toilette|Rabanne": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.rabanne.com/fr/fr/fragrance",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "A*Men Eau de Toilette|Mugler": {
+      "active": false,
+      "final_url": "https://www.mugler.fr/parfum/parfum-homme/a%2Amen/a%2Amen-eau-de-toilette/M020101024.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.mugler.fr/parfum/parfum-homme/a%2Amen/a%2Amen-eau-de-toilette/M020101024.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Acqua di Giò Eau de Toilette|Giorgio Armani": {
+      "active": false,
+      "final_url": "https://www.armanibeauty.fr/parfums/parfums-pour-homme/acqua-di-gio/acqua-di-gio-eau-de-toilette/ww-00843-arm.html?dwvar_ww-00843-arm_size=100ml",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-homme/acqua-di-gio/acqua-di-gio-eau-de-toilette/ww-00843-arm.html?dwvar_ww-00843-arm_size=100ml",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Acqua di Giò Profondo|Giorgio Armani": {
+      "active": false,
+      "final_url": "https://www.armanibeauty.fr/parfums/fragrance-festival/acqua-di-gio-profondo/3614273953863.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.armanibeauty.fr/parfums/fragrance-festival/acqua-di-gio-profondo/3614273953863.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Agar Ebene|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/agar-ebene-eau-de-toilette-V113482V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/agar-ebene-eau-de-toilette-V113482V0/",
+      "url_status": 200
+    },
+    "Alien Eau de Parfum|Mugler": {
+      "active": false,
+      "final_url": "https://www.mugler.fr/parfum/parfum-femme/alien/alien-eau-de-parfum/M010401002.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.mugler.fr/parfum/parfum-femme/alien/alien-eau-de-parfum/M010401002.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Alien Goddess Eau de Parfum|Mugler": {
+      "active": false,
+      "final_url": "https://www.mugler.fr/parfum/parfum-femme/alien-goddess",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.mugler.fr/parfum/parfum-femme/alien-goddess",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Allure Homme All Over Spray|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/121820/allure-homme-all-over-spray/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/121820/allure-homme-all-over-spray/",
+      "url_status": 403
+    },
+    "Allure Homme Edition Blanche|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/127450/allure-homme-edition-blanche-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/127450/allure-homme-edition-blanche-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Allure Homme Sport All Over Spray|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/123710/allure-homme-sport-all-over-spray/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/123710/allure-homme-sport-all-over-spray/",
+      "url_status": 403
+    },
+    "Allure Homme Sport Cologne|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/123320/allure-homme-sport-cologne-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/123320/allure-homme-sport-cologne-vaporisateur/",
+      "url_status": 403
+    },
+    "Allure Homme Sport Eau Extreme|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/123560/allure-homme-sport-eau-extreme-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/123560/allure-homme-sport-eau-extreme-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Allure Homme Sport Superleggera|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/123410/allure-homme-sport-superleggera-eau-de-parfum/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/123410/allure-homme-sport-superleggera-eau-de-parfum/",
+      "url_status": 403
+    },
+    "Allure Homme Sport|Chanel": {
+      "active": false,
+      "final_url": "https://www.chanel.com/fr/parfums/p/123630/allure-homme-sport-eau-de-toilette-vaporisateur/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.chanel.com/fr/parfums/p/123630/allure-homme-sport-eau-de-toilette-vaporisateur/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Allure Homme|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/121450/allure-homme-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/121450/allure-homme-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Allure Sensuelle|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/129730/allure-sensuelle-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/129730/allure-sensuelle-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Allure|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/112430/allure-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/112430/allure-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Amazone|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/amazone-eau-de-toilette-V108306V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/amazone-eau-de-toilette-V108306V0/",
+      "url_status": 200
+    },
+    "Ambre Elixir Precieux|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/ambre-elixir-precieux-Y0046430.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/ambre-elixir-precieux-Y0046430.html",
+      "url_status": 200
+    },
+    "Ambre Narguile|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
+      "url_status": 200
+    },
+    "Ambre Nuit Esprit De|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/ambre-nuit-esprit-de-parfum-Y0997182.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/ambre-nuit-esprit-de-parfum-Y0997182.html",
+      "url_status": 200
+    },
+    "Amor Amor|Cacharel": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.cacharel-parfums.com/fr_FR/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Anaïs Anaïs|Cacharel": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.cacharel-parfums.com/fr_FR/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Angel Eau de Parfum|Mugler": {
+      "active": false,
+      "final_url": "https://www.mugler.fr/parfum/parfum-femme/angel/angel-eau-de-parfum/M010101003.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.mugler.fr/parfum/parfum-femme/angel/angel-eau-de-parfum/M010101003.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Angel's Share|Kilian Paris": {
+      "active": false,
+      "final_url": "https://m.bykilian.fr/product/27539/82905/parfum/heritagecollection/angels-share/the-liquors",
+      "image_status": "missing_or_broken",
+      "official_url": "https://m.bykilian.fr/product/27539/82905/parfum/heritagecollection/angels-share/the-liquors",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Another 13|Le Labo": {
+      "active": true,
+      "final_url": "https://www.lelabofragrances.com/fr/another-13-463.html",
+      "image_status": "ok",
+      "official_url": "https://www.lelabofragrances.com/fr/another-13-463.html",
+      "url_status": 200
+    },
+    "Antaeus|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/118460/antaeus-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/118460/antaeus-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Aqua Allegoria Mandarine Basilic|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/aqua-allegoria-mandarine-basilic---eau-de-toilette-G062177.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/aqua-allegoria-mandarine-basilic---eau-de-toilette-G062177.html",
+      "url_status": 200
+    },
+    "Armani Code Eau de Toilette|Giorgio Armani": {
+      "active": false,
+      "final_url": "https://www.armanibeauty.fr/parfums/parfums-pour-homme/armani-code-homme/armani-code-eau-de-toilette-rechargeable/ww-00403-arm.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-homme/armani-code-homme/armani-code-eau-de-toilette-rechargeable/ww-00403-arm.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Aventus|Creed": {
+      "active": true,
+      "final_url": "https://www.creedfragrance.fr/p/aventus/12870029/",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.creedfragrance.fr/p/aventus/12870029/",
+      "url_status": 200
+    },
+    "Baccarat Rouge 540|Maison Francis Kurkdjian": {
+      "active": true,
+      "final_url": "https://www.franciskurkdjian.com/eu-fr/p/baccarat-rouge-540-eau-de-parfum-RA12232.html",
+      "image_status": "ok",
+      "official_url": "https://www.franciskurkdjian.com/eu-fr/p/baccarat-rouge-540-eau-de-parfum-RA12232.html",
+      "url_status": 200
+    },
+    "Bal d'Afrique|Byredo": {
+      "active": true,
+      "final_url": "https://www.byredo.com/eu_fr/p/bal-d-afrique-eau-de-parfum",
+      "image_status": "ok",
+      "official_url": "https://www.byredo.com/eu_fr/p/bal-d-afrique-eau-de-parfum",
+      "url_status": 200
+    },
+    "Barenia|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
+      "url_status": 200
+    },
+    "Barénia Eau de Parfum|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
+      "url_status": 200
+    },
+    "Because It's You Eau de Parfum|Emporio Armani": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.armanibeauty.fr/parfums/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Beige Extrait Floral Intense Mielle|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120104/beige-extrait-floral-intense-mielle/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120104/beige-extrait-floral-intense-mielle/",
+      "url_status": 403
+    },
+    "Beige Extrait Lecrin Floral Intense Mielle|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120066/beige-extrait-lecrin-floral-intense-mielle/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120066/beige-extrait-lecrin-floral-intense-mielle/",
+      "url_status": 403
+    },
+    "Beige|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122310/beige-eau-de-parfum-floral-intense-mielle/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122310/beige-eau-de-parfum-floral-intense-mielle/",
+      "url_status": 403
+    },
+    "Bel Ami Vetiver|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/bel-ami-vetiver-eau-de-toilette-V107386V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/bel-ami-vetiver-eau-de-toilette-V107386V0/",
+      "url_status": 200
+    },
+    "Bel Respiro|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122080/bel-respiro-eau-de-parfum-aromatique-vert-floral/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122080/bel-respiro-eau-de-parfum-aromatique-vert-floral/",
+      "url_status": 403
+    },
+    "Black Opium|Yves Saint Laurent": {
+      "active": true,
+      "final_url": "https://www.yslbeauty.fr/parfums/parfum-femme/black-opium/black-opium-eau-de-parfum/WW-40701YSL.html",
+      "image_status": "ok",
+      "official_url": "https://www.yslbeauty.fr/parfums/parfum-femme/black-opium/black-opium-eau-de-parfum/WW-40701YSL.html",
+      "url_status": 403
+    },
+    "Blanche|Byredo": {
+      "active": true,
+      "final_url": "https://www.byredo.com/eu_fr/p/blanche-eau-de-parfum?sku=0065204847",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.byredo.com/eu_fr/p/blanche-eau-de-parfum?sku=0065204847",
+      "url_status": 200
+    },
+    "Bleu De Chanel All Over Spray|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/107520/bleu-de-chanel-all-over-spray/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/107520/bleu-de-chanel-all-over-spray/",
+      "url_status": 403
+    },
+    "Bleu De Chanel Lexclusif|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/107230/bleu-de-chanel-lexclusif/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/107230/bleu-de-chanel-lexclusif/",
+      "url_status": 403
+    },
+    "Bleu De Chanel Soin Hydratant 3 En 1|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/107580/bleu-de-chanel-soin-hydratant-3-en-1/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/107580/bleu-de-chanel-soin-hydratant-3-en-1/",
+      "url_status": 403
+    },
+    "Bleu De Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/107460/bleu-de-chanel-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/107460/bleu-de-chanel-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Bleu Noir Eau de Parfum|Narciso Rodriguez": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.narcisorodriguezparfums.com/fr/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Bleu de Chanel Eau de Parfum|Chanel": {
+      "active": false,
+      "final_url": "https://www.chanel.com/fr/parfums/p/107360/bleu-de-chanel-eau-de-parfum-vaporisateur/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.chanel.com/fr/parfums/p/107360/bleu-de-chanel-eau-de-parfum-vaporisateur/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Bleu de Chanel Parfum|Chanel": {
+      "active": false,
+      "final_url": "https://www.chanel.com/fr/parfums/p/107180/bleu-de-chanel-parfum-vaporisateur/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.chanel.com/fr/parfums/p/107180/bleu-de-chanel-parfum-vaporisateur/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Blue Seduction|Antonio Banderas": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.antonio-banderas-perfumes.com/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Blue Suit|Adopt": {
+      "active": true,
+      "final_url": "https://www.adopt.com/fr/blue-suit-eau-de-parfum.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.adopt.com/fr/blue-suit-eau-de-parfum.html",
+      "url_status": 200
+    },
+    "Bois Dargent Esprit De|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/bois-dargent-esprit-de-parfum-Y0000089.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/bois-dargent-esprit-de-parfum-Y0000089.html",
+      "url_status": 200
+    },
+    "Bois Dargent|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/bois-dargent-Y0959160.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/bois-dargent-Y0959160.html",
+      "url_status": 200
+    },
+    "Bois Des Iles Extrait Boise Ambre Epice|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120106/bois-des-iles-extrait-boise-ambre-epice/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120106/bois-des-iles-extrait-boise-ambre-epice/",
+      "url_status": 403
+    },
+    "Bois Des Iles Extrait Lecrin Boise Ambre Epice|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120068/bois-des-iles-extrait-lecrin-boise-ambre-epice/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120068/bois-des-iles-extrait-lecrin-boise-ambre-epice/",
+      "url_status": 403
+    },
+    "Bois Des Iles|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122030/bois-des-iles-eau-de-parfum-boise-ambre-epice/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122030/bois-des-iles-eau-de-parfum-boise-ambre-epice/",
+      "url_status": 403
+    },
+    "Bois Impérial|Essential Parfums": {
+      "active": true,
+      "final_url": "https://www.essentialparfums.com/products/bois-imperial-eau-de-parfum-vaporisateur-rechargeable-100-ml",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.essentialparfums.com/products/bois-imperial-eau-de-parfum-vaporisateur-rechargeable-100-ml",
+      "url_status": 200
+    },
+    "Bois d'Orange|Roger&Gallet": {
+      "active": true,
+      "final_url": "https://fr.roger-gallet.com/p/RG1004051WW/rg1004051ww-bois-d-orange-eau-parfumee-bienfaisante-30-ml",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://fr.roger-gallet.com/p/RG1004051WW/rg1004051ww-bois-d-orange-eau-parfumee-bienfaisante-30-ml",
+      "url_status": 200
+    },
+    "Born in Roma Coral Fantasy Donna|Valentino": {
+      "active": false,
+      "final_url": "https://www.valentino-beauty.fr/profumi/fragranze-femminili/born-in-roma-coral-fantasy/born-in-roma-coral-fantasy-donna/MPL01751.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.valentino-beauty.fr/profumi/fragranze-femminili/born-in-roma-coral-fantasy/born-in-roma-coral-fantasy-donna/MPL01751.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Born in Roma Coral Fantasy Uomo|Valentino": {
+      "active": false,
+      "final_url": "https://www.valentino-beauty.fr/fr_FR/parfums/parfums-homme/born-in-roma-uomo-coral-fantasy/MPL01750.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.valentino-beauty.fr/fr_FR/parfums/parfums-homme/born-in-roma-uomo-coral-fantasy/MPL01750.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Boss Bottled Eau de Toilette|Hugo Boss": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.hugoboss.com/fr/fr/parfums/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Boss Bottled Elixir|Hugo Boss": {
+      "active": true,
+      "final_url": "https://www.hugoboss.com/fr/eau-de-parfum-boss-bottled-elixir-100-ml/hbeu58129503_999.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.hugoboss.com/fr/eau-de-parfum-boss-bottled-elixir-100-ml/hbeu58129503_999.html",
+      "url_status": 200
+    },
+    "Boss The Scent Magnetic|Hugo Boss": {
+      "active": true,
+      "final_url": "https://www.hugoboss.com/fr/eau-de-parfum-boss-the-scent-magnetic-100%C2%A0ml/hbeu58228635_999.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.hugoboss.com/fr/eau-de-parfum-boss-the-scent-magnetic-100%C2%A0ml/hbeu58228635_999.html",
+      "url_status": 200
+    },
+    "Bougies|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/bougies-parfumees-Y0000229.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/bougies-parfumees-Y0000229.html",
+      "url_status": 200
+    },
+    "Boum Vanille Sa Pomme d'Amour|Jeanne Arthes": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.jeanne-arthes.com/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Boy Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122350/boy-chanel-eau-de-parfum-aromatique-floral-boise/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122350/boy-chanel-eau-de-parfum-aromatique-floral-boise/",
+      "url_status": 403
+    },
+    "Bright Crystal|Versace": {
+      "active": false,
+      "final_url": "https://www.versace.com/fr/fr/femme/accessoires/parfums-et-soins-du-corps/bright-crystal/SET_Fragrances_BrightCrystalParfum.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.versace.com/fr/fr/femme/accessoires/parfums-et-soins-du-corps/bright-crystal/SET_Fragrances_BrightCrystalParfum.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Burberry Goddess|Burberry": {
+      "active": true,
+      "final_url": "https://fr.burberry.com/eau-de-parfum-burberry-goddess-pour-femme-50-ml-p40835971",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://fr.burberry.com/eau-de-parfum-burberry-goddess-pour-femme-50-ml-p40835971",
+      "url_status": 200
+    },
+    "Burberry Hero Eau de Parfum|Burberry": {
+      "active": true,
+      "final_url": "https://int.burberry.com/burberry-hero-eau-de-parfum-100ml-p40827901",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://int.burberry.com/burberry-hero-eau-de-parfum-100ml-p40827901",
+      "url_status": 200
+    },
+    "CK One|Calvin Klein": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.calvinklein.fr/parfums",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Caleche Soie De|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/caleche-soie-de-parfum-V107397V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/caleche-soie-de-parfum-V107397V0/",
+      "url_status": 403
+    },
+    "Caleche|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/caleche-eau-de-toilette-V107388V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/caleche-eau-de-toilette-V107388V0/",
+      "url_status": 200
+    },
+    "Cardamusc Essence De|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/cardamusc-essence-de-parfum-V107117V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/cardamusc-essence-de-parfum-V107117V0/",
+      "url_status": 200
+    },
+    "Carte Cadeau|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/087203/carte-cadeau/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/087203/carte-cadeau/",
+      "url_status": 403
+    },
+    "Chance Eau Fraiche|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/136460/chance-eau-fraiche-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/136460/chance-eau-fraiche-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Chance Eau Splendide|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/136210/chance-eau-splendide-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/136210/chance-eau-splendide-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Chance Eau Tendre Eau de Toilette|Chanel": {
+      "active": false,
+      "final_url": "https://www.chanel.com/fr/parfums/p/126310/chance-eau-tendre-eau-de-toilette-vaporisateur/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.chanel.com/fr/parfums/p/126310/chance-eau-tendre-eau-de-toilette-vaporisateur/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Chance Eau Tendre|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/126290/chance-eau-tendre-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/126290/chance-eau-tendre-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Chance Eau Vive|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/126570/chance-eau-vive-eau-de-toilette/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/126570/chance-eau-vive-eau-de-toilette/",
+      "url_status": 403
+    },
+    "Chance Eau de Parfum|Chanel": {
+      "active": false,
+      "final_url": "https://www.chanel.com/fr/parfums/p/126520/chance-eau-de-parfum-vaporisateur/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.chanel.com/fr/parfums/p/126520/chance-eau-de-parfum-vaporisateur/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Chance|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/126460/chance-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/126460/chance-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Chrome|Azzaro": {
+      "active": false,
+      "final_url": "https://www.azzaro.com/fr/parfums/azzaro-chrome/eau-de-toilette",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.azzaro.com/fr/parfums/azzaro-chrome/eau-de-toilette",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Classique Eau de Toilette|Jean Paul Gaultier": {
+      "active": false,
+      "final_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-classique/classique-eau-de-toilette-000000000065119957",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-classique/classique-eau-de-toilette-000000000065119957",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Cloud|Ariana Grande": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://arianagrandefragrances.com/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Coco Mademoiselle Crush Absolu Ambre Intense|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/116190/coco-mademoiselle-crush-absolu-ambre-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/116190/coco-mademoiselle-crush-absolu-ambre-intense/",
+      "url_status": 403
+    },
+    "Coco Mademoiselle Eau de Parfum|Chanel": {
+      "active": false,
+      "final_url": "https://www.chanel.com/fr/parfums/p/116520/coco-mademoiselle-eau-de-parfum-vaporisateur/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.chanel.com/fr/parfums/p/116520/coco-mademoiselle-eau-de-parfum-vaporisateur/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Coco Mademoiselle Fragrance Primer|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/116690/coco-mademoiselle-fragrance-primer/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/116690/coco-mademoiselle-fragrance-primer/",
+      "url_status": 403
+    },
+    "Coco Mademoiselle Leau Privee Eau Pour La Nuit|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/116250/coco-mademoiselle-leau-privee-eau-pour-la-nuit/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/116250/coco-mademoiselle-leau-privee-eau-pour-la-nuit/",
+      "url_status": 403
+    },
+    "Coco Mademoiselle|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/116650/coco-mademoiselle-eau-de-parfum-intense-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/116650/coco-mademoiselle-eau-de-parfum-intense-vaporisateur/",
+      "url_status": 403
+    },
+    "Coco Noir|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/113620/coco-noir-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/113620/coco-noir-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Coco|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/113420/coco-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/113420/coco-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Comete|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122490/comete-eau-de-parfum-floral-poudre-musque/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122490/comete-eau-de-parfum-floral-poudre-musque/",
+      "url_status": 403
+    },
+    "Comme une Évidence|Yves Rocher": {
+      "active": false,
+      "final_url": "https://www.yves-rocher.fr/parfum/parfum-femme/eau-de-parfum-femme/comme-une-evidence-eau-de-parfum/p/30313",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yves-rocher.fr/parfum/parfum-femme/eau-de-parfum-femme/comme-une-evidence-eau-de-parfum/p/30313",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Cool Water|Davidoff": {
+      "active": false,
+      "final_url": "https://www.zinodavidoff.com/fr/fr/fragrances",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.zinodavidoff.com/fr/fr/fragrances",
+      "reason": "official_url_404",
+      "url_status": 404
+    },
+    "Coromandel Extrait Ambre Boise Vanille|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120108/coromandel-extrait-ambre-boise-vanille/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120108/coromandel-extrait-ambre-boise-vanille/",
+      "url_status": 403
+    },
+    "Coromandel Extrait Lecrin Ambre Boise Vanille|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120070/coromandel-extrait-lecrin-ambre-boise-vanille/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120070/coromandel-extrait-lecrin-ambre-boise-vanille/",
+      "url_status": 403
+    },
+    "Coromandel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122290/coromandel-eau-de-parfum-ambre-boise-vanille/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122290/coromandel-eau-de-parfum-ambre-boise-vanille/",
+      "url_status": 403
+    },
+    "Cristalle Eau Verte|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/111690/cristalle-eau-verte-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/111690/cristalle-eau-verte-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Cristalle|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/115690/cristalle-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/115690/cristalle-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Crystal Noir|Versace": {
+      "active": false,
+      "final_url": "https://www.versace.com/fr/fr/femme/accessoires/parfums-et-soins-du-corps/crystal-noir/crystal-noir-parfum-90%C2%A0ml/R07332-R090MLS_RNUL.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.versace.com/fr/fr/femme/accessoires/parfums-et-soins-du-corps/crystal-noir/crystal-noir-parfum-90%C2%A0ml/R07332-R090MLS_RNUL.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Cuir D Ange|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/cuir-d-ange-eau-de-toilette-V113484V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/cuir-d-ange-eau-de-toilette-V113484V0/",
+      "url_status": 200
+    },
+    "Cuir De Russie Extrait Ambre Cuire Floral|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120110/cuir-de-russie-extrait-ambre-cuire-floral/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120110/cuir-de-russie-extrait-ambre-cuire-floral/",
+      "url_status": 403
+    },
+    "Cuir De Russie Extrait Lecrin Ambre Cuire Floral|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120072/cuir-de-russie-extrait-lecrin-ambre-cuire-floral/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120072/cuir-de-russie-extrait-lecrin-ambre-cuire-floral/",
+      "url_status": 403
+    },
+    "Cuir De Russie|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122040/cuir-de-russie-eau-de-parfum-ambre-cuire-floral/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122040/cuir-de-russie-eau-de-parfum-ambre-cuire-floral/",
+      "url_status": 403
+    },
+    "Cuir de Nuit|Yves Rocher": {
+      "active": false,
+      "final_url": "https://www.yves-rocher.fr/parfum/c/20000",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yves-rocher.fr/parfum/c/20000",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Delina|Parfums de Marly": {
+      "active": true,
+      "final_url": "https://parfums-de-marly.com/fr/products/delina",
+      "image_status": "ok",
+      "official_url": "https://parfums-de-marly.com/fr/products/delina",
+      "url_status": 200
+    },
+    "Dior Addict|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/dior-addict-Y0291000.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/dior-addict-Y0291000.html",
+      "url_status": 200
+    },
+    "Dior Homme Cologne|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/dior-homme-cologne-Y9190300.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/dior-homme-cologne-Y9190300.html",
+      "url_status": 200
+    },
+    "Dior Homme Intense|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/dior-homme-intense-Y0479201.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/dior-homme-intense-Y0479201.html",
+      "url_status": 200
+    },
+    "Dior Homme|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/dior-homme-eau-de-toilette-Y0996157.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/dior-homme-eau-de-toilette-Y0996157.html",
+      "url_status": 200
+    },
+    "Dior Hydra Life Eau Fraiche 2 En 1|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/dior-hydra-life-eau-fraiche-2-en-1-Y0996034.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/dior-hydra-life-eau-fraiche-2-en-1-Y0996034.html",
+      "url_status": 200
+    },
+    "Dioramour|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/dioramour-Y0743427.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/dioramour-Y0743427.html",
+      "url_status": 200
+    },
+    "Dolce Garden|Dolce&Gabbana": {
+      "active": false,
+      "final_url": "https://www.dolcegabbana.com/fr-fr/beauty/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.dolcegabbana.com/fr-fr/beauty/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Donna Born in Roma Intense|Valentino": {
+      "active": false,
+      "final_url": "https://www.valentino-beauty.fr/fr_FR/parfums/parfums-femme/born-in-roma-donna/born-in-roma-donna-eau-de-parfum-intense/MPL01906.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.valentino-beauty.fr/fr_FR/parfums/parfums-femme/born-in-roma-donna/born-in-roma-donna-eau-de-parfum-intense/MPL01906.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Dylan Blue|Versace": {
+      "active": false,
+      "final_url": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/dylan-blue-pour-homme/eau-de-toilette-dylan-blue-pour-homme-100%C2%A0ml/R721010-R100MLS_RTU_TU_RNUL__.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/dylan-blue-pour-homme/eau-de-toilette-dylan-blue-pour-homme-100%C2%A0ml/R721010-R100MLS_RTU_TU_RNUL__.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "E Carte Cadeau|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/096010/e-carte-cadeau/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/096010/e-carte-cadeau/",
+      "url_status": 403
+    },
+    "Eau D Orange Verte Eau De Cologne|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/eau-d-orange-verte-eau-de-cologne-V101914V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/eau-d-orange-verte-eau-de-cologne-V101914V0/",
+      "url_status": 403
+    },
+    "Eau De Cologne Zeste Frais Floral|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/101270/eau-de-cologne-zeste-frais-floral/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/101270/eau-de-cologne-zeste-frais-floral/",
+      "url_status": 403
+    },
+    "Eau De Rhubarbe Ecarlate Eau De Cologne|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/eau-de-rhubarbe-ecarlate-eau-de-cologne-V107155V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/eau-de-rhubarbe-ecarlate-eau-de-cologne-V107155V0/",
+      "url_status": 403
+    },
+    "Eau Des Merveilles Bleue|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/eau-des-merveilles-bleue-eau-de-toilette-V107059V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/eau-des-merveilles-bleue-eau-de-toilette-V107059V0/",
+      "url_status": 200
+    },
+    "Eau De|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122160/1957-eau-de-parfum-ambre-musque-floral/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122160/1957-eau-de-parfum-ambre-musque-floral/",
+      "url_status": 403
+    },
+    "Eau Sauvage Cologne|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/eau-sauvage-cologne-Y0997220.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/eau-sauvage-cologne-Y0997220.html",
+      "url_status": 200
+    },
+    "Eau Sauvage|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/eau-sauvage-parfum-Y0896220.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/eau-sauvage-parfum-Y0896220.html",
+      "url_status": 200
+    },
+    "Eau des Merveilles|Hermès": {
+      "active": false,
+      "final_url": "https://www.hermes.com/fr/fr/product/eau-des-merveilles-eau-de-toilette-V107291V0/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.hermes.com/fr/fr/product/eau-des-merveilles-eau-de-toilette-V107291V0/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Ecrin Miss Dior Mini Miss En Edition Limitee|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/ecrin-miss-dior-mini-miss-en-edition-limitee-Y0000213.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/ecrin-miss-dior-mini-miss-en-edition-limitee-Y0000213.html",
+      "url_status": 200
+    },
+    "Egoiste|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/114460/egoiste-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/114460/egoiste-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Elixir Des Merveilles|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/elixir-des-merveilles-eau-de-parfum-V107061V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/elixir-des-merveilles-eau-de-parfum-V107061V0/",
+      "url_status": 200
+    },
+    "Encre Noire|Lalique": {
+      "active": true,
+      "final_url": "https://fr.lalique.com/products/encre-noire-eau-de-toilette-m13201-1",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://fr.lalique.com/products/encre-noire-eau-de-toilette-m13201-1",
+      "url_status": 200
+    },
+    "Equipage|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/equipage-eau-de-toilette-V107405V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/equipage-eau-de-toilette-V107405V0/",
+      "url_status": 200
+    },
+    "Erba Pura|Xerjoff": {
+      "active": true,
+      "final_url": "https://www.xerjoff.com/products/erba-pura-eau-de-parfum",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.xerjoff.com/products/erba-pura-eau-de-parfum",
+      "url_status": 200
+    },
+    "Eros Eau de Parfum|Versace": {
+      "active": false,
+      "final_url": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/eros/eau-de-parfum-eros-100%C2%A0ml/R740110-R100MLS_RNUL.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/eros/eau-de-parfum-eros-100%C2%A0ml/R740110-R100MLS_RNUL.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Eternity for Men|Calvin Klein": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.calvinklein.fr/parfums",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Euphoria|Calvin Klein": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.calvinklein.fr/parfums",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Explorer Platinum Eau de Parfum|Montblanc": {
+      "active": false,
+      "final_url": "https://www.montblanc.com/fr-fr/montblanc-explorer-platinum-eau-de-parfum-60-ml-MB131281.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.montblanc.com/fr-fr/montblanc-explorer-platinum-eau-de-parfum-60-ml-MB131281.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Explorer|Montblanc": {
+      "active": false,
+      "final_url": "https://www.montblanc.com/fr-fr/explorer-eau-de-parfum-100-ml-MB124069VG.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.montblanc.com/fr-fr/explorer-eau-de-parfum-100-ml-MB124069VG.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Extrait Ambre Musque Floral|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120102/1957-extrait-ambre-musque-floral/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120102/1957-extrait-ambre-musque-floral/",
+      "url_status": 403
+    },
+    "Extrait Floral Fruite Boise|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120100/1932-extrait-floral-fruite-boise/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120100/1932-extrait-floral-fruite-boise/",
+      "url_status": 403
+    },
+    "Extrait Lecrin Ambre Musque Floral|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120064/1957-extrait-lecrin-ambre-musque-floral/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120064/1957-extrait-lecrin-ambre-musque-floral/",
+      "url_status": 403
+    },
+    "Extrait Lecrin Floral Fruite Boise|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120062/1932-extrait-lecrin-floral-fruite-boise/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120062/1932-extrait-lecrin-floral-fruite-boise/",
+      "url_status": 403
+    },
+    "Fahrenheit Eau de Toilette|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/fahrenheit-eau-de-toilette-Y0066001.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/fahrenheit-eau-de-toilette-Y0066001.html",
+      "url_status": 200
+    },
+    "Fahrenheit|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/fahrenheit-parfum-Y0866230.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/fahrenheit-parfum-Y0866230.html",
+      "url_status": 200
+    },
+    "Fame Eau de Parfum|Rabanne": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.rabanne.com/fr/fr/fragrance",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Fantasy|Britney Spears": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://britneyspearsbeauty.com/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Faubourg|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/24-faubourg-eau-de-parfum-V107375V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/24-faubourg-eau-de-parfum-V107375V0/",
+      "url_status": 200
+    },
+    "Flaconnier Esprit De|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/flaconnier-esprit-de-parfum---edition-limitee-Y0000025.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/flaconnier-esprit-de-parfum---edition-limitee-Y0000025.html",
+      "url_status": 200
+    },
+    "Fleur de Cerisier|Adopt": {
+      "active": true,
+      "final_url": "https://www.adopt.com/fr/fleur-de-cerisier-eau-de-parfum-100-ml-3701429804459-fr.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.adopt.com/fr/fleur-de-cerisier-eau-de-parfum-100-ml-3701429804459-fr.html",
+      "url_status": 200
+    },
+    "Fleur de Figuier|Roger&Gallet": {
+      "active": true,
+      "final_url": "https://fr.roger-gallet.com/p/RG1002021WW/rg1002021ww-fleur-de-figuier-eau-parfumee-bienfaisante-100-ml",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://fr.roger-gallet.com/p/RG1002021WW/rg1002021ww-fleur-de-figuier-eau-parfumee-bienfaisante-100-ml",
+      "url_status": 200
+    },
+    "Flower by Kenzo Eau de Parfum|Kenzo": {
+      "active": true,
+      "final_url": "https://www.kenzoparfums.com/fr/fr/fragrance/femme/flower-by-kenzo-femme/flower-by-kenzo-eau-de-parfum/K85178000.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.kenzoparfums.com/fr/fr/fragrance/femme/flower-by-kenzo-femme/flower-by-kenzo-eau-de-parfum/K85178000.html",
+      "url_status": 200
+    },
+    "Flowerbomb Eau de Parfum|Viktor&Rolf": {
+      "active": true,
+      "final_url": "https://www.viktor-rolf.com/products/flowerbomb-eau-de-parfum-50ml",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.viktor-rolf.com/products/flowerbomb-eau-de-parfum-50ml",
+      "url_status": 200
+    },
+    "For Her Eau de Toilette|Narciso Rodriguez": {
+      "active": false,
+      "final_url": "https://www.narcisorodriguezparfums.com/fr/narciso-rodriguez-for-her/for-her-edt.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.narcisorodriguezparfums.com/fr/narciso-rodriguez-for-her/for-her-edt.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Gabrielle Chanel Eau de Parfum|Chanel": {
+      "active": false,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120425/gabrielle-chanel-eau-de-parfum-vaporisateur/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120425/gabrielle-chanel-eau-de-parfum-vaporisateur/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Gabrielle Chanel Essence|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120620/gabrielle-chanel-essence-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120620/gabrielle-chanel-essence-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Gabrielle Chanel Fragrance Primer|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120840/gabrielle-chanel-fragrance-primer/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120840/gabrielle-chanel-fragrance-primer/",
+      "url_status": 403
+    },
+    "Gabrielle Chanel Leau|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120350/gabrielle-chanel-leau/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120350/gabrielle-chanel-leau/",
+      "url_status": 403
+    },
+    "Gabrielle Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120440/gabrielle-chanel-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120440/gabrielle-chanel-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Gardenia Extrait Floral Bouquet Intense|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120112/gardenia-extrait-floral-bouquet-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120112/gardenia-extrait-floral-bouquet-intense/",
+      "url_status": 403
+    },
+    "Gardenia Extrait Lecrin Floral Bouquet Intense|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120074/gardenia-extrait-lecrin-floral-bouquet-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120074/gardenia-extrait-lecrin-floral-bouquet-intense/",
+      "url_status": 403
+    },
+    "Gardenia|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122210/gardenia-eau-de-parfum-floral-bouquet-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122210/gardenia-eau-de-parfum-floral-bouquet-intense/",
+      "url_status": 403
+    },
+    "Gardenia|Zara": {
+      "active": false,
+      "final_url": "https://www.zara.com/fr/fr/gardenia-edp-90-ml--3-04-fl--oz---p20120824.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.zara.com/fr/fr/gardenia-edp-90-ml--3-04-fl--oz---p20120824.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Gentle Fluidity Silver|Maison Francis Kurkdjian": {
+      "active": true,
+      "final_url": "https://www.franciskurkdjian.com/eu-fr/p/gentle-fluidity-edition-silver---eau-de-parfum-RA122911.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.franciskurkdjian.com/eu-fr/p/gentle-fluidity-edition-silver---eau-de-parfum-RA122911.html",
+      "url_status": 200
+    },
+    "Gentleman Eau de Parfum Boisée|Givenchy": {
+      "active": false,
+      "final_url": "https://www.givenchybeauty.com/fr/fr/p/gentleman-boisee-F10100127.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.givenchybeauty.com/fr/fr/p/gentleman-givenchy-F10100127.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Grand Soir|Maison Francis Kurkdjian": {
+      "active": true,
+      "final_url": "https://www.franciskurkdjian.com/eu-fr/p/grand-soir-eau-de-parfum-RA122521.html",
+      "image_status": "ok",
+      "official_url": "https://www.franciskurkdjian.com/eu-fr/p/grand-soir-eau-de-parfum-RA122521.html",
+      "url_status": 200
+    },
+    "Green Irish Tweed|Creed": {
+      "active": true,
+      "final_url": "https://www.creedfragrance.fr/p/green-irish-tweed/12870035/",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.creedfragrance.fr/p/green-irish-tweed/12870035/",
+      "url_status": 200
+    },
+    "Green Tea|Elizabeth Arden": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.elizabetharden.fr/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Gris Dior Esprit De|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/gris-dior-esprit-de-parfum-Y0997181.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/gris-dior-esprit-de-parfum-Y0997181.html",
+      "url_status": 200
+    },
+    "Gucci Bloom Eau de Parfum|Gucci": {
+      "active": true,
+      "image_status": null,
+      "official_url": "https://www.gucci.com/fr/fr/ca/beauty/fragrances-c-beauty-fragrances",
+      "url_status": "unreachable"
+    },
+    "Gucci Flora Gorgeous Gardenia|Gucci": {
+      "active": true,
+      "image_status": null,
+      "official_url": "https://www.gucci.com/fr/fr/pr/beauty/fragrances/fragrances-for-women/gucci-flora-gorgeous-gardenia-100ml-eau-de-parfum-p-667343999990099",
+      "url_status": "unreachable"
+    },
+    "Gucci Guilty Pour Homme Eau de Toilette|Gucci": {
+      "active": true,
+      "image_status": null,
+      "official_url": "https://www.gucci.com/fr/fr/ca/beauty/fragrances-c-beauty-fragrances",
+      "url_status": "unreachable"
+    },
+    "Gypsy Water|Byredo": {
+      "active": true,
+      "final_url": "https://www.byredo.com/eu_fr/p/gypsy-water-eau-de-parfum",
+      "image_status": "ok",
+      "official_url": "https://www.byredo.com/eu_fr/p/gypsy-water-eau-de-parfum",
+      "url_status": 200
+    },
+    "H24 Eau de Parfum|Hermès": {
+      "active": false,
+      "final_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-parfum-V108421V0/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-parfum-V108421V0/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "H24|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-toilette-V101561V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-toilette-V101561V0/",
+      "url_status": 403
+    },
+    "Habit Rouge Eau de Parfum|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/habit-rouge-de-guerlain-paris-eau-de-parfum-P030484.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/habit-rouge-eau-de-parfum-P030484.html",
+      "url_status": 200
+    },
+    "Hiris|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/hiris-eau-de-toilette-V107436V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/hiris-eau-de-toilette-V107436V0/",
+      "url_status": 200
+    },
+    "Hoggar|Yves Rocher": {
+      "active": false,
+      "final_url": "https://www.yves-rocher.fr/parfum/c/20000",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yves-rocher.fr/parfum/c/20000",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Holy Peony|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/holy-peony-Y0996109.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/holy-peony-Y0996109.html",
+      "url_status": 200
+    },
+    "Hypnotic Poison Eau de Toilette|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/hypnotic-poison-eau-de-toilette-Y0063401.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/hypnotic-poison-eau-de-toilette-Y0063401.html",
+      "url_status": 200
+    },
+    "Hypnotic Poison|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/hypnotic-poison-eau-de-toilette-Y0063401.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/hypnotic-poison-eau-de-toilette-Y0063401.html",
+      "url_status": 200
+    },
+    "Idôle Eau de Parfum|Lancôme": {
+      "active": false,
+      "final_url": "https://www.lancome.fr/parfum/parfum-femme/idole/idole/A01707-LAC.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.lancome.fr/parfum/parfum-femme/idole/idole/A01707-LAC.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Instinct|David Beckham": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.davidbeckhamfragrances.com/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Invictus Eau de Toilette|Rabanne": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.rabanne.com/fr/fr/fragrance",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Irresistible Givenchy Eau de Parfum|Givenchy": {
+      "active": false,
+      "final_url": "https://www.givenchybeauty.com/fr/fr/p/irresistible-P090770.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.givenchybeauty.com/fr/fr/p/irresistible-P090770.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "J'adore Eau de Parfum|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/jadore-eau-de-parfum-Y0998031.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/jadore-eau-de-parfum-Y0998031.html",
+      "url_status": 200
+    },
+    "Jadore|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/jadore-eau-de-toilette-roller-pearl-Y0996038.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/jadore-eau-de-toilette-roller-pearl-Y0996038.html",
+      "url_status": 200
+    },
+    "Jasmin Des Anges Esprit De|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/jasmin-des-anges-esprit-de-parfum-Y0000268.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/jasmin-des-anges-esprit-de-parfum-Y0000268.html",
+      "url_status": 200
+    },
+    "Jasmin Des Anges|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/jasmin-des-anges-Y0742427.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/jasmin-des-anges-Y0742427.html",
+      "url_status": 200
+    },
+    "Jazz Club|Maison Margiela": {
+      "active": false,
+      "final_url": "https://www.maisonmargiela.com/fr-fr/replica-jazz-club---ambiance-envo%C3%BBtante-S33YX0016S10930001.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.maisonmargiela.com/fr-fr/replica-jazz-club---ambiance-envo%C3%BBtante-S33YX0016S10930001.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Jersey Extrait Aromatique Musque Vanille|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120114/jersey-extrait-aromatique-musque-vanille/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120114/jersey-extrait-aromatique-musque-vanille/",
+      "url_status": 403
+    },
+    "Jersey Extrait Lecrin Aromatique Musque Vanille|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120076/jersey-extrait-lecrin-aromatique-musque-vanille/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120076/jersey-extrait-lecrin-aromatique-musque-vanille/",
+      "url_status": 403
+    },
+    "Jersey|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122320/jersey-eau-de-parfum-aromatique-musque-vanille/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122320/jersey-eau-de-parfum-aromatique-musque-vanille/",
+      "url_status": 403
+    },
+    "Jimmy Choo Eau de Parfum|Jimmy Choo": {
+      "active": false,
+      "final_url": "https://row.jimmychoo.com/fr/jimmy-choo-edp-100ml/jimmy-choo-eau-de-parfum-100ml-JCEDP100MLFPKC110653.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://row.jimmychoo.com/fr/jimmy-choo-edp-100ml/jimmy-choo-eau-de-parfum-100ml-JCEDP100MLFPKC110653.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Jimmy Choo Man Intense|Jimmy Choo": {
+      "active": false,
+      "final_url": "https://row.jimmychoo.com/fr/homme/parfums/man-intense-edt-100ml/jimmy-choo-man-intense-100ml-MINTENSE100MLFDBG101224.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://row.jimmychoo.com/fr/homme/parfums/man-intense-edt-100ml/jimmy-choo-man-intense-100ml-MINTENSE100MLFDBG101224.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Jour D Hermes Absolu|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/jour-d-hermes-absolu-eau-de-parfum-V107548V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/jour-d-hermes-absolu-eau-de-parfum-V107548V0/",
+      "url_status": 200
+    },
+    "Joy De Dior|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/joy-de-dior-Y0996027.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/joy-de-dior-Y0996027.html",
+      "url_status": 200
+    },
+    "K by Dolce&Gabbana Eau de Parfum|Dolce&Gabbana": {
+      "active": false,
+      "final_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/k-by-dolceetgabbana/k-by-dg-edp-200ml---158057971183937.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/k-by-dolceetgabbana/k-by-dg-edp-200ml---158057971183937.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Kenzo Homme Eau de Parfum|Kenzo": {
+      "active": true,
+      "final_url": "https://www.kenzoparfums.com/fr/fr/fragrance/homme/kenzo-homme/kenzo-homme-eau-de-parfum/K10200043.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.kenzoparfums.com/fr/fr/fragrance/homme/kenzo-homme/kenzo-homme-eau-de-parfum/K10200043.html",
+      "url_status": 200
+    },
+    "L Ambre Des Merveilles|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/l-ambre-des-merveilles-eau-de-parfum-V107245V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/l-ambre-des-merveilles-eau-de-parfum-V107245V0/",
+      "url_status": 200
+    },
+    "L Ombre Des Merveilles|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/l-ombre-des-merveilles-eau-de-parfum-V101653V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/l-ombre-des-merveilles-eau-de-parfum-V101653V0/",
+      "url_status": 403
+    },
+    "L'Eau d'Issey Pour Homme|Issey Miyake": {
+      "active": false,
+      "final_url": "https://www.isseymiyakeparfums.com/fr/issey-miyake-l%E2%80%99eau-d%E2%80%99issey-pour-homme-eau-de-toilette-EIH_EDT.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.isseymiyakeparfums.com/fr/issey-miyake-l%E2%80%99eau-d%E2%80%99issey-pour-homme-eau-de-toilette-EIH_EDT.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "L'Eau d'Issey|Issey Miyake": {
+      "active": false,
+      "final_url": "https://www.isseymiyakeparfums.com/fr/issey-miyake-l-eau-d-issey-eau-de-toilette-EI_EDT.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.isseymiyakeparfums.com/fr/issey-miyake-l-eau-d-issey-eau-de-toilette-EI_EDT.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "L'Evidence Eau de Parfum|Yves Rocher": {
+      "active": false,
+      "final_url": "https://www.yves-rocher.fr/parfum/parfum-femme/eau-de-parfum-femme/l-evidence-eau-de-parfum/p/30137",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yves-rocher.fr/parfum/parfum-femme/eau-de-parfum-femme/l-evidence-eau-de-parfum/p/30137",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "L'Homme Eau de Toilette|Yves Saint Laurent": {
+      "active": false,
+      "final_url": "https://www.yslbeauty.fr/parfums/parfum-homme/l-homme/l-homme-eau-de-toilette/284YSL.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yslbeauty.fr/parfums/parfum-homme/l-homme/l-homme-eau-de-toilette/284YSL.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "L'Homme Idéal Eau de Parfum|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lhomme-ideal-de-guerlain-paris-eau-de-parfum-G030312.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lhomme-ideal-de-guerlain-paris-eau-de-parfum-G030312.html",
+      "url_status": 200
+    },
+    "L'Interdit Eau de Parfum|Givenchy": {
+      "active": false,
+      "final_url": "https://www.givenchybeauty.com/fr/fr/p/l-interdit-P069002.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.givenchybeauty.com/fr/fr/p/l-interdit-P069002.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "L'eau virile|Adopt": {
+      "active": true,
+      "final_url": "https://www.adopt.com/fr/l-eau-virile-eau-de-parfum.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.adopt.com/fr/l-eau-virile-eau-de-parfum.html",
+      "url_status": 200
+    },
+    "La Belle Le Parfum|Jean Paul Gaultier": {
+      "active": false,
+      "final_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-la-belle/la-belle-le-parfum-eau-de-parfum-intense-000000000065167903",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-la-belle/la-belle-le-parfum-eau-de-parfum-intense-000000000065167903",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "La Nuit de L'Homme|Yves Saint Laurent": {
+      "active": false,
+      "final_url": "https://www.yslbeauty.fr/parfums/parfum-homme/la-nuit-de-l-homme/la-nuit-de-l-homme-eau-de-toilette/426YSL.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yslbeauty.fr/parfums/parfum-homme/la-nuit-de-l-homme/la-nuit-de-l-homme-eau-de-toilette/426YSL.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "La Palette Du|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/la-palette-du-parfumeur-Y0000408.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/la-palette-du-parfumeur-Y0000408.html",
+      "url_status": 200
+    },
+    "La Pausa|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122270/la-pausa-eau-de-parfum-floral-poudre-boise/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122270/la-pausa-eau-de-parfum-floral-poudre-boise/",
+      "url_status": 403
+    },
+    "La Petite Robe Noire|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/la-petite-robe-noire-eau-de-toilette-P014926.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/la-petite-robe-noire-eau-de-toilette-P014926.html",
+      "url_status": 200
+    },
+    "La Vie Est Belle Eau de Parfum|Lancôme": {
+      "active": false,
+      "final_url": "https://www.lancome.fr/parfum/parfum-femme/la-vie-est-belle/la-vie-est-belle/3614273603393.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.lancome.fr/parfum/parfum-femme/la-vie-est-belle/la-vie-est-belle/3614273603393.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Lart La Matiere Angelique Noire|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-angelique-noire-eau-de-parfum-G017898.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-angelique-noire-eau-de-parfum-G017898.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Bergamote Fantastico Extrait 11   Extrait|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-bergamote-fantastico-extrait-11---extrait-G014750.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-bergamote-fantastico-extrait-11---extrait-G014750.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Bougie|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-bougie-parfumee-personnalisable-B000001.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-bougie-parfumee-personnalisable-B000001.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Cherry Oud|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-cherry-oud---eau-de-parfum-G014493.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-cherry-oud---eau-de-parfum-G014493.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Cruel Gardenia|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-cruel-gardenia-eau-de-parfum-G017902.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-cruel-gardenia-eau-de-parfum-G017902.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Cuir Beluga|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-cuir-beluga-eau-de-parfum-G017904.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-cuir-beluga-eau-de-parfum-G017904.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Eau De Cashmere|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-cashmere-eau-de-toilette-G062220.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-cashmere-eau-de-toilette-G062220.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Eau De Coton|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-coton---eau-de-toilette-G062212.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-coton---eau-de-toilette-G062212.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Eau De Lingerie|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-lingerie-eau-de-toilette-G062216.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-lingerie-eau-de-toilette-G062216.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Eau De Popeline|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-popeline-eau-de-toilette-G062214.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-popeline-eau-de-toilette-G062214.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Eau De Tulle|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-tulle-eau-de-parfum-G062218.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-eau-de-tulle-eau-de-parfum-G062218.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Epices Volees|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-epices-volees-eau-de-parfum-G017932.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-epices-volees-eau-de-parfum-G017932.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Feve Gourmande|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-feve-gourmande-eau-de-parfum-G014799.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-feve-gourmande-eau-de-parfum-G014799.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Herbes Troublantes|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-herbes-troublantes-eau-de-parfum-G017940.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-herbes-troublantes-eau-de-parfum-G017940.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Iris Pallida Extrait 6   Extrait|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-iris-pallida-extrait-6---extrait-G014753.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-iris-pallida-extrait-6---extrait-G014753.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Jasmin Bonheur|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-jasmin-bonheur---eau-de-parfum-G014658.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-jasmin-bonheur---eau-de-parfum-G014658.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Jasmin Grandiflorum Extrait 30   Extrait|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-jasmin-grandiflorum-extrait-30---extrait-G014751.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-jasmin-grandiflorum-extrait-30---extrait-G014751.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Joyeuse Tubereuse|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-joyeuse-tubereuse-eau-de-parfum-G017908.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-joyeuse-tubereuse-eau-de-parfum-G017908.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Musc Outreblanc|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-musc-outreblanc-eau-de-parfum-G018223.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-musc-outreblanc-eau-de-parfum-G018223.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Neroli Outrenoir|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-neroli-outrenoir-eau-de-parfum-G017910.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-neroli-outrenoir-eau-de-parfum-G017910.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Neroli Plein Sud|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-neroli-plein-sud-eau-de-parfum-G014792.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-neroli-plein-sud-eau-de-parfum-G014792.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Oud Khol|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-oud-khol-eau-de-parfum-G014494.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-oud-khol-eau-de-parfum-G014494.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Oud Nude|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-oud-nude-eau-de-parfum-G014492.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-oud-nude-eau-de-parfum-G014492.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Patchouli Paris|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-patchouli-paris-eau-de-parfum-G014881.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-patchouli-paris-eau-de-parfum-G014881.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Peche Mirage|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-peche-mirage---eau-de-parfum-G014918.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-peche-mirage---eau-de-parfum-G014918.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Rose Barbare|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-rose-barbare-eau-de-parfum-G017912.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-rose-barbare-eau-de-parfum-G017912.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Rose Centifolia Extrait 1 Extrait|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-rose-centifolia-extrait-1-extrait-G014755.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-rose-centifolia-extrait-1-extrait-G014755.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Rose Cherie|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-rose-cherie-eau-de-parfum-G018104.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-rose-cherie-eau-de-parfum-G018104.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Santal Pao Rosa|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-santal-pao-rosa-eau-de-parfum-G018120.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-santal-pao-rosa-eau-de-parfum-G018120.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Spiritueuse Double Vanille|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-spiritueuse-double-vanille-eau-de-parfum-G017906.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-spiritueuse-double-vanille-eau-de-parfum-G017906.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Tobacco Honey|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-tobacco-honey-eau-de-parfum-G014726.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-tobacco-honey-eau-de-parfum-G014726.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Vanille Planifolia Extrait 21 Extrait|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-vanille-planifolia-extrait-21-extrait-G014754.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-vanille-planifolia-extrait-21-extrait-G014754.html",
+      "url_status": 200
+    },
+    "Lart La Matiere Vetiver Fauve|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-vetiver-fauve---eau-de-parfum-G062111.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-vetiver-fauve---eau-de-parfum-G062111.html",
+      "url_status": 200
+    },
+    "Layton|Parfums de Marly": {
+      "active": true,
+      "final_url": "https://parfums-de-marly.com/fr/collections/all/products/layton",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://parfums-de-marly.com/fr/collections/all/products/layton",
+      "url_status": 200
+    },
+    "Le Beau Le Parfum|Jean Paul Gaultier": {
+      "active": false,
+      "final_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-le-beau/le-beau-le-parfum-eau-de-parfum-intense-000000000065180318",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-le-beau/le-beau-le-parfum-eau-de-parfum-intense-000000000065180318",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Le Lion De Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122180/le-lion-de-chanel-eau-de-parfum-ambre-boise-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122180/le-lion-de-chanel-eau-de-parfum-ambre-boise-intense/",
+      "url_status": 403
+    },
+    "Le Male Elixir|Jean Paul Gaultier": {
+      "active": false,
+      "final_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-le-male/le-male-elixir-parfum-000000000065188980",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-le-male/le-male-elixir-parfum-000000000065188980",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Legend Spirit|Montblanc": {
+      "active": false,
+      "final_url": "https://www.montblanc.com/fr-fr/montblanc-legend-spirit-eau-de-toilette-100-ml-MB115364VG.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.montblanc.com/fr-fr/montblanc-legend-spirit-eau-de-toilette-100-ml-MB115364VG.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Les Colognes Eau De Cologne Imperiale|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/les-colognes-eau-de-cologne-imperiale-P021766.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/les-colognes-eau-de-cologne-imperiale-P021766.html",
+      "url_status": 200
+    },
+    "Les Eaux De Chanel Le Voyage Collection De 6|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/102108/les-eaux-de-chanel-le-voyage-collection-de-6-vaporisateurs-pour-le-voyage/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/102108/les-eaux-de-chanel-le-voyage-collection-de-6-vaporisateurs-pour-le-voyage/",
+      "url_status": 403
+    },
+    "Libre Eau de Parfum|Yves Saint Laurent": {
+      "active": false,
+      "final_url": "https://www.yslbeauty.fr/parfums/parfum-femme/libre/libre-eau-de-parfum/WW-50424YSL.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yslbeauty.fr/parfums/parfum-femme/libre/libre-eau-de-parfum/WW-50424YSL.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Light Blue Eau Intense|Dolce&Gabbana": {
+      "active": false,
+      "final_url": "https://www.dolcegabbana.com/fr-fr/beauty/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.dolcegabbana.com/fr-fr/beauty/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Light Blue Pour Homme|Dolce&Gabbana": {
+      "active": false,
+      "final_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/light-blue-pour-homme/light-blue-pour-homme-eau-de-parfum---VT034DVT0009V000.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/light-blue-pour-homme/light-blue-pour-homme-eau-de-parfum---VT034DVT0009V000.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Lost Cherry|Tom Ford": {
+      "active": true,
+      "final_url": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+      "image_status": "ok",
+      "official_url": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+      "url_status": 200
+    },
+    "Love, Don't Be Shy|Kilian Paris": {
+      "active": false,
+      "final_url": "https://www.bykilian.fr/en-e-fr/product/25910/136065/parfum/narcotic-floral-perfume/love-dont-be-shy/floral-perfume",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.bykilian.fr/en-e-fr/product/25910/136065/parfum/narcotic-floral-perfume/love-dont-be-shy/floral-perfume",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Lucky Esprit De|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/lucky-esprit-de-parfum-Y0997185.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/lucky-esprit-de-parfum-Y0997185.html",
+      "url_status": 200
+    },
+    "Lucky|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/lucky-Y0750427.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/lucky-Y0750427.html",
+      "url_status": 200
+    },
+    "Luna Rossa Black|Prada": {
+      "active": false,
+      "final_url": "https://www.prada-beauty.com/fragrance/luna-rossa/luna-rossa-black-eau-de-parfum/3614273991865.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.prada-beauty.com/fragrance/luna-rossa/luna-rossa-black-eau-de-parfum/3614273991865.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Man Eau Fraîche|Versace": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.versace.com/fr/fr/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Miracle Eau de Parfum|Lancôme": {
+      "active": false,
+      "final_url": "https://www.lancome.fr/parfum/parfum-femme/miracle/miracle/3147758029406.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.lancome.fr/parfum/parfum-femme/miracle/miracle/3147758029406.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Misia|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122340/misia-eau-de-parfum-floral-poudre-ambre/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122340/misia-eau-de-parfum-floral-poudre-ambre/",
+      "url_status": 403
+    },
+    "Miss Dior Blooming Bouquet Mini Miss|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/miss-dior-blooming-bouquet-mini-miss-parfum-solide-Y0997138.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/miss-dior-blooming-bouquet-mini-miss-parfum-solide-Y0997138.html",
+      "url_status": 200
+    },
+    "Miss Dior Eau de Parfum|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/miss-dior-eau-de-parfum-Y0000393.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/miss-dior-eau-de-parfum-Y0000393.html",
+      "url_status": 200
+    },
+    "Miss Dior|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/miss-dior-extrait-de-parfum-original-Y0862150.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/miss-dior-extrait-de-parfum-original-Y0862150.html",
+      "url_status": 200
+    },
+    "Mojave Ghost|Byredo": {
+      "active": true,
+      "final_url": "https://www.byredo.com/eu_fr/p/mojave-ghost-eau-de-parfum",
+      "image_status": "ok",
+      "official_url": "https://www.byredo.com/eu_fr/p/mojave-ghost-eau-de-parfum",
+      "url_status": 200
+    },
+    "Mon Guerlain Eau de Parfum|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/mon-guerlain-eau-de-parfum-P013139.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/mon-guerlain-eau-de-parfum-P013139.html",
+      "url_status": 200
+    },
+    "Mon Paris Eau de Parfum|Yves Saint Laurent": {
+      "active": false,
+      "final_url": "https://www.yslbeauty.fr/parfums/parfum-femme/mon-paris/mon-paris-eau-de-parfum/WW-41800YSL.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yslbeauty.fr/parfums/parfum-femme/mon-paris/mon-paris-eau-de-parfum/WW-41800YSL.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Musc Elixir Precieux|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/musc-elixir-precieux-Y0046330.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/musc-elixir-precieux-Y0046330.html",
+      "url_status": 200
+    },
+    "Musc Ravageur|Frédéric Malle": {
+      "active": true,
+      "final_url": "https://www.fredericmalle.com/product/19566/50126/parfums/musc-ravageur/by-maurice-roucel",
+      "image_status": "ok",
+      "official_url": "https://www.fredericmalle.com/product/19566/50126/parfums/musc-ravageur/by-maurice-roucel",
+      "url_status": 403
+    },
+    "My Way Eau de Parfum|Giorgio Armani": {
+      "active": false,
+      "final_url": "https://www.armanibeauty.fr/parfums/parfums-pour-femme/my-way/my-way-eau-de-parfum---rechargeable/ww-00343-arm.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-femme/my-way/my-way-eau-de-parfum---rechargeable/ww-00343-arm.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Naxos|Xerjoff": {
+      "active": true,
+      "final_url": "https://www.xerjoff.com/en-us/products/naxos-eau-de-parfum",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.xerjoff.com/products/naxos-eau-de-parfum",
+      "url_status": 200
+    },
+    "Neroli Portofino|Tom Ford": {
+      "active": true,
+      "final_url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum",
+      "image_status": "ok",
+      "official_url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum",
+      "url_status": 200
+    },
+    "N°18|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122260/n18-eau-de-parfum-boise-floral-musque/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122260/n18-eau-de-parfum-boise-floral-musque/",
+      "url_status": 403
+    },
+    "N°19 Poudre|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/119490/n19-poudre-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/119490/n19-poudre-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "N°19|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/119690/n19-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/119690/n19-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "N°22 Extrait Floral Poudre Aldehyde|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120116/n22-extrait-floral-poudre-aldehyde/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120116/n22-extrait-floral-poudre-aldehyde/",
+      "url_status": 403
+    },
+    "N°22 Extrait Lecrin Floral Poudre Aldehyde|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120078/n22-extrait-lecrin-floral-poudre-aldehyde/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120078/n22-extrait-lecrin-floral-poudre-aldehyde/",
+      "url_status": 403
+    },
+    "N°22|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122020/n22-eau-de-parfum-floral-poudre-aldehyde/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122020/n22-eau-de-parfum-floral-poudre-aldehyde/",
+      "url_status": 403
+    },
+    "N°5 Eau Premiere|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/105340/n5-eau-premiere-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/105340/n5-eau-premiere-vaporisateur/",
+      "url_status": 403
+    },
+    "N°5 Eau de Parfum|Chanel": {
+      "active": false,
+      "final_url": "https://www.chanel.com/fr/parfums/p/125430/n5-eau-de-parfum-vaporisateur/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.chanel.com/fr/parfums/p/125430/n5-eau-de-parfum-vaporisateur/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "N°5 Extrait Floral Abstrait Intense|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120120/n5-extrait-floral-abstrait-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120120/n5-extrait-floral-abstrait-intense/",
+      "url_status": 403
+    },
+    "N°5 Extrait Lecrin Floral Abstrait Intense|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120080/n5-extrait-lecrin-floral-abstrait-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120080/n5-extrait-lecrin-floral-abstrait-intense/",
+      "url_status": 403
+    },
+    "N°5 Leau On Hand Cream|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/105580/n5-leau-on-hand-cream/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/105580/n5-leau-on-hand-cream/",
+      "url_status": 403
+    },
+    "N°5 Leau|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/105510/n5-leau-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/105510/n5-leau-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "N°5|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/125530/n5-eau-de-parfum-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/125530/n5-eau-de-parfum-vaporisateur/",
+      "url_status": 403
+    },
+    "Olympéa Eau de Parfum|Rabanne": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.rabanne.com/fr/fr/fragrance",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Ombré Leather|Tom Ford": {
+      "active": true,
+      "final_url": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
+      "image_status": "ok",
+      "official_url": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
+      "url_status": 200
+    },
+    "Opium Eau de Parfum|Yves Saint Laurent": {
+      "active": false,
+      "final_url": "https://www.yslbeauty.fr/parfums/parfum-femme/opium/opium-eau-de-parfum-spray/231YSL.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yslbeauty.fr/parfums/parfum-femme/opium/opium-eau-de-parfum-spray/231YSL.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Orchidee Imperiale Black Extrait Prive Lumiere|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-black-extrait-prive-lumiere-G062005.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-black-extrait-prive-lumiere-G062005.html",
+      "url_status": 200
+    },
+    "Orchidee Imperiale Black Extrait Prive Recuperation|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-black-extrait-prive-recuperation-G062007.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-black-extrait-prive-recuperation-G062007.html",
+      "url_status": 200
+    },
+    "Orchidee Imperiale Black Extrait Prive Renouveau|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-black-extrait-prive-renouveau-G062008.html",
+      "image_status": "ok",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-black-extrait-prive-renouveau-G062008.html",
+      "url_status": 200
+    },
+    "Oud Alezan|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/oud-alezan-eau-de-parfum-V113467V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/oud-alezan-eau-de-parfum-V113467V0/",
+      "url_status": 200
+    },
+    "Oud Elixir Precieux|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/oud-elixir-precieux-Y0046130.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/oud-elixir-precieux-Y0046130.html",
+      "url_status": 200
+    },
+    "Oud Ispahan Esprit De|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/oud-ispahan-esprit-de-parfum-Y0997183.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/oud-ispahan-esprit-de-parfum-Y0997183.html",
+      "url_status": 200
+    },
+    "Oud Satin Mood|Maison Francis Kurkdjian": {
+      "active": true,
+      "final_url": "https://www.franciskurkdjian.com/eu-fr/p/oud-satin-mood-eau-de-parfum-RA12221.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.franciskurkdjian.com/eu-fr/p/oud-satin-mood-eau-de-parfum-RA12221.html",
+      "url_status": 200
+    },
+    "Oud Wood|Tom Ford": {
+      "active": true,
+      "final_url": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+      "image_status": "ok",
+      "official_url": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+      "url_status": 200
+    },
+    "Palette Du|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/palette-du-parfumeur-Y0000085.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/palette-du-parfumeur-Y0000085.html",
+      "url_status": 200
+    },
+    "Palette Florale Du|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/palette-florale-du-parfumeur-Y0000146.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/palette-florale-du-parfumeur-Y0000146.html",
+      "url_status": 200
+    },
+    "Paradoxe Eau de Parfum|Prada": {
+      "active": false,
+      "final_url": "https://www.prada-beauty.com/fragrance/paradoxe/paradoxe-eau-de-parfum/MPL01610.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.prada-beauty.com/fragrance/paradoxe/paradoxe-eau-de-parfum/MPL01610.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Paris Biarritz Les Eaux De Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/102410/paris-biarritz-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/102410/paris-biarritz-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Paris Deauville Les Eaux De Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/102600/paris-deauville-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/102600/paris-deauville-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Paris Edimbourg Les Eaux De Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/102747/paris-edimbourg-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/102747/paris-edimbourg-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Paris Paris Les Eaux De Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/102440/paris-paris-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/102440/paris-paris-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Paris Riviera Les Eaux De Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/102430/paris-riviera-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/102430/paris-riviera-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Paris Venise Les Eaux De Chanel|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/102420/paris-venise-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/102420/paris-venise-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Patchouli Elixir Precieux|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/patchouli-elixir-precieux-Y0997037.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/patchouli-elixir-precieux-Y0997037.html",
+      "url_status": 200
+    },
+    "Pegasus|Parfums de Marly": {
+      "active": true,
+      "final_url": "https://parfums-de-marly.com/fr/products/pegasus",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://parfums-de-marly.com/fr/products/pegasus",
+      "url_status": 200
+    },
+    "Philosykos Eau de Parfum|Diptyque": {
+      "active": true,
+      "final_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-philosykos-philop75cv1",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-philosykos-philop75cv1",
+      "url_status": 200
+    },
+    "Platinum Egoiste|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/124450/platinum-egoiste-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/124450/platinum-egoiste-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Poison Girl Eau de Parfum|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/poison-girl-Y0763220.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/poison-girl-Y0763220.html",
+      "url_status": 200
+    },
+    "Pour Monsieur|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/117460/pour-monsieur-eau-de-toilette-vaporisateur/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/117460/pour-monsieur-eau-de-toilette-vaporisateur/",
+      "url_status": 403
+    },
+    "Prada L'Homme|Prada": {
+      "active": false,
+      "final_url": "https://www.prada-beauty.com/fragrance/lhomme-prada/lhomme-prada-eau-de-toilette/MPL01352.html?geo=false",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.prada-beauty.com/fragrance/lhomme-prada/lhomme-prada-eau-de-toilette/MPL01352.html?geo=false",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Purple Oud|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/purple-oud-Y0786427.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/purple-oud-Y0786427.html",
+      "url_status": 200
+    },
+    "Red Temptation|Zara": {
+      "active": false,
+      "final_url": "https://www.zara.com/fr/fr/z-nos-boutiques-st1404.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.zara.com/fr/fr/parfums-l1404.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Reflection Man|Amouage": {
+      "active": true,
+      "final_url": "https://amouage.com/products/reflection-man-100ml",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://amouage.com/en-eu/products/reflection-man-100ml",
+      "url_status": 200
+    },
+    "Rich Warm Addictive|Zara": {
+      "active": false,
+      "final_url": "https://www.zara.com/fr/fr/z-nos-boutiques-st1404.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.zara.com/fr/fr/parfums-l1404.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Rocabar|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/rocabar-eau-de-toilette-V107401V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/rocabar-eau-de-toilette-V107401V0/",
+      "url_status": 200
+    },
+    "Rochas Man Intense|Rochas": {
+      "active": false,
+      "final_url": "https://www.rochas.com/fr/parfums/rochas-man-intense",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.rochas.com/fr/parfums/rochas-man-intense",
+      "reason": "official_url_404",
+      "url_status": 404
+    },
+    "Rochas Man|Rochas": {
+      "active": true,
+      "final_url": "https://www.rochas.com/fr/parfums/rochas-man",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.rochas.com/fr/parfums/rochas-man",
+      "url_status": 200
+    },
+    "Rose Kabuki|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/rose-kabuki-Y0996013.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/rose-kabuki-Y0996013.html",
+      "url_status": 200
+    },
+    "Rouge Hermes|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/rouge-hermes-eau-de-toilette-V108307V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/rouge-hermes-eau-de-toilette-V108307V0/",
+      "url_status": 200
+    },
+    "Rouge Trafalgar Esprit De|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/rouge-trafalgar-esprit-de-parfum-Y0997184.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/rouge-trafalgar-esprit-de-parfum-Y0997184.html",
+      "url_status": 200
+    },
+    "Rue Cambon|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122050/31-rue-cambon-eau-de-parfum-boise-floral-epice/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122050/31-rue-cambon-eau-de-parfum-boise-floral-epice/",
+      "url_status": 403
+    },
+    "Santal 33|Le Labo": {
+      "active": true,
+      "final_url": "https://www.lelabofragrances.com/fr/santal-33-147.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.lelabofragrances.com/fr/santal-33-147.html",
+      "url_status": 200
+    },
+    "Sauvage Eau de Parfum|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-eau-de-parfum-C099700027.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-eau-de-parfum-C099700027.html",
+      "url_status": 200
+    },
+    "Sauvage Elixir|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-elixir-E000000932.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-elixir-E000000932.html",
+      "url_status": 200
+    },
+    "Sauvage Extrait|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-extrait-Y0000281.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-extrait-Y0000281.html",
+      "url_status": 200
+    },
+    "Sauvage|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-parfum-Y0998004.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/sauvage-parfum-Y0998004.html",
+      "url_status": 200
+    },
+    "Scandal Pour Homme|Jean Paul Gaultier": {
+      "active": false,
+      "final_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-scandal-pour-homme/scandal-pour-homme-eau-de-toilette-000000000065154951",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-scandal-pour-homme/scandal-pour-homme-eau-de-toilette-000000000065154951",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Shalimar Eau de Parfum|Guerlain": {
+      "active": true,
+      "final_url": "https://www.guerlain.com/fr/fr-fr/p/shalimar-eau-de-parfum-P011355.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.guerlain.com/fr/fr-fr/p/shalimar-eau-de-parfum-P011355.html",
+      "url_status": 200
+    },
+    "Side Effect|Initio Parfums Privés": {
+      "active": true,
+      "final_url": "https://initioparfums.com/products/side-effect",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://initioparfums.com/products/side-effect",
+      "url_status": 200
+    },
+    "Silver Mountain Water|Creed": {
+      "active": true,
+      "final_url": "https://www.creedfragrance.fr/p/silver-mountain-water/12870049/",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.creedfragrance.fr/p/silver-mountain-water/12870049/",
+      "url_status": 200
+    },
+    "Spice Blend|Dior": {
+      "active": true,
+      "final_url": "https://www.dior.com/fr_fr/beauty/products/spice-blend-Y0996128.html",
+      "image_status": "ok",
+      "official_url": "https://www.dior.com/fr_fr/beauty/products/spice-blend-Y0996128.html",
+      "url_status": 200
+    },
+    "Spicebomb Extreme|Viktor&Rolf": {
+      "active": true,
+      "final_url": "https://www.viktor-rolf.com/en-us",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.viktor-rolf.com/products/spicebomb-extreme-eau-de-parfum-90ml",
+      "url_status": 200
+    },
+    "Stronger With You Intensely|Emporio Armani": {
+      "active": false,
+      "final_url": "https://www.armanibeauty.fr/parfums/parfums-pour-homme/stronger-with-you/emporio-armani-stronger-with-you-intensely-eau-de-parfum/3614272225718.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-homme/stronger-with-you/emporio-armani-stronger-with-you-intensely-eau-de-parfum/3614272225718.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Sycomore Extrait Boise Ambre Intense|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120124/sycomore-extrait-boise-ambre-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120124/sycomore-extrait-boise-ambre-intense/",
+      "url_status": 403
+    },
+    "Sycomore Extrait Lecrin Boise Ambre Intense|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/120082/sycomore-extrait-lecrin-boise-ambre-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/120082/sycomore-extrait-lecrin-boise-ambre-intense/",
+      "url_status": 403
+    },
+    "Sycomore|Chanel": {
+      "active": true,
+      "final_url": "https://www.chanel.com/fr/parfums/p/122100/sycomore-eau-de-parfum-boise-ambre-intense/",
+      "image_status": "ok",
+      "official_url": "https://www.chanel.com/fr/parfums/p/122100/sycomore-eau-de-parfum-boise-ambre-intense/",
+      "url_status": 403
+    },
+    "Sì Eau de Parfum|Giorgio Armani": {
+      "active": false,
+      "final_url": "https://www.armanibeauty.fr/parfums/parfums-pour-femme/si/si-eau-de-parfum/AP35200.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-femme/si/si-eau-de-parfum/AP35200.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Tam Dao Eau de Parfum|Diptyque": {
+      "active": true,
+      "final_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-tam-dao-tamdaop75cv1",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-tam-dao-tamdaop75cv1",
+      "url_status": 200
+    },
+    "Terre D Hermes Eau Givree|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
+      "url_status": 403
+    },
+    "Terre D Hermes Eau Intense Vetiver|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-intense-vetiver-eau-de-parfum-V100057V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-intense-vetiver-eau-de-parfum-V100057V0/",
+      "url_status": 200
+    },
+    "Terre D Hermes|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
+      "url_status": 403
+    },
+    "Terre d'Hermès Eau Givrée|Hermès": {
+      "active": false,
+      "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Terre d'Hermès|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
+      "url_status": 403
+    },
+    "The One Eau de Parfum|Dolce&Gabbana": {
+      "active": false,
+      "final_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/the-one-for-men/eau-de-parfum---158057971180561.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/the-one-for-men/eau-de-parfum---158057971180561.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Thé Blanc|Solinotes": {
+      "active": true,
+      "final_url": "https://solinotes.com/collections/eaux-de-parfum",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://solinotes.com/collections/eaux-de-parfum",
+      "url_status": 200
+    },
+    "To Be|Police": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://policelifestyle.com/fr/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Tobacco Vanille|Tom Ford": {
+      "active": true,
+      "final_url": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum",
+      "image_status": "ok",
+      "official_url": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum",
+      "url_status": 200
+    },
+    "Trésor Eau de Parfum|Lancôme": {
+      "active": false,
+      "final_url": "https://www.lancome.fr/parfum/parfum-femme/tresor/tresor-eau-de-parfum/3147758034929.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.lancome.fr/parfum/parfum-femme/tresor/tresor-eau-de-parfum/3147758034929.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Tutti Twilly D Hermes|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/tutti-twilly-d-hermes-eau-de-parfum-V110825V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/tutti-twilly-d-hermes-eau-de-parfum-V110825V0/",
+      "url_status": 200
+    },
+    "Twilly D Hermes Eau Ginger|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-ginger-eau-de-parfum-V103949V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-ginger-eau-de-parfum-V103949V0/",
+      "url_status": 200
+    },
+    "Twilly D Hermes Eau Poivree|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-poivree-eau-de-parfum-V107167V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-poivree-eau-de-parfum-V107167V0/",
+      "url_status": 200
+    },
+    "Twilly D Hermes|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-de-parfum-V107263V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-de-parfum-V107263V0/",
+      "url_status": 200
+    },
+    "Twilly d'Hermès Eau de Parfum|Hermès": {
+      "active": false,
+      "final_url": "https://www.hermes.com/be/fr/product/twilly-d-hermes-eau-de-parfum-V107265V0/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.hermes.com/be/fr/product/twilly-d-hermes-eau-de-parfum-V107265V0/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Un Jardin A Cythere|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/un-jardin-a-cythere-eau-de-toilette-V109287V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-a-cythere-eau-de-toilette-V109287V0/",
+      "url_status": 200
+    },
+    "Un Jardin Sur La Lagune|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-la-lagune-eau-de-toilette-V100079V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-la-lagune-eau-de-toilette-V100079V0/",
+      "url_status": 200
+    },
+    "Un Jardin sur le Nil|Hermès": {
+      "active": false,
+      "final_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-le-nil-eau-de-toilette-V20397/",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-le-nil-eau-de-toilette-V20397/",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Uomo Born in Roma Intense|Valentino": {
+      "active": false,
+      "final_url": "https://www.valentino-beauty.fr/fr_FR/parfums/parfums-homme/born-in-roma-uomo/born-in-roma-uomo-eau-de-parfum-intense/MPL01907.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.valentino-beauty.fr/fr_FR/parfums/parfums-homme/born-in-roma-uomo/born-in-roma-uomo-eau-de-parfum-intense/MPL01907.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    },
+    "Valaya|Parfums de Marly": {
+      "active": true,
+      "final_url": "https://parfums-de-marly.com/fr/products/valaya",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://parfums-de-marly.com/fr/products/valaya",
+      "url_status": 200
+    },
+    "Vanille Bourbon|Adopt": {
+      "active": true,
+      "final_url": "https://www.adopt.com/ma-fr/vanille-bourbon-eau-de-parfum-100-ml-3701429828882-ma-fr.html",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://www.adopt.com/ma-fr/vanille-bourbon-eau-de-parfum-100-ml-3701429828882-ma-fr.html",
+      "url_status": 200
+    },
+    "Vanille|Solinotes": {
+      "active": true,
+      "final_url": "https://solinotes.com/collections/eaux-de-parfum",
+      "image_status": "repaired_from_official_page",
+      "official_url": "https://solinotes.com/collections/eaux-de-parfum",
+      "url_status": 200
+    },
+    "Vetiver Tonka|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/vetiver-tonka-eau-de-toilette-V107432V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/vetiver-tonka-eau-de-toilette-V107432V0/",
+      "url_status": 403
+    },
+    "Vibrant Leather|Zara": {
+      "active": false,
+      "final_url": "https://www.zara.com/fr/fr/vibrant-leather-edp-100-ml--3-4-fl--oz--p20210970.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.zara.com/fr/fr/vibrant-leather-edp-100-ml--3-4-fl--oz--p20210970.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 200
+    },
+    "Violette Volynka|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/violette-volynka-eau-de-toilette-V107109V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/violette-volynka-eau-de-toilette-V107109V0/",
+      "url_status": 200
+    },
+    "Voce Viva Eau de Parfum|Valentino": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.valentino-beauty.fr/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Voyage D Hermes|Hermès": {
+      "active": true,
+      "final_url": "https://www.hermes.com/fr/fr/product/voyage-d-hermes-eau-de-toilette-V107568V0/",
+      "image_status": "ok",
+      "official_url": "https://www.hermes.com/fr/fr/product/voyage-d-hermes-eau-de-toilette-V107568V0/",
+      "url_status": 403
+    },
+    "Vétiver Parfum|Guerlain": {
+      "active": false,
+      "image_status": null,
+      "official_url": "https://www.guerlain.com/fr/fr-fr/",
+      "reason": "non_direct_official_url",
+      "url_status": null
+    },
+    "Wood Sage & Sea Salt|Jo Malone London": {
+      "active": true,
+      "final_url": "https://www.jomalone.fr/product/wood-sage-sea-salt-cologne",
+      "image_status": "ok",
+      "official_url": "https://www.jomalone.fr/product/wood-sage-sea-salt-cologne",
+      "url_status": 403
+    },
+    "Y Eau de Parfum|Yves Saint Laurent": {
+      "active": false,
+      "final_url": "https://www.yslbeauty.fr/parfums/parfum-homme/y/y-eau-de-parfum/3614272050341.html",
+      "image_status": "missing_or_broken",
+      "official_url": "https://www.yslbeauty.fr/parfums/parfum-homme/y/y-eau-de-parfum/3614272050341.html",
+      "reason": "missing_or_broken_product_image",
+      "url_status": 403
+    }
+  },
+  "total": 370,
+  "warnings": [
+    {
+      "key": "Gucci Guilty Pour Homme Eau de Toilette|Gucci",
+      "type": "url_unreachable",
+      "url": "https://www.gucci.com/fr/fr/ca/beauty/fragrances-c-beauty-fragrances"
+    },
+    {
+      "key": "Gucci Bloom Eau de Parfum|Gucci",
+      "type": "url_unreachable",
+      "url": "https://www.gucci.com/fr/fr/ca/beauty/fragrances-c-beauty-fragrances"
+    },
+    {
+      "key": "Gucci Flora Gorgeous Gardenia|Gucci",
+      "type": "url_unreachable",
+      "url": "https://www.gucci.com/fr/fr/pr/beauty/fragrances/fragrances-for-women/gucci-flora-gorgeous-gardenia-100ml-eau-de-parfum-p-667343999990099"
+    }
+  ]
+}

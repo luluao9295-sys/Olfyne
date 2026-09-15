@@ -1,0 +1,406 @@
+{
+  "1 Million Eau de Toilette|Rabanne": {
+    "official_url": "https://www.rabanne.com/fr/fr/fragrance",
+    "reason": "non_direct_official_url"
+  },
+  "A*Men Eau de Toilette|Mugler": {
+    "official_url": "https://www.mugler.fr/parfum/parfum-homme/a%2Amen/a%2Amen-eau-de-toilette/M020101024.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Acqua di Giò Eau de Toilette|Giorgio Armani": {
+    "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-homme/acqua-di-gio/acqua-di-gio-eau-de-toilette/ww-00843-arm.html?dwvar_ww-00843-arm_size=100ml",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Acqua di Giò Profondo|Giorgio Armani": {
+    "official_url": "https://www.armanibeauty.fr/parfums/fragrance-festival/acqua-di-gio-profondo/3614273953863.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Alien Eau de Parfum|Mugler": {
+    "official_url": "https://www.mugler.fr/parfum/parfum-femme/alien/alien-eau-de-parfum/M010401002.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Alien Goddess Eau de Parfum|Mugler": {
+    "official_url": "https://www.mugler.fr/parfum/parfum-femme/alien-goddess",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Allure Homme Sport|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/123630/allure-homme-sport-eau-de-toilette-vaporisateur/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Amor Amor|Cacharel": {
+    "official_url": "https://www.cacharel-parfums.com/fr_FR/",
+    "reason": "non_direct_official_url"
+  },
+  "Anaïs Anaïs|Cacharel": {
+    "official_url": "https://www.cacharel-parfums.com/fr_FR/",
+    "reason": "non_direct_official_url"
+  },
+  "Angel Eau de Parfum|Mugler": {
+    "official_url": "https://www.mugler.fr/parfum/parfum-femme/angel/angel-eau-de-parfum/M010101003.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Angel's Share|Kilian Paris": {
+    "official_url": "https://m.bykilian.fr/product/27539/82905/parfum/heritagecollection/angels-share/the-liquors",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Armani Code Eau de Toilette|Giorgio Armani": {
+    "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-homme/armani-code-homme/armani-code-eau-de-toilette-rechargeable/ww-00403-arm.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Because It's You Eau de Parfum|Emporio Armani": {
+    "official_url": "https://www.armanibeauty.fr/parfums/",
+    "reason": "non_direct_official_url"
+  },
+  "Bleu Noir Eau de Parfum|Narciso Rodriguez": {
+    "official_url": "https://www.narcisorodriguezparfums.com/fr/",
+    "reason": "non_direct_official_url"
+  },
+  "Bleu de Chanel Eau de Parfum|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/107360/bleu-de-chanel-eau-de-parfum-vaporisateur/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Bleu de Chanel Parfum|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/107180/bleu-de-chanel-parfum-vaporisateur/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Blue Seduction|Antonio Banderas": {
+    "official_url": "https://www.antonio-banderas-perfumes.com/",
+    "reason": "non_direct_official_url"
+  },
+  "Born in Roma Coral Fantasy Donna|Valentino": {
+    "official_url": "https://www.valentino-beauty.fr/profumi/fragranze-femminili/born-in-roma-coral-fantasy/born-in-roma-coral-fantasy-donna/MPL01751.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Born in Roma Coral Fantasy Uomo|Valentino": {
+    "official_url": "https://www.valentino-beauty.fr/fr_FR/parfums/parfums-homme/born-in-roma-uomo-coral-fantasy/MPL01750.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Boss Bottled Eau de Toilette|Hugo Boss": {
+    "official_url": "https://www.hugoboss.com/fr/fr/parfums/",
+    "reason": "non_direct_official_url"
+  },
+  "Boum Vanille Sa Pomme d'Amour|Jeanne Arthes": {
+    "official_url": "https://www.jeanne-arthes.com/",
+    "reason": "non_direct_official_url"
+  },
+  "Bright Crystal|Versace": {
+    "official_url": "https://www.versace.com/fr/fr/femme/accessoires/parfums-et-soins-du-corps/bright-crystal/SET_Fragrances_BrightCrystalParfum.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "CK One|Calvin Klein": {
+    "official_url": "https://www.calvinklein.fr/parfums",
+    "reason": "non_direct_official_url"
+  },
+  "Chance Eau Tendre Eau de Toilette|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/126310/chance-eau-tendre-eau-de-toilette-vaporisateur/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Chance Eau de Parfum|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/126520/chance-eau-de-parfum-vaporisateur/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Chrome|Azzaro": {
+    "official_url": "https://www.azzaro.com/fr/parfums/azzaro-chrome/eau-de-toilette",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Classique Eau de Toilette|Jean Paul Gaultier": {
+    "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-classique/classique-eau-de-toilette-000000000065119957",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Cloud|Ariana Grande": {
+    "official_url": "https://arianagrandefragrances.com/",
+    "reason": "non_direct_official_url"
+  },
+  "Coco Mademoiselle Eau de Parfum|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/116520/coco-mademoiselle-eau-de-parfum-vaporisateur/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Comme une Évidence|Yves Rocher": {
+    "official_url": "https://www.yves-rocher.fr/parfum/parfum-femme/eau-de-parfum-femme/comme-une-evidence-eau-de-parfum/p/30313",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Cool Water|Davidoff": {
+    "official_url": "https://www.zinodavidoff.com/fr/fr/fragrances",
+    "reason": "official_url_404"
+  },
+  "Crystal Noir|Versace": {
+    "official_url": "https://www.versace.com/fr/fr/femme/accessoires/parfums-et-soins-du-corps/crystal-noir/crystal-noir-parfum-90%C2%A0ml/R07332-R090MLS_RNUL.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Cuir de Nuit|Yves Rocher": {
+    "official_url": "https://www.yves-rocher.fr/parfum/c/20000",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Dolce Garden|Dolce&Gabbana": {
+    "official_url": "https://www.dolcegabbana.com/fr-fr/beauty/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Donna Born in Roma Intense|Valentino": {
+    "official_url": "https://www.valentino-beauty.fr/fr_FR/parfums/parfums-femme/born-in-roma-donna/born-in-roma-donna-eau-de-parfum-intense/MPL01906.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Dylan Blue|Versace": {
+    "official_url": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/dylan-blue-pour-homme/eau-de-toilette-dylan-blue-pour-homme-100%C2%A0ml/R721010-R100MLS_RTU_TU_RNUL__.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Eau des Merveilles|Hermès": {
+    "official_url": "https://www.hermes.com/fr/fr/product/eau-des-merveilles-eau-de-toilette-V107291V0/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Eros Eau de Parfum|Versace": {
+    "official_url": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/eros/eau-de-parfum-eros-100%C2%A0ml/R740110-R100MLS_RNUL.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Eternity for Men|Calvin Klein": {
+    "official_url": "https://www.calvinklein.fr/parfums",
+    "reason": "non_direct_official_url"
+  },
+  "Euphoria|Calvin Klein": {
+    "official_url": "https://www.calvinklein.fr/parfums",
+    "reason": "non_direct_official_url"
+  },
+  "Explorer Platinum Eau de Parfum|Montblanc": {
+    "official_url": "https://www.montblanc.com/fr-fr/montblanc-explorer-platinum-eau-de-parfum-60-ml-MB131281.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Explorer|Montblanc": {
+    "official_url": "https://www.montblanc.com/fr-fr/explorer-eau-de-parfum-100-ml-MB124069VG.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Fame Eau de Parfum|Rabanne": {
+    "official_url": "https://www.rabanne.com/fr/fr/fragrance",
+    "reason": "non_direct_official_url"
+  },
+  "Fantasy|Britney Spears": {
+    "official_url": "https://britneyspearsbeauty.com/",
+    "reason": "non_direct_official_url"
+  },
+  "For Her Eau de Toilette|Narciso Rodriguez": {
+    "official_url": "https://www.narcisorodriguezparfums.com/fr/narciso-rodriguez-for-her/for-her-edt.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Gabrielle Chanel Eau de Parfum|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/120425/gabrielle-chanel-eau-de-parfum-vaporisateur/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Gardenia|Zara": {
+    "official_url": "https://www.zara.com/fr/fr/gardenia-edp-90-ml--3-04-fl--oz---p20120824.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Gentleman Eau de Parfum Boisée|Givenchy": {
+    "official_url": "https://www.givenchybeauty.com/fr/fr/p/gentleman-givenchy-F10100127.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Green Tea|Elizabeth Arden": {
+    "official_url": "https://www.elizabetharden.fr/",
+    "reason": "non_direct_official_url"
+  },
+  "H24 Eau de Parfum|Hermès": {
+    "official_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-parfum-V108421V0/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Hoggar|Yves Rocher": {
+    "official_url": "https://www.yves-rocher.fr/parfum/c/20000",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Idôle Eau de Parfum|Lancôme": {
+    "official_url": "https://www.lancome.fr/parfum/parfum-femme/idole/idole/A01707-LAC.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Instinct|David Beckham": {
+    "official_url": "https://www.davidbeckhamfragrances.com/",
+    "reason": "non_direct_official_url"
+  },
+  "Invictus Eau de Toilette|Rabanne": {
+    "official_url": "https://www.rabanne.com/fr/fr/fragrance",
+    "reason": "non_direct_official_url"
+  },
+  "Irresistible Givenchy Eau de Parfum|Givenchy": {
+    "official_url": "https://www.givenchybeauty.com/fr/fr/p/irresistible-P090770.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Jazz Club|Maison Margiela": {
+    "official_url": "https://www.maisonmargiela.com/fr-fr/replica-jazz-club---ambiance-envo%C3%BBtante-S33YX0016S10930001.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Jimmy Choo Eau de Parfum|Jimmy Choo": {
+    "official_url": "https://row.jimmychoo.com/fr/jimmy-choo-edp-100ml/jimmy-choo-eau-de-parfum-100ml-JCEDP100MLFPKC110653.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Jimmy Choo Man Intense|Jimmy Choo": {
+    "official_url": "https://row.jimmychoo.com/fr/homme/parfums/man-intense-edt-100ml/jimmy-choo-man-intense-100ml-MINTENSE100MLFDBG101224.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "K by Dolce&Gabbana Eau de Parfum|Dolce&Gabbana": {
+    "official_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/k-by-dolceetgabbana/k-by-dg-edp-200ml---158057971183937.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "L'Eau d'Issey Pour Homme|Issey Miyake": {
+    "official_url": "https://www.isseymiyakeparfums.com/fr/issey-miyake-l%E2%80%99eau-d%E2%80%99issey-pour-homme-eau-de-toilette-EIH_EDT.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "L'Eau d'Issey|Issey Miyake": {
+    "official_url": "https://www.isseymiyakeparfums.com/fr/issey-miyake-l-eau-d-issey-eau-de-toilette-EI_EDT.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "L'Evidence Eau de Parfum|Yves Rocher": {
+    "official_url": "https://www.yves-rocher.fr/parfum/parfum-femme/eau-de-parfum-femme/l-evidence-eau-de-parfum/p/30137",
+    "reason": "missing_or_broken_product_image"
+  },
+  "L'Homme Eau de Toilette|Yves Saint Laurent": {
+    "official_url": "https://www.yslbeauty.fr/parfums/parfum-homme/l-homme/l-homme-eau-de-toilette/284YSL.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "L'Interdit Eau de Parfum|Givenchy": {
+    "official_url": "https://www.givenchybeauty.com/fr/fr/p/l-interdit-P069002.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "La Belle Le Parfum|Jean Paul Gaultier": {
+    "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-la-belle/la-belle-le-parfum-eau-de-parfum-intense-000000000065167903",
+    "reason": "missing_or_broken_product_image"
+  },
+  "La Nuit de L'Homme|Yves Saint Laurent": {
+    "official_url": "https://www.yslbeauty.fr/parfums/parfum-homme/la-nuit-de-l-homme/la-nuit-de-l-homme-eau-de-toilette/426YSL.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "La Vie Est Belle Eau de Parfum|Lancôme": {
+    "official_url": "https://www.lancome.fr/parfum/parfum-femme/la-vie-est-belle/la-vie-est-belle/3614273603393.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Le Beau Le Parfum|Jean Paul Gaultier": {
+    "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-le-beau/le-beau-le-parfum-eau-de-parfum-intense-000000000065180318",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Le Male Elixir|Jean Paul Gaultier": {
+    "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-le-male/le-male-elixir-parfum-000000000065188980",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Legend Spirit|Montblanc": {
+    "official_url": "https://www.montblanc.com/fr-fr/montblanc-legend-spirit-eau-de-toilette-100-ml-MB115364VG.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Libre Eau de Parfum|Yves Saint Laurent": {
+    "official_url": "https://www.yslbeauty.fr/parfums/parfum-femme/libre/libre-eau-de-parfum/WW-50424YSL.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Light Blue Eau Intense|Dolce&Gabbana": {
+    "official_url": "https://www.dolcegabbana.com/fr-fr/beauty/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Light Blue Pour Homme|Dolce&Gabbana": {
+    "official_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/light-blue-pour-homme/light-blue-pour-homme-eau-de-parfum---VT034DVT0009V000.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Love, Don't Be Shy|Kilian Paris": {
+    "official_url": "https://www.bykilian.fr/en-e-fr/product/25910/136065/parfum/narcotic-floral-perfume/love-dont-be-shy/floral-perfume",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Luna Rossa Black|Prada": {
+    "official_url": "https://www.prada-beauty.com/fragrance/luna-rossa/luna-rossa-black-eau-de-parfum/3614273991865.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Man Eau Fraîche|Versace": {
+    "official_url": "https://www.versace.com/fr/fr/",
+    "reason": "non_direct_official_url"
+  },
+  "Miracle Eau de Parfum|Lancôme": {
+    "official_url": "https://www.lancome.fr/parfum/parfum-femme/miracle/miracle/3147758029406.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Mon Paris Eau de Parfum|Yves Saint Laurent": {
+    "official_url": "https://www.yslbeauty.fr/parfums/parfum-femme/mon-paris/mon-paris-eau-de-parfum/WW-41800YSL.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "My Way Eau de Parfum|Giorgio Armani": {
+    "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-femme/my-way/my-way-eau-de-parfum---rechargeable/ww-00343-arm.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "N°5 Eau de Parfum|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/125430/n5-eau-de-parfum-vaporisateur/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Olympéa Eau de Parfum|Rabanne": {
+    "official_url": "https://www.rabanne.com/fr/fr/fragrance",
+    "reason": "non_direct_official_url"
+  },
+  "Opium Eau de Parfum|Yves Saint Laurent": {
+    "official_url": "https://www.yslbeauty.fr/parfums/parfum-femme/opium/opium-eau-de-parfum-spray/231YSL.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Paradoxe Eau de Parfum|Prada": {
+    "official_url": "https://www.prada-beauty.com/fragrance/paradoxe/paradoxe-eau-de-parfum/MPL01610.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Prada L'Homme|Prada": {
+    "official_url": "https://www.prada-beauty.com/fragrance/lhomme-prada/lhomme-prada-eau-de-toilette/MPL01352.html?geo=false",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Red Temptation|Zara": {
+    "official_url": "https://www.zara.com/fr/fr/parfums-l1404.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Rich Warm Addictive|Zara": {
+    "official_url": "https://www.zara.com/fr/fr/parfums-l1404.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Rochas Man Intense|Rochas": {
+    "official_url": "https://www.rochas.com/fr/parfums/rochas-man-intense",
+    "reason": "official_url_404"
+  },
+  "Scandal Pour Homme|Jean Paul Gaultier": {
+    "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-scandal-pour-homme/scandal-pour-homme-eau-de-toilette-000000000065154951",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Stronger With You Intensely|Emporio Armani": {
+    "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-homme/stronger-with-you/emporio-armani-stronger-with-you-intensely-eau-de-parfum/3614272225718.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Sì Eau de Parfum|Giorgio Armani": {
+    "official_url": "https://www.armanibeauty.fr/parfums/parfums-pour-femme/si/si-eau-de-parfum/AP35200.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Terre d'Hermès Eau Givrée|Hermès": {
+    "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "The One Eau de Parfum|Dolce&Gabbana": {
+    "official_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/the-one-for-men/eau-de-parfum---158057971180561.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "To Be|Police": {
+    "official_url": "https://policelifestyle.com/fr/",
+    "reason": "non_direct_official_url"
+  },
+  "Trésor Eau de Parfum|Lancôme": {
+    "official_url": "https://www.lancome.fr/parfum/parfum-femme/tresor/tresor-eau-de-parfum/3147758034929.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Twilly d'Hermès Eau de Parfum|Hermès": {
+    "official_url": "https://www.hermes.com/be/fr/product/twilly-d-hermes-eau-de-parfum-V107265V0/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Un Jardin sur le Nil|Hermès": {
+    "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-le-nil-eau-de-toilette-V20397/",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Uomo Born in Roma Intense|Valentino": {
+    "official_url": "https://www.valentino-beauty.fr/fr_FR/parfums/parfums-homme/born-in-roma-uomo/born-in-roma-uomo-eau-de-parfum-intense/MPL01907.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Vibrant Leather|Zara": {
+    "official_url": "https://www.zara.com/fr/fr/vibrant-leather-edp-100-ml--3-4-fl--oz--p20210970.html",
+    "reason": "missing_or_broken_product_image"
+  },
+  "Voce Viva Eau de Parfum|Valentino": {
+    "official_url": "https://www.valentino-beauty.fr/",
+    "reason": "non_direct_official_url"
+  },
+  "Vétiver Parfum|Guerlain": {
+    "official_url": "https://www.guerlain.com/fr/fr-fr/",
+    "reason": "non_direct_official_url"
+  },
+  "Y Eau de Parfum|Yves Saint Laurent": {
+    "official_url": "https://www.yslbeauty.fr/parfums/parfum-homme/y/y-eau-de-parfum/3614272050341.html",
+    "reason": "missing_or_broken_product_image"
+  }
+}

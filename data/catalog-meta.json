@@ -1,22 +1,277 @@
 {
-  "Tobacco Vanille|Tom Ford":{"price_eur":255,"price_volume":"50 ml","price_status":"indicatif","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T01K01_2000x2000_0.png?v=1788421053&width=2000","official_url":"https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum"},
-  "Jazz Club|Maison Margiela":{"price_eur":153,"price_volume":"100 ml","price_status":"officiel","official_url":"https://www.maisonmargiela.com/fr-fr/replica-jazz-club---ambiance-envo%C3%BBtante-S33YX0016S10930001.html"},
-  "Santal 33|Le Labo":{"price_eur":212,"price_volume":"50 ml","price_status":"indicatif","official_url":"https://www.lelabofragrances.com/fr/santal-33-147.html"},
-  "Bal d'Afrique|Byredo":{"price_eur":170,"price_volume":"50 ml","price_status":"officiel","image_url":"https://www.byredo.com/cdn-cgi/image/width%3D720%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/538055185084634e259189a2a72f806b/b/y/byr_ecom_26_fragrance_edp_50ml_bda_front_0037.jpg?width=1920","official_url":"https://www.byredo.com/eu_fr/p/bal-d-afrique-eau-de-parfum"},
-  "Musc Ravageur|Frédéric Malle":{"price_eur":230,"price_volume":"50 ml","price_status":"officiel","image_url":"https://www.fredericmalle.eu/media/export/cms/Gnav/fm_sku_H47101_146x180_0.jpg","official_url":"https://www.fredericmalle.com/product/19566/50126/parfums/musc-ravageur/by-maurice-roucel"},
-  "Wood Sage & Sea Salt|Jo Malone London":{"price_eur":152,"price_volume":"100 ml","price_status":"officiel","image_url":"https://sdcdn.io/jm/jm_sku_L41501_3000x3000_0S.png?height=700px&width=700px","official_url":"https://www.jomalone.fr/product/wood-sage-sea-salt-cologne"},
-  "Black Opium|Yves Saint Laurent":{"price_eur":117,"price_volume":"50 ml","price_status":"officiel","image_url":"https://lyko.com/globalassets/product-images/yves-saint-laurent-black-opium-edp-90ml-2064-133-0090_1.jpg","official_url":"https://www.yslbeauty.fr/parfums/parfum-femme/black-opium/black-opium-eau-de-parfum/WW-40701YSL.html"},
-  "Terre d'Hermès|Hermès":{"price_eur":128,"price_volume":"100 ml","price_status":"officiel","image_url":"https://assets.hermes.com/is/image/hermesproduct/terre-d-hermes-eau-de-toilette--107188V0-worn-2-0-0-800-800_g.jpg","official_url":"https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/"},
-  "Oud Wood|Tom Ford":{"price_eur":266,"price_volume":"50 ml","price_status":"indicatif","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T1XF01_2000x2000_0.png?v=1789358409&width=2000","official_url":"https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum"},
-  "Lost Cherry|Tom Ford":{"price_eur":358,"price_volume":"50 ml","price_status":"indicatif","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T6LN01_2000x2000_0.png?v=1789351281&width=2000","official_url":"https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum"},
-  "Ombré Leather|Tom Ford":{"price_eur":239,"price_volume":"100 ml","price_status":"indicatif","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T5Y201_2000x2000_0.png?v=1789366336&width=2000","official_url":"https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum"},
-  "Neroli Portofino|Tom Ford":{"price_eur":null,"price_volume":"50 ml","price_status":"à vérifier","image_url":"https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T0M901_2000x2000_0.png?v=1789332953&width=2000","official_url":"https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum"},
-  "Grand Soir|Maison Francis Kurkdjian":{"price_eur":205,"price_volume":"70 ml","price_status":"officiel","image_url":"https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwf271d704/GRAND_SOIR/FRAGRANCE/3700559614242_GRAND_SOIR_EDP_70ML_1.png?q=85&sfrm=png&sh=700&strip=true&sw=700","official_url":"https://www.franciskurkdjian.com/eu-fr/p/grand-soir-eau-de-parfum-RA122521.html"},
-  "Baccarat Rouge 540|Maison Francis Kurkdjian":{"price_eur":265,"price_volume":"70 ml","price_status":"officiel","image_url":"https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwa46019b3/BACCARAT_ROUGE_540/FRAGRANCE/3700559603116_BR540_EDP_70ML_1.png?q=85&sfrm=png&sh=700&strip=true&sw=700","official_url":"https://www.franciskurkdjian.com/eu-fr/p/baccarat-rouge-540-eau-de-parfum-RA12232.html"},
-  "Layton|Parfums de Marly":{"price_eur":225,"price_volume":"75 ml","price_status":"officiel","official_url":"https://parfums-de-marly.com/fr/collections/all/products/layton"},
-  "Delina|Parfums de Marly":{"price_eur":285,"price_volume":"75 ml","price_status":"officiel","image_url":"https://parfums-de-marly.com/cdn/shop/files/DELINA-PERFUME-75-PACK1-1X1_CENTERED_1_4a6d11a8-5b19-4ffb-950b-15dda6043b65.png?v=1759501486&width=800","official_url":"https://parfums-de-marly.com/fr/products/delina"},
-  "Another 13|Le Labo":{"price_eur":200.25,"price_volume":"50 ml","price_status":"indicatif","image_url":"https://lelabo.ips.photos/lelabo-java/images/skus/050PA13100__PRODUCT_01--IMG_1200--ANOTHER13--122019503.jpg","official_url":"https://www.lelabofragrances.com/fr/another-13-463.html"},
-  "Gypsy Water|Byredo":{"price_eur":170,"price_volume":"50 ml","price_status":"officiel","image_url":"https://www.byredo.com/cdn-cgi/image/width%3Dauto%2Cheight%3D1200%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/0/806014_1_full_no.jpg","official_url":"https://www.byredo.com/eu_fr/p/gypsy-water-eau-de-parfum"},
-  "Mojave Ghost|Byredo":{"price_eur":170,"price_volume":"50 ml","price_status":"officiel","image_url":"https://www.byredo.com/cdn-cgi/image/width%3Dauto%2Cheight%3D1200%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/0/0065204854_1_full_no.jpg","official_url":"https://www.byredo.com/eu_fr/p/mojave-ghost-eau-de-parfum"},
-  "Angel's Share|Kilian Paris":{"price_eur":186.75,"price_volume":"50 ml","price_status":"indicatif"}
+  "Angel's Share|Kilian Paris": {
+    "price_eur": 186.75,
+    "price_status": "indicatif",
+    "price_volume": "50 ml"
+  },
+  "Another 13|Le Labo": {
+    "image_url": "https://lelabo.ips.photos/lelabo-java/images/skus/050PA13100__PRODUCT_01--IMG_1200--ANOTHER13--122019503.jpg",
+    "official_url": "https://www.lelabofragrances.com/fr/another-13-463.html",
+    "price_eur": 200.25,
+    "price_status": "indicatif",
+    "price_volume": "50 ml"
+  },
+  "Aqua Allegoria Mandarine Basilic|Guerlain": {
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
+  },
+  "Aventus|Creed": {
+    "image_url": "https://static.thcdn.com/productimg/original/12870029-1045337306193008.jpg"
+  },
+  "Baccarat Rouge 540|Maison Francis Kurkdjian": {
+    "image_url": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwa46019b3/BACCARAT_ROUGE_540/FRAGRANCE/3700559603116_BR540_EDP_70ML_1.png?q=85&sfrm=png&sh=700&strip=true&sw=700",
+    "official_url": "https://www.franciskurkdjian.com/eu-fr/p/baccarat-rouge-540-eau-de-parfum-RA12232.html",
+    "price_eur": 265,
+    "price_status": "officiel",
+    "price_volume": "70 ml"
+  },
+  "Bal d'Afrique|Byredo": {
+    "image_url": "https://www.byredo.com/cdn-cgi/image/width%3D720%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/538055185084634e259189a2a72f806b/b/y/byr_ecom_26_fragrance_edp_50ml_bda_front_0037.jpg?width=1920",
+    "official_url": "https://www.byredo.com/eu_fr/p/bal-d-afrique-eau-de-parfum",
+    "price_eur": 170,
+    "price_status": "officiel",
+    "price_volume": "50 ml"
+  },
+  "Barénia Eau de Parfum|Hermès": {
+    "image_url": "https://assets.hermes.com/is/image/hermesproduct/barenia-eau-de-parfum--110435V0-front-wm-1-0-0-1000-1000_g.jpg"
+  },
+  "Black Opium|Yves Saint Laurent": {
+    "image_url": "https://lyko.com/globalassets/product-images/yves-saint-laurent-black-opium-edp-90ml-2064-133-0090_1.jpg",
+    "official_url": "https://www.yslbeauty.fr/parfums/parfum-femme/black-opium/black-opium-eau-de-parfum/WW-40701YSL.html",
+    "price_eur": 117,
+    "price_status": "officiel",
+    "price_volume": "50 ml"
+  },
+  "Blanche|Byredo": {
+    "image_url": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/0/10000052_1_full_no.jpg"
+  },
+  "Blue Suit|Adopt": {
+    "image_url": "https://adopt.twic.pics/media/catalog/product/l/i/life_perf_bluesuit_30ml_3701429818449_1_1.jpg?twic=v1"
+  },
+  "Bois Impérial|Essential Parfums": {
+    "image_url": "https://www.essentialparfums.com/cdn/shop/files/Parfum_100ML_Bois_Imperial_01.jpg?v=1734443828"
+  },
+  "Bois d'Orange|Roger&Gallet": {
+    "image_url": "https://admin.roger-gallet.com/media/catalog/product/cache/7eb369f27775f2db92648609527c34e5/3/7/3701436907761_1.jpg"
+  },
+  "Boss Bottled Elixir|Hugo Boss": {
+    "image_url": "https://images.hugoboss.com/is/image/boss/hbeu58129503_999_200?$social_sharing$"
+  },
+  "Boss The Scent Magnetic|Hugo Boss": {
+    "image_url": "https://images.hugoboss.com/is/image/boss/hbeu58228635_999_200?$social_sharing$"
+  },
+  "Burberry Goddess|Burberry": {
+    "image_url": "https://assets.burberry.com/is/image/Burberryltd/E3DE361A-24B3-493D-92B4-E6C74048A24E"
+  },
+  "Burberry Hero Eau de Parfum|Burberry": {
+    "image_url": "https://assets.burberry.com/is/image/Burberryltd/9CB5B4CF-55ED-43E8-BD76-70F39A9AD29E"
+  },
+  "Delina|Parfums de Marly": {
+    "image_url": "https://parfums-de-marly.com/cdn/shop/files/DELINA-PERFUME-75-PACK1-1X1_CENTERED_1_4a6d11a8-5b19-4ffb-950b-15dda6043b65.png?v=1759501486&width=800",
+    "official_url": "https://parfums-de-marly.com/fr/products/delina",
+    "price_eur": 285,
+    "price_status": "officiel",
+    "price_volume": "75 ml"
+  },
+  "Dior Homme Cologne|Dior": {
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw84de4e22/Y9190300/Y9190300_F091903009_E01_GHC.jpg"
+  },
+  "Encre Noire|Lalique": {
+    "image_url": "https://fr.lalique.com/cdn/shop/files/M13201-1-Encre-Noire-Eau-de-Toilette-100-ml_a2308d1b-ba81-42cd-bb2f-8448cd60e25c.jpg?v=1785250406"
+  },
+  "Erba Pura|Xerjoff": {
+    "image_url": "https://www.xerjoff.com/cdn/shop/files/listing-xerjoff-erbapura-eau-de-parfum-50ml.png?v=1745919492"
+  },
+  "Fahrenheit Eau de Toilette|Dior": {
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwa4306ab2/Y0066001/Y0066001_F006622009_E01_GHC.jpg"
+  },
+  "Fleur de Cerisier|Adopt": {
+    "image_url": "https://adopt.twic.pics/media/catalog/product/l/i/life_perf_fleurdecerisier_100ml.jpg?twic=v1"
+  },
+  "Fleur de Figuier|Roger&Gallet": {
+    "image_url": "https://admin.roger-gallet.com/media/catalog/product/cache/7eb369f27775f2db92648609527c34e5/3/7/3701436907938_1.jpg"
+  },
+  "Flower by Kenzo Eau de Parfum|Kenzo": {
+    "image_url": "https://www.kenzoparfums.com/on/demandware.static/-/Library-Sites-KenzoSharedLibrary/default/dw26e33032/images/meta/home_NOS_BOUTIQUES_JUNGLE.png"
+  },
+  "Flowerbomb Eau de Parfum|Viktor&Rolf": {
+    "image_url": "https://www.viktor-rolf.com/cdn/shop/files/model_front_Flowerbomb_50_vr_frag_2025_flowerbomb_edp_packshot_premium_50ml_3360374000011.jpg?v=1760519956"
+  },
+  "Gentle Fluidity Silver|Maison Francis Kurkdjian": {
+    "image_url": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwe1c908fd/GENTLE_FLUIDITY/SILVER/FRAGRANCE/3700559618202_GENTLE_FLUIDITY_SILVER_EDP_200ML_1.png?sw=640&sh=640&strip=false"
+  },
+  "Grand Soir|Maison Francis Kurkdjian": {
+    "image_url": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwf271d704/GRAND_SOIR/FRAGRANCE/3700559614242_GRAND_SOIR_EDP_70ML_1.png?q=85&sfrm=png&sh=700&strip=true&sw=700",
+    "official_url": "https://www.franciskurkdjian.com/eu-fr/p/grand-soir-eau-de-parfum-RA122521.html",
+    "price_eur": 205,
+    "price_status": "officiel",
+    "price_volume": "70 ml"
+  },
+  "Green Irish Tweed|Creed": {
+    "image_url": "https://static.thcdn.com/productimg/original/12870035-1055164180549140.jpg"
+  },
+  "Gypsy Water|Byredo": {
+    "image_url": "https://www.byredo.com/cdn-cgi/image/width%3Dauto%2Cheight%3D1200%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/0/806014_1_full_no.jpg",
+    "official_url": "https://www.byredo.com/eu_fr/p/gypsy-water-eau-de-parfum",
+    "price_eur": 170,
+    "price_status": "officiel",
+    "price_volume": "50 ml"
+  },
+  "Habit Rouge Eau de Parfum|Guerlain": {
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
+  },
+  "Hypnotic Poison Eau de Toilette|Dior": {
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwf0198365/Y0063401/Y0063401_F006344009_E01_GHC.jpg"
+  },
+  "J'adore Eau de Parfum|Dior": {
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw13749bca/Y0998031/Y0998031_C099800246_E01_GHC.jpg"
+  },
+  "Jazz Club|Maison Margiela": {
+    "official_url": "https://www.maisonmargiela.com/fr-fr/replica-jazz-club---ambiance-envo%C3%BBtante-S33YX0016S10930001.html",
+    "price_eur": 153,
+    "price_status": "officiel",
+    "price_volume": "100 ml"
+  },
+  "Kenzo Homme Eau de Parfum|Kenzo": {
+    "image_url": "https://www.kenzoparfums.com/on/demandware.static/-/Library-Sites-KenzoSharedLibrary/default/dw26e33032/images/meta/home_NOS_BOUTIQUES_JUNGLE.png"
+  },
+  "L'Homme Idéal Eau de Parfum|Guerlain": {
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
+  },
+  "L'eau virile|Adopt": {
+    "image_url": "https://adopt.twic.pics/media/catalog/product/l/i/life_perf_leauvirile_30ml_3701429811006_1_1_1.jpg?twic=v1"
+  },
+  "Layton|Parfums de Marly": {
+    "image_url": "https://parfums-de-marly.com/cdn/shop/files/LAYTON-PERFUME-125-PACK1-1X1_CENTERED_3_ff589b84-1e01-491c-a2da-2b46bad5df52.png?v=1759501471",
+    "official_url": "https://parfums-de-marly.com/fr/collections/all/products/layton",
+    "price_eur": 225,
+    "price_status": "officiel",
+    "price_volume": "75 ml"
+  },
+  "Lost Cherry|Tom Ford": {
+    "image_url": "https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T6LN01_2000x2000_0.png?v=1789351281&width=2000",
+    "official_url": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+    "price_eur": 358,
+    "price_status": "indicatif",
+    "price_volume": "50 ml"
+  },
+  "Miss Dior Eau de Parfum|Dior": {
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwc1464126/Y0000393/Y0000393_E000001557_E01_GHC.jpg"
+  },
+  "Mojave Ghost|Byredo": {
+    "image_url": "https://www.byredo.com/cdn-cgi/image/width%3Dauto%2Cheight%3D1200%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/0/0065204854_1_full_no.jpg",
+    "official_url": "https://www.byredo.com/eu_fr/p/mojave-ghost-eau-de-parfum",
+    "price_eur": 170,
+    "price_status": "officiel",
+    "price_volume": "50 ml"
+  },
+  "Mon Guerlain Eau de Parfum|Guerlain": {
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
+  },
+  "Musc Ravageur|Frédéric Malle": {
+    "image_url": "https://www.fredericmalle.eu/media/export/cms/Gnav/fm_sku_H47101_146x180_0.jpg",
+    "official_url": "https://www.fredericmalle.com/product/19566/50126/parfums/musc-ravageur/by-maurice-roucel",
+    "price_eur": 230,
+    "price_status": "officiel",
+    "price_volume": "50 ml"
+  },
+  "Naxos|Xerjoff": {
+    "image_url": "https://www.xerjoff.com/cdn/shop/files/listing-naxos-eau-de-parfum-100ml.png?v=1745399063"
+  },
+  "Neroli Portofino|Tom Ford": {
+    "image_url": "https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T0M901_2000x2000_0.png?v=1789332953&width=2000",
+    "official_url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum",
+    "price_eur": null,
+    "price_status": "à vérifier",
+    "price_volume": "50 ml"
+  },
+  "Ombré Leather|Tom Ford": {
+    "image_url": "https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T5Y201_2000x2000_0.png?v=1789366336&width=2000",
+    "official_url": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
+    "price_eur": 239,
+    "price_status": "indicatif",
+    "price_volume": "100 ml"
+  },
+  "Oud Satin Mood|Maison Francis Kurkdjian": {
+    "image_url": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw86e94763/OSAM/FRAGRANCE/3700559605370_OUD_SATIN_MOOD_EDP_200ML_1.png?sw=640&sh=640&strip=false"
+  },
+  "Oud Wood|Tom Ford": {
+    "image_url": "https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T1XF01_2000x2000_0.png?v=1789358409&width=2000",
+    "official_url": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+    "price_eur": 266,
+    "price_status": "indicatif",
+    "price_volume": "50 ml"
+  },
+  "Pegasus|Parfums de Marly": {
+    "image_url": "https://parfums-de-marly.com/cdn/shop/files/PEGASUS-PERFUME-125-PACK1-1X1_CENTERED_d3297627-c8b1-4b62-b09f-d14238ee595d.png?v=1759501462"
+  },
+  "Philosykos Eau de Parfum|Diptyque": {
+    "image_url": "https://diptyqueparis.com/cdn/shop/files/diptyque-philosykos-eau-de-parfum-PHILOP75CV1_front.webp?v=1759145433"
+  },
+  "Poison Girl Eau de Parfum|Dior": {
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwbc983158/Y0763220/Y0763220_F076321009_E01_GHC.jpg"
+  },
+  "Reflection Man|Amouage": {
+    "image_url": "https://amouage.com/cdn/shop/files/REFLECTION_100_ML.jpg?v=1758803038"
+  },
+  "Rochas Man|Rochas": {
+    "image_url": "https://www.rochas.com/wp-content/uploads/2021/05/ROCHAS_HT_DAY1_0509-1-scaled.jpg"
+  },
+  "Santal 33|Le Labo": {
+    "image_url": "https://lelabo.ips.photos/lelabo-java/images/skus/050PS33100__PRODUCT_01--IMG_1200--SANTAL33-200129705.jpg",
+    "official_url": "https://www.lelabofragrances.com/fr/santal-33-147.html",
+    "price_eur": 212,
+    "price_status": "indicatif",
+    "price_volume": "50 ml"
+  },
+  "Sauvage Elixir|Dior": {
+    "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw0df82930/Y0996460/Y0996460_C099600755_E01_GHC.jpg"
+  },
+  "Shalimar Eau de Parfum|Guerlain": {
+    "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
+  },
+  "Side Effect|Initio Parfums Privés": {
+    "image_url": "https://initioparfums.com/cdn/shop/files/SIDEEFFECT_MasterProductPackshot_edaaf8fd-d04c-4345-8b48-a5c92aed0ae8.png?v=1763734183"
+  },
+  "Silver Mountain Water|Creed": {
+    "image_url": "https://static.thcdn.com/productimg/original/12870049-2145303061472257.jpg"
+  },
+  "Spicebomb Extreme|Viktor&Rolf": {
+    "image_url": "https://www.viktor-rolf.com/cdn/shop/files/Untitled-2.jpg?v=1727335023"
+  },
+  "Tam Dao Eau de Parfum|Diptyque": {
+    "image_url": "https://diptyqueparis.com/cdn/shop/files/diptyque-tam-dao-eau-de-parfum-TAMDAOP75CV1_front.webp?v=1759145231"
+  },
+  "Terre d'Hermès|Hermès": {
+    "image_url": "https://assets.hermes.com/is/image/hermesproduct/terre-d-hermes-eau-de-toilette--107188V0-worn-2-0-0-800-800_g.jpg",
+    "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
+    "price_eur": 128,
+    "price_status": "officiel",
+    "price_volume": "100 ml"
+  },
+  "Thé Blanc|Solinotes": {
+    "image_url": "https://solinotes.com/cdn/shop/collections/HOME_CARROUSEL_1_1200x1200.jpg?v=1666861603"
+  },
+  "Tobacco Vanille|Tom Ford": {
+    "image_url": "https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T01K01_2000x2000_0.png?v=1788421053&width=2000",
+    "official_url": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum",
+    "price_eur": 255,
+    "price_status": "indicatif",
+    "price_volume": "50 ml"
+  },
+  "Valaya|Parfums de Marly": {
+    "image_url": "https://parfums-de-marly.com/cdn/shop/files/VALAYA-PERFUME-75-PACK1-1X1_CENTERED_1_9aa255c2-4dcf-4cab-bfa7-9e47af2760f0.png?v=1759501408"
+  },
+  "Vanille Bourbon|Adopt": {
+    "image_url": "https://adopt.twic.pics/media/catalog/product/l/i/life_perf_vanillebourbon_100ml_3701429818081_1_1_1.jpg?twic=v1"
+  },
+  "Vanille|Solinotes": {
+    "image_url": "https://solinotes.com/cdn/shop/collections/HOME_CARROUSEL_1_1200x1200.jpg?v=1666861603"
+  },
+  "Wood Sage & Sea Salt|Jo Malone London": {
+    "image_url": "https://sdcdn.io/jm/jm_sku_L41501_3000x3000_0S.png?height=700px&width=700px",
+    "official_url": "https://www.jomalone.fr/product/wood-sage-sea-salt-cologne",
+    "price_eur": 152,
+    "price_status": "officiel",
+    "price_volume": "100 ml"
+  }
 }
