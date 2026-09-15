@@ -1,11 +1,6 @@
 (() => {
   const nativeFetch = window.fetch.bind(window);
 
-  const pagePreview = (url) => {
-    if (!url) return '';
-    return `https://image.thum.io/get/width/700/crop/700/noanimate/${url}`;
-  };
-
   window.fetch = async (input, init) => {
     const url = typeof input === 'string' ? input : input?.url || '';
     if (!url.endsWith('data/perfumes.json')) return nativeFetch(input, init);
@@ -23,15 +18,19 @@
       'data/official-links-10.json',
       'data/official-links-11.json'
     ];
-    const [perfumesResponse, metaResponse, replacementsResponse, ...linkResponses] = await Promise.all([
+
+    const [perfumesResponse, metaResponse, replacementsResponse, disabledResponse, ...linkResponses] = await Promise.all([
       nativeFetch(input, init),
       nativeFetch('data/catalog-meta.json'),
       nativeFetch('data/replacements.json'),
+      nativeFetch('data/disabled-items.json'),
       ...linkFiles.map((file) => nativeFetch(file))
     ]);
+
     const perfumes = await perfumesResponse.json();
     const meta = metaResponse.ok ? await metaResponse.json() : {};
     const replacements = replacementsResponse.ok ? await replacementsResponse.json() : {};
+    const disabled = disabledResponse.ok ? await disabledResponse.json() : {};
     const linkSets = await Promise.all(linkResponses.map(async (response) => response.ok ? response.json() : {}));
 
     const merged = perfumes.map((perfume) => {
@@ -45,14 +44,16 @@
         ...(meta[activeKey] || meta[originalKey] || {}),
         ...linkOverrides
       };
-
-      if (!item.image_url && item.official_url) {
-        item.image_url = pagePreview(item.official_url);
-        item.image_status = 'official-page-preview';
-      }
-
+      item.__catalogKey = activeKey;
+      return item;
+    }).filter((item) => {
+      if (disabled[item.__catalogKey]) return false;
+      return Boolean(item.official_url && item.image_url);
+    }).map((item) => {
+      delete item.__catalogKey;
       return item;
     });
+
     return new Response(JSON.stringify(merged), {
       status: 200,
       headers: { 'Content-Type': 'application/json' }
