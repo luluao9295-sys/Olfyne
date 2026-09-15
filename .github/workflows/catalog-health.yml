@@ -20,6 +20,8 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -34,5 +36,6 @@ jobs:
           git add data/catalog-meta.json data/disabled-items.json data/catalog-health.json
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh verified perfume links and images [skip ci]'
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
