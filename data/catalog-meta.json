@@ -75,6 +75,9 @@
   "Dior Homme Cologne|Dior": {
     "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw84de4e22/Y9190300/Y9190300_F091903009_E01_GHC.jpg"
   },
+  "Eau des Merveilles|Hermès": {
+    "image_url": "https://assets.hermes.com/is/image/hermesproduct/eau-des-merveilles-eau-de-toilette--107291V0-worn-2-0-0-1000-1000_g.jpg"
+  },
   "Encre Noire|Lalique": {
     "image_url": "https://fr.lalique.com/cdn/shop/files/M13201-1-Encre-Noire-Eau-de-Toilette-100-ml_a2308d1b-ba81-42cd-bb2f-8448cd60e25c.jpg?v=1785250406"
   },
@@ -115,6 +118,9 @@
     "price_eur": 170,
     "price_status": "officiel",
     "price_volume": "50 ml"
+  },
+  "H24 Eau de Parfum|Hermès": {
+    "image_url": "https://assets.hermes.com/is/image/hermesproduct/h24-eau-de-parfum--108421V0-worn-2-0-0-1000-1000_g.jpg"
   },
   "Habit Rouge Eau de Parfum|Guerlain": {
     "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
@@ -240,6 +246,9 @@
   },
   "Tam Dao Eau de Parfum|Diptyque": {
     "image_url": "https://diptyqueparis.com/cdn/shop/files/diptyque-tam-dao-eau-de-parfum-TAMDAOP75CV1_front.webp?v=1759145231"
+  },
+  "Terre d'Hermès Eau Givrée|Hermès": {
+    "image_url": "https://assets.hermes.com/is/image/hermesproduct/terre-d-hermes-eau-givree-eau-de-parfum--107522V0-worn-2-0-0-1000-1000_g.jpg"
   },
   "Terre d'Hermès|Hermès": {
     "image_url": "https://assets.hermes.com/is/image/hermesproduct/terre-d-hermes-eau-de-toilette--107188V0-worn-2-0-0-800-800_g.jpg",
