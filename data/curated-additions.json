@@ -10,9 +10,6 @@
     "occasions": ["quotidien", "bureau", "date"],
     "performance": ["longue_tenue"],
     "price_level": 4,
-    "price_eur": 180,
-    "price_volume": "75 ml",
-    "price_status": "officiel",
     "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-fleur-de-peau-fleurp75cv1"
   },
   {
@@ -26,9 +23,6 @@
     "occasions": ["soiree", "date"],
     "performance": ["longue_tenue"],
     "price_level": 4,
-    "price_eur": 180,
-    "price_volume": "75 ml",
-    "price_status": "officiel",
     "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-orpheon-orphp75c"
   },
   {
@@ -42,9 +36,6 @@
     "occasions": ["date", "soiree"],
     "performance": ["longue_tenue"],
     "price_level": 4,
-    "price_eur": 180,
-    "price_volume": "75 ml",
-    "price_status": "officiel",
     "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-do-son-dosonp75cv1"
   },
   {
@@ -58,9 +49,6 @@
     "occasions": ["bureau", "date", "soiree"],
     "performance": ["longue_tenue"],
     "price_level": 4,
-    "price_eur": 180,
-    "price_volume": "75 ml",
-    "price_status": "officiel",
     "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-eau-capitale-capitap75cv1"
   },
   {
@@ -74,9 +62,6 @@
     "occasions": ["quotidien", "date"],
     "performance": ["longue_tenue"],
     "price_level": 4,
-    "price_eur": 180,
-    "price_volume": "75 ml",
-    "price_status": "officiel",
     "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-ombre-dans-eau-ombrep75cv2"
   },
   {
@@ -90,7 +75,6 @@
     "occasions": ["date", "soiree"],
     "performance": ["longue_tenue"],
     "price_level": 4,
-    "price_status": "officiel",
     "official_url": "https://parfums-de-marly.com/fr/products/oriana"
   },
   {
@@ -104,9 +88,6 @@
     "occasions": ["date", "soiree"],
     "performance": ["longue_tenue", "fort_sillage"],
     "price_level": 4,
-    "price_eur": 225,
-    "price_volume": "75 ml",
-    "price_status": "officiel",
     "official_url": "https://parfums-de-marly.com/fr/products/althair"
   },
   {
@@ -120,9 +101,6 @@
     "occasions": ["quotidien", "bureau"],
     "performance": ["longue_tenue"],
     "price_level": 4,
-    "price_eur": 225,
-    "price_volume": "75 ml",
-    "price_status": "officiel",
     "official_url": "https://parfums-de-marly.com/fr/products/percival"
   },
   {
@@ -136,7 +114,201 @@
     "occasions": ["quotidien", "bureau"],
     "performance": ["longue_tenue"],
     "price_level": 4,
-    "price_status": "officiel",
     "official_url": "https://parfums-de-marly.com/fr/collections/men/products/sedley"
+  },
+  {
+    "name": "Gris Charnel",
+    "brand": "BDK Parfums",
+    "gender": "mixte",
+    "notes": ["figue", "the_noir", "cardamome", "iris", "vetiver", "santal", "tonka"],
+    "families": ["boise", "epice", "ambre"],
+    "sensations": ["chaud", "elegant", "sensuel"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["date", "soiree"],
+    "performance": ["longue_tenue"],
+    "price_level": 4,
+    "official_url": "https://bdkparfums.com/products/gris-charnel"
+  },
+  {
+    "name": "Gris Charnel Extrait",
+    "brand": "BDK Parfums",
+    "gender": "mixte",
+    "notes": ["figue", "cardamome", "patchouli", "santal", "tonka", "vanille"],
+    "families": ["boise", "ambre", "epice"],
+    "sensations": ["profond", "chaud", "sensuel"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 4,
+    "official_url": "https://bdkparfums.com/products/gris-charnel-extrait"
+  },
+  {
+    "name": "Rouge Smoking",
+    "brand": "BDK Parfums",
+    "gender": "mixte",
+    "notes": ["bergamote", "cerise", "baies_rose", "vanille", "heliotrope", "tonka"],
+    "families": ["ambre", "gourmand", "boise"],
+    "sensations": ["sucre", "sensuel", "moderne"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["date", "soiree"],
+    "performance": ["longue_tenue"],
+    "price_level": 4,
+    "official_url": "https://bdkparfums.com/products/rouge-smoking"
+  },
+  {
+    "name": "Pas ce Soir",
+    "brand": "BDK Parfums",
+    "gender": "femme",
+    "notes": ["poivre_noir", "gingembre", "mandarine", "poire", "jasmin", "fleur_oranger", "patchouli"],
+    "families": ["floral", "fruite", "epice"],
+    "sensations": ["sensuel", "elegant", "vibrant"],
+    "seasons": ["printemps", "automne"],
+    "occasions": ["date", "soiree"],
+    "performance": ["longue_tenue"],
+    "price_level": 4,
+    "official_url": "https://bdkparfums.com/products/pas-ce-soir"
+  },
+  {
+    "name": "Pas ce Soir Extrait",
+    "brand": "BDK Parfums",
+    "gender": "femme",
+    "notes": ["poivre_noir", "gingembre", "cacao", "poire", "jasmin", "vanille", "patchouli"],
+    "families": ["gourmand", "floral", "ambre"],
+    "sensations": ["intense", "sensuel", "sucre"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["soirée", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 4,
+    "official_url": "https://bdkparfums.com/products/pas-ce-soir-extrait"
+  },
+  {
+    "name": "Villa Néroli",
+    "brand": "BDK Parfums",
+    "gender": "mixte",
+    "notes": ["citron", "neroli", "petitgrain", "fleur_oranger", "rose", "vanille", "vetiver"],
+    "families": ["floral", "hesperide", "frais"],
+    "sensations": ["lumineux", "frais", "elegant"],
+    "seasons": ["printemps", "ete"],
+    "occasions": ["quotidien", "bureau", "date"],
+    "performance": ["moderee"],
+    "price_level": 4,
+    "official_url": "https://bdkparfums.com/products/villa-neroli"
+  },
+  {
+    "name": "Arabians Tonka",
+    "brand": "Montale",
+    "gender": "mixte",
+    "notes": ["bergamote", "safran", "rose", "oud", "ambre", "tonka", "cuir", "musc"],
+    "families": ["oriental", "gourmand", "boise"],
+    "sensations": ["puissant", "sucre", "sombre"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 3,
+    "official_url": "https://www.montaleparfums.com/fr/oriental/282-arabians-tonka.html"
+  },
+  {
+    "name": "You or Someone Like You",
+    "brand": "Etat Libre d'Orange",
+    "gender": "mixte",
+    "notes": ["menthe", "rose", "agrumes", "herbes"],
+    "families": ["frais", "vert", "aromatique"],
+    "sensations": ["frais", "vert", "lumineux"],
+    "seasons": ["printemps", "ete"],
+    "occasions": ["quotidien", "bureau"],
+    "performance": ["moderee"],
+    "price_level": 3,
+    "official_url": "https://www.etatlibredorange.com/fr/products/you-or-someone-like-you"
+  },
+  {
+    "name": "Fat Electrician",
+    "brand": "Etat Libre d'Orange",
+    "gender": "mixte",
+    "notes": ["poivre_noir", "elemi", "cedre", "vetiver", "opoponax", "myrrhe", "vanille"],
+    "families": ["boise", "epice", "ambre"],
+    "sensations": ["chaud", "terreux", "original"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["quotidien", "soiree"],
+    "performance": ["longue_tenue"],
+    "price_level": 3,
+    "official_url": "https://www.etatlibredorange.com/fr/products/fat-electrician"
+  },
+  {
+    "name": "Hibiscus Mahajád",
+    "brand": "Maison Crivelli",
+    "gender": "mixte",
+    "notes": ["hibiscus", "rose", "vanille", "cuir", "menthe", "cassis", "cannelle"],
+    "families": ["floral", "fruite", "gourmand"],
+    "sensations": ["intense", "sensuel", "flamboyant"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["date", "soiree"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 4,
+    "official_url": "https://maisoncrivelli.com/fr-fr/products/hibiscus-mahajad"
+  },
+  {
+    "name": "Not a Perfume",
+    "brand": "Juliette Has a Gun",
+    "gender": "mixte",
+    "notes": ["cetalox", "musc", "ambre", "bois"],
+    "families": ["musque", "ambre", "boise"],
+    "sensations": ["propre", "minimaliste", "doux"],
+    "seasons": ["printemps", "ete", "automne"],
+    "occasions": ["quotidien", "bureau"],
+    "performance": ["longue_tenue"],
+    "price_level": 3,
+    "official_url": "https://www.juliettehasagun.com/products/not-a-perfume-parfum"
+  },
+  {
+    "name": "African Leather",
+    "brand": "Memo Paris",
+    "gender": "mixte",
+    "notes": ["cardamome", "safran", "geranium", "cuir", "rose", "patchouli", "cannelle", "oud"],
+    "families": ["cuire", "epice", "boise"],
+    "sensations": ["chaud", "puissant", "elegant"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 4,
+    "official_url": "https://www.memoparis.com/fr/products/african-leather-eau-de-parfum-30ml"
+  },
+  {
+    "name": "Halfeti",
+    "brand": "Penhaligon's",
+    "gender": "mixte",
+    "notes": ["bergamote", "rose", "oud", "epices", "pamplemousse"],
+    "families": ["boise", "ambre", "epice"],
+    "sensations": ["mysterieux", "chaud", "elegant"],
+    "seasons": ["automne", "hiver"],
+    "occasions": ["soiree", "date"],
+    "performance": ["longue_tenue"],
+    "price_level": 4,
+    "official_url": "https://www.penhaligons.com/fr/fr/p/halfeti-eau-de-parfum-100ml--000000000065225962"
+  },
+  {
+    "name": "Radical Rose Extrait de Parfum",
+    "brand": "Matière Première",
+    "gender": "mixte",
+    "notes": ["rose_centifolia", "immortelle", "safran", "patchouli"],
+    "families": ["floral", "epice", "boise"],
+    "sensations": ["puissant", "mineral", "elegant"],
+    "seasons": ["automne", "hiver", "printemps"],
+    "occasions": ["date", "soiree"],
+    "performance": ["longue_tenue", "fort_sillage"],
+    "price_level": 4,
+    "official_url": "https://matiere-premiere.com/products/radical-rose-extrait-de-parfum"
+  },
+  {
+    "name": "Gingembre Rouge Eau Parfumée Bienfaisante",
+    "brand": "Roger&Gallet",
+    "gender": "mixte",
+    "notes": ["gingembre", "baies_rose", "benjoin"],
+    "families": ["frais", "epice", "hesperide"],
+    "sensations": ["petillant", "frais", "energique"],
+    "seasons": ["printemps", "ete"],
+    "occasions": ["quotidien", "bureau"],
+    "performance": ["discret"],
+    "price_level": 1,
+    "official_url": "https://fr.roger-gallet.com/p/RG1003021WW/rg1003021ww-gingembre-rouge-eau-parfumee-bienfaisante-100-ml"
   }
 ]
