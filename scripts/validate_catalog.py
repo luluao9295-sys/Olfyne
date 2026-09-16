@@ -1,15 +1,23 @@
 #!/usr/bin/env python3
-import glob, html, json, os, re, sys, time
+import glob, html, json, os, re, time
 from urllib.parse import urlparse, urljoin
 
 import requests
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'data')
-UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/131 Safari/537.36 OLFYNE-Catalog-Health/1.0'
+UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/131 Safari/537.36 OLFYNE-Catalog-Health/1.1'
 SESSION = requests.Session()
 SESSION.headers.update({'User-Agent': UA, 'Accept-Language': 'fr-FR,fr;q=0.9,en;q=0.7'})
 TIMEOUT = 16
+
+NON_FRAGRANCE_TERMS = {
+    'carte cadeau', 'e carte cadeau', 'gift card', 'bougie', 'candle',
+    'fragrance primer', 'all over spray', 'body spray', 'hair mist',
+    'parfum pour les cheveux', 'hair perfume', 'hand cream', 'on hand cream',
+    'soin hydratant', 'hydra life', 'lait de parfum', 'baume de parfum',
+    'gel de parfum', 'huile de parfum', 'shower', 'deodorant', 'déodorant'
+}
 
 
 def load_json(path, default):
@@ -32,6 +40,8 @@ def key(item):
 
 def merge_catalog():
     perfumes = load_json(os.path.join(DATA, 'perfumes.json'), [])
+    additions = load_json(os.path.join(DATA, 'curated-additions.json'), [])
+    perfumes = perfumes + additions
     replacements = load_json(os.path.join(DATA, 'replacements.json'), {})
     meta = load_json(os.path.join(DATA, 'catalog-meta.json'), {})
     link_sets = []
@@ -39,12 +49,16 @@ def merge_catalog():
         link_sets.append(load_json(path, {}))
 
     merged = []
+    seen = set()
     for perfume in perfumes:
         original_key = key(perfume)
         base = dict(perfume)
         if original_key in replacements:
             base.update(replacements[original_key])
         active_key = key(base)
+        if active_key in seen:
+            continue
+        seen.add(active_key)
         item = dict(base)
         item.update(meta.get(active_key, meta.get(original_key, {})))
         for links in link_sets:
@@ -83,6 +97,11 @@ def looks_direct_product_url(url):
     generic = {'fr', 'fr-fr', 'eu-fr', 'en-eu', 'products', 'product', 'parfums', 'perfume', 'fragrance', 'collections', 'all'}
     meaningful = [x for x in parts if x.lower() not in generic]
     return len(meaningful) >= 1 and (len(parts) >= 2 or any(c.isdigit() for c in path) or '-' in path)
+
+
+def looks_like_real_fragrance(item):
+    name = (item.get('name') or '').lower().replace('’', "'")
+    return not any(term in name for term in NON_FRAGRANCE_TERMS)
 
 
 def extract_og_image(text, base_url):
@@ -125,7 +144,9 @@ def main():
         state = {'official_url': url, 'url_status': None, 'image_status': None}
         reason = None
 
-        if not url:
+        if not looks_like_real_fragrance(item):
+            reason = 'non_fragrance_product'
+        elif not url:
             reason = 'missing_official_url'
         elif not looks_direct_product_url(url):
             reason = 'non_direct_official_url'
@@ -142,7 +163,6 @@ def main():
                 elif not is_accessible(resp) and resp.status_code >= 400:
                     report['warnings'].append({'key': k, 'type': f'url_http_{resp.status_code}', 'url': url})
 
-                # Enrich missing/broken photo from official product page metadata.
                 image_url = item.get('image_url')
                 image_ok, image_final = validate_image(image_url) if image_url else (False, None)
                 if image_ok:
