@@ -1,4 +1,10 @@
 {
+  "African Leather|Memo Paris": {
+    "image_url": "https://www.memoparis.com/cdn/shop/files/african-leather-eau-de-parfum-30ml-sleek-dark-glass-533.jpg?v=1780905174&width=2048"
+  },
+  "Althaïr|Parfums de Marly": {
+    "image_url": "https://parfums-de-marly.com/cdn/shop/files/ALTHAIR-PERFUME-125-PACK1-1X1_CENTERED_1_bcd238cb-aba9-49a0-b846-7282708cf0ad.png?v=1759501405"
+  },
   "Angel's Share|Kilian Paris": {
     "price_eur": 186.75,
     "price_status": "indicatif",
@@ -13,6 +19,9 @@
   },
   "Aqua Allegoria Mandarine Basilic|Guerlain": {
     "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
+  },
+  "Arabians Tonka|Montale": {
+    "image_url": "https://www.montaleparfums.com/1081-product_square/arabians-tonka.jpg"
   },
   "Aventus|Creed": {
     "image_url": "https://static.thcdn.com/productimg/original/12870029-1045337306193008.jpg"
@@ -75,6 +84,12 @@
   "Dior Homme Cologne|Dior": {
     "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw84de4e22/Y9190300/Y9190300_F091903009_E01_GHC.jpg"
   },
+  "Do Son Eau de Parfum|Diptyque": {
+    "image_url": "https://diptyqueparis.com/cdn/shop/files/diptyque-do-son-eau-de-parfum-75ml-dosonp75-1_b654f987-3e56-4fe8-a4f9-6b9f89adca91.jpg?v=1756926261"
+  },
+  "Eau Capitale Eau de Parfum|Diptyque": {
+    "image_url": "https://diptyqueparis.com/cdn/shop/files/diptyque-eau-capitale-eau-de-parfum-CAPITAP75CV1_front.webp?v=1759146147"
+  },
   "Eau des Merveilles|Hermès": {
     "image_url": "https://assets.hermes.com/is/image/hermesproduct/eau-des-merveilles-eau-de-toilette--107291V0-worn-2-0-0-1000-1000_g.jpg"
   },
@@ -87,11 +102,17 @@
   "Fahrenheit Eau de Toilette|Dior": {
     "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwa4306ab2/Y0066001/Y0066001_F006622009_E01_GHC.jpg"
   },
+  "Fat Electrician|Etat Libre d'Orange": {
+    "image_url": "https://www.etatlibredorange.com/cdn/shop/products/FatElectrician50ml.jpg?crop=center&height=600&v=1773661329&width=600"
+  },
   "Fleur de Cerisier|Adopt": {
     "image_url": "https://adopt.twic.pics/media/catalog/product/l/i/life_perf_fleurdecerisier_100ml.jpg?twic=v1"
   },
   "Fleur de Figuier|Roger&Gallet": {
     "image_url": "https://admin.roger-gallet.com/media/catalog/product/cache/7eb369f27775f2db92648609527c34e5/3/7/3701436907938_1.jpg"
+  },
+  "Fleur de Peau Eau de Parfum|Diptyque": {
+    "image_url": "https://diptyqueparis.com/cdn/shop/files/diptyque-fleur-de-peau-eau-de-parfum-FLEURP75CV1.webp?v=1759144672"
   },
   "Flower by Kenzo Eau de Parfum|Kenzo": {
     "image_url": "https://www.kenzoparfums.com/on/demandware.static/-/Library-Sites-KenzoSharedLibrary/default/dw26e33032/images/meta/home_NOS_BOUTIQUES_JUNGLE.png"
@@ -102,6 +123,9 @@
   "Gentle Fluidity Silver|Maison Francis Kurkdjian": {
     "image_url": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwe1c908fd/GENTLE_FLUIDITY/SILVER/FRAGRANCE/3700559618202_GENTLE_FLUIDITY_SILVER_EDP_200ML_1.png?sw=640&sh=640&strip=false"
   },
+  "Gingembre Rouge Eau Parfumée Bienfaisante|Roger&Gallet": {
+    "image_url": "https://admin.roger-gallet.com/media/catalog/product/cache/7eb369f27775f2db92648609527c34e5/3/7/3701436907969_1.jpg"
+  },
   "Grand Soir|Maison Francis Kurkdjian": {
     "image_url": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwf271d704/GRAND_SOIR/FRAGRANCE/3700559614242_GRAND_SOIR_EDP_70ML_1.png?q=85&sfrm=png&sh=700&strip=true&sw=700",
     "official_url": "https://www.franciskurkdjian.com/eu-fr/p/grand-soir-eau-de-parfum-RA122521.html",
@@ -111,6 +135,12 @@
   },
   "Green Irish Tweed|Creed": {
     "image_url": "https://static.thcdn.com/productimg/original/12870035-1055164180549140.jpg"
+  },
+  "Gris Charnel Extrait|BDK Parfums": {
+    "image_url": "https://bdkparfums.com/cdn/shop/files/Parfums-GrisCharnelExtrait_1-Packshot-Nom_copie_2.png?v=1776093742"
+  },
+  "Gris Charnel|BDK Parfums": {
+    "image_url": "https://bdkparfums.com/cdn/shop/files/Parfums-GrisCharnel_1-Packshot-Nom_copie.png?v=1776093340"
   },
   "Gypsy Water|Byredo": {
     "image_url": "https://www.byredo.com/cdn-cgi/image/width%3Dauto%2Cheight%3D1200%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dwebp%2Cquality%3D70/https%3A//www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/0/806014_1_full_no.jpg",
@@ -124,6 +154,9 @@
   },
   "Habit Rouge Eau de Parfum|Guerlain": {
     "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
+  },
+  "Hibiscus Mahajád|Maison Crivelli": {
+    "image_url": "https://maisoncrivelli.com/cdn/shop/files/HM-50ml-BOX-1046x1197.png?v=1756218805"
   },
   "Hypnotic Poison Eau de Toilette|Dior": {
     "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwf0198365/Y0063401/Y0063401_F006344009_E01_GHC.jpg"
@@ -142,6 +175,9 @@
   },
   "L'Homme Idéal Eau de Parfum|Guerlain": {
     "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
+  },
+  "L'Ombre dans l'Eau Eau de Parfum|Diptyque": {
+    "image_url": "https://diptyqueparis.com/cdn/shop/files/diptyque-l-ombre-dans-l-eau-de-parfum-75ml-ombrep75-1_3f087e1a-1c2d-443c-a4b7-02cf82380a5d.jpg?v=1756926518"
   },
   "L'eau virile|Adopt": {
     "image_url": "https://adopt.twic.pics/media/catalog/product/l/i/life_perf_leauvirile_30ml_3701429811006_1_1_1.jpg?twic=v1"
@@ -190,12 +226,21 @@
     "price_status": "à vérifier",
     "price_volume": "50 ml"
   },
+  "Not a Perfume|Juliette Has a Gun": {
+    "image_url": "https://www.juliettehasagun.com/cdn/shop/files/03_Not_A_Perfume_Packshot_bestseller_200ml_1200x1200.jpg?v=1758551019"
+  },
   "Ombré Leather|Tom Ford": {
     "image_url": "https://www.tomfordbeauty.com/cdn/shop/files/tf_sku_T5Y201_2000x2000_0.png?v=1789366336&width=2000",
     "official_url": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
     "price_eur": 239,
     "price_status": "indicatif",
     "price_volume": "100 ml"
+  },
+  "Oriana|Parfums de Marly": {
+    "image_url": "https://parfums-de-marly.com/cdn/shop/files/ORIANA-PERFUME-75-PACK1-1X1_CENTERED_41587dc8-ff0d-4d24-9384-ccbc54ae44f2.png?v=1759501427"
+  },
+  "Orphéon Eau de Parfum|Diptyque": {
+    "image_url": "https://diptyqueparis.com/cdn/shop/files/diptyque-orpheon-eau-de-parfum-75ml-orphp75c-1.jpg?v=1756923236"
   },
   "Oud Satin Mood|Maison Francis Kurkdjian": {
     "image_url": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw86e94763/OSAM/FRAGRANCE/3700559605370_OUD_SATIN_MOOD_EDP_200ML_1.png?sw=640&sh=640&strip=false"
@@ -207,8 +252,17 @@
     "price_status": "indicatif",
     "price_volume": "50 ml"
   },
+  "Pas ce Soir Extrait|BDK Parfums": {
+    "image_url": "https://bdkparfums.com/cdn/shop/files/Parfums-PasCeSoirExtrait_1-Packshot-Nom.png?v=1688563856"
+  },
+  "Pas ce Soir|BDK Parfums": {
+    "image_url": "https://bdkparfums.com/cdn/shop/files/Parfums-PasCeSoir_1-Packshot-Nom.png?v=1686514247"
+  },
   "Pegasus|Parfums de Marly": {
     "image_url": "https://parfums-de-marly.com/cdn/shop/files/PEGASUS-PERFUME-125-PACK1-1X1_CENTERED_d3297627-c8b1-4b62-b09f-d14238ee595d.png?v=1759501462"
+  },
+  "Percival|Parfums de Marly": {
+    "image_url": "https://parfums-de-marly.com/cdn/shop/files/PERCIVAL-PERFUME-125-PACK1-1X1_CENTERED_1_5476f34c-058e-4eae-a180-3e4526067d70.png?v=1759501457"
   },
   "Philosykos Eau de Parfum|Diptyque": {
     "image_url": "https://diptyqueparis.com/cdn/shop/files/diptyque-philosykos-eau-de-parfum-PHILOP75CV1_front.webp?v=1759145433"
@@ -216,11 +270,17 @@
   "Poison Girl Eau de Parfum|Dior": {
     "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dwbc983158/Y0763220/Y0763220_F076321009_E01_GHC.jpg"
   },
+  "Radical Rose Extrait de Parfum|Matière Première": {
+    "image_url": "https://matiere-premiere.com/cdn/shop/files/ExtraitdeparfumRadicalRoseMatierePremiere100ML.jpg?v=1745782525"
+  },
   "Reflection Man|Amouage": {
     "image_url": "https://amouage.com/cdn/shop/files/REFLECTION_100_ML.jpg?v=1758803038"
   },
   "Rochas Man|Rochas": {
     "image_url": "https://www.rochas.com/wp-content/uploads/2021/05/ROCHAS_HT_DAY1_0509-1-scaled.jpg"
+  },
+  "Rouge Smoking|BDK Parfums": {
+    "image_url": "https://bdkparfums.com/cdn/shop/files/Parfums-RougeSmoking_1-Packshot-Nom.png?v=1688466968"
   },
   "Santal 33|Le Labo": {
     "image_url": "https://lelabo.ips.photos/lelabo-java/images/skus/050PS33100__PRODUCT_01--IMG_1200--SANTAL33-200129705.jpg",
@@ -231,6 +291,9 @@
   },
   "Sauvage Elixir|Dior": {
     "image_url": "https://www.dior.com/on/demandware.static/-/Sites-master_dior/default/dw0df82930/Y0996460/Y0996460_C099600755_E01_GHC.jpg"
+  },
+  "Sedley|Parfums de Marly": {
+    "image_url": "https://parfums-de-marly.com/cdn/shop/files/SEDLEY-PERFUME-125-PACK1-1X1_CENTERED_fc558275-a756-43b7-a5ca-c1076cb6f98b.png?v=1759501456"
   },
   "Shalimar Eau de Parfum|Guerlain": {
     "image_url": "https://www.guerlain.com/on/demandware.static/Sites-Guerlain_FR-Site/-/default/dw23dfed73/images/favicons/favicon-144x144.png"
@@ -276,11 +339,17 @@
   "Vanille|Solinotes": {
     "image_url": "https://solinotes.com/cdn/shop/collections/HOME_CARROUSEL_1_1200x1200.jpg?v=1666861603"
   },
+  "Villa Néroli|BDK Parfums": {
+    "image_url": "https://bdkparfums.com/cdn/shop/files/Parfums-VillaNeroli_1-Packshot-Nom.png?v=1749825604"
+  },
   "Wood Sage & Sea Salt|Jo Malone London": {
     "image_url": "https://sdcdn.io/jm/jm_sku_L41501_3000x3000_0S.png?height=700px&width=700px",
     "official_url": "https://www.jomalone.fr/product/wood-sage-sea-salt-cologne",
     "price_eur": 152,
     "price_status": "officiel",
     "price_volume": "100 ml"
+  },
+  "You or Someone Like You|Etat Libre d'Orange": {
+    "image_url": "https://www.etatlibredorange.com/cdn/shop/products/YouorSomeoneLikeYou.jpg?crop=center&height=600&v=1772705492&width=600"
   }
 }

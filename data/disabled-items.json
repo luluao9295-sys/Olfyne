@@ -23,6 +23,14 @@
     "official_url": "https://www.mugler.fr/parfum/parfum-femme/alien-goddess",
     "reason": "missing_or_broken_product_image"
   },
+  "Allure Homme All Over Spray|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/121820/allure-homme-all-over-spray/",
+    "reason": "non_fragrance_product"
+  },
+  "Allure Homme Sport All Over Spray|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/123710/allure-homme-sport-all-over-spray/",
+    "reason": "non_fragrance_product"
+  },
   "Allure Homme Sport|Chanel": {
     "official_url": "https://www.chanel.com/fr/parfums/p/123630/allure-homme-sport-eau-de-toilette-vaporisateur/",
     "reason": "missing_or_broken_product_image"
@@ -50,6 +58,14 @@
   "Because It's You Eau de Parfum|Emporio Armani": {
     "official_url": "https://www.armanibeauty.fr/parfums/",
     "reason": "non_direct_official_url"
+  },
+  "Bleu De Chanel All Over Spray|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/107520/bleu-de-chanel-all-over-spray/",
+    "reason": "non_fragrance_product"
+  },
+  "Bleu De Chanel Soin Hydratant 3 En 1|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/107580/bleu-de-chanel-soin-hydratant-3-en-1/",
+    "reason": "non_fragrance_product"
   },
   "Bleu Noir Eau de Parfum|Narciso Rodriguez": {
     "official_url": "https://www.narcisorodriguezparfums.com/fr/",
@@ -79,6 +95,10 @@
     "official_url": "https://www.hugoboss.com/fr/fr/parfums/",
     "reason": "non_direct_official_url"
   },
+  "Bougies|Dior": {
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/bougies-parfumees-Y0000229.html",
+    "reason": "non_fragrance_product"
+  },
   "Boum Vanille Sa Pomme d'Amour|Jeanne Arthes": {
     "official_url": "https://www.jeanne-arthes.com/",
     "reason": "non_direct_official_url"
@@ -90,6 +110,10 @@
   "CK One|Calvin Klein": {
     "official_url": "https://www.calvinklein.fr/parfums",
     "reason": "non_direct_official_url"
+  },
+  "Carte Cadeau|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/087203/carte-cadeau/",
+    "reason": "non_fragrance_product"
   },
   "Chance Eau Tendre Eau de Toilette|Chanel": {
     "official_url": "https://www.chanel.com/fr/parfums/p/126310/chance-eau-tendre-eau-de-toilette-vaporisateur/",
@@ -115,6 +139,10 @@
     "official_url": "https://www.chanel.com/fr/parfums/p/116520/coco-mademoiselle-eau-de-parfum-vaporisateur/",
     "reason": "missing_or_broken_product_image"
   },
+  "Coco Mademoiselle Fragrance Primer|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/116690/coco-mademoiselle-fragrance-primer/",
+    "reason": "non_fragrance_product"
+  },
   "Comme une Évidence|Yves Rocher": {
     "official_url": "https://www.yves-rocher.fr/parfum/parfum-femme/eau-de-parfum-femme/comme-une-evidence-eau-de-parfum/p/30313",
     "reason": "missing_or_broken_product_image"
@@ -131,6 +159,10 @@
     "official_url": "https://www.yves-rocher.fr/parfum/c/20000",
     "reason": "missing_or_broken_product_image"
   },
+  "Dior Hydra Life Eau Fraiche 2 En 1|Dior": {
+    "official_url": "https://www.dior.com/fr_fr/beauty/products/dior-hydra-life-eau-fraiche-2-en-1-Y0996034.html",
+    "reason": "non_fragrance_product"
+  },
   "Dolce Garden|Dolce&Gabbana": {
     "official_url": "https://www.dolcegabbana.com/fr-fr/beauty/",
     "reason": "missing_or_broken_product_image"
@@ -142,6 +174,10 @@
   "Dylan Blue|Versace": {
     "official_url": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/dylan-blue-pour-homme/eau-de-toilette-dylan-blue-pour-homme-100%C2%A0ml/R721010-R100MLS_RTU_TU_RNUL__.html",
     "reason": "missing_or_broken_product_image"
+  },
+  "E Carte Cadeau|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/096010/e-carte-cadeau/",
+    "reason": "non_fragrance_product"
   },
   "Eros Eau de Parfum|Versace": {
     "official_url": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/eros/eau-de-parfum-eros-100%C2%A0ml/R740110-R100MLS_RNUL.html",
@@ -179,6 +215,10 @@
     "official_url": "https://www.chanel.com/fr/parfums/p/120425/gabrielle-chanel-eau-de-parfum-vaporisateur/",
     "reason": "missing_or_broken_product_image"
   },
+  "Gabrielle Chanel Fragrance Primer|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/120840/gabrielle-chanel-fragrance-primer/",
+    "reason": "non_fragrance_product"
+  },
   "Gardenia|Zara": {
     "official_url": "https://www.zara.com/fr/fr/gardenia-edp-90-ml--3-04-fl--oz---p20120824.html",
     "reason": "missing_or_broken_product_image"
@@ -190,6 +230,10 @@
   "Green Tea|Elizabeth Arden": {
     "official_url": "https://www.elizabetharden.fr/",
     "reason": "non_direct_official_url"
+  },
+  "Halfeti|Penhaligon's": {
+    "official_url": "https://www.penhaligons.com/fr/fr/p/halfeti-eau-de-parfum-100ml--000000000065225962",
+    "reason": "missing_or_broken_product_image"
   },
   "Hoggar|Yves Rocher": {
     "official_url": "https://www.yves-rocher.fr/parfum/c/20000",
@@ -259,6 +303,10 @@
     "official_url": "https://www.lancome.fr/parfum/parfum-femme/la-vie-est-belle/la-vie-est-belle/3614273603393.html",
     "reason": "missing_or_broken_product_image"
   },
+  "Lart La Matiere Bougie|Guerlain": {
+    "official_url": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-bougie-parfumee-personnalisable-B000001.html",
+    "reason": "non_fragrance_product"
+  },
   "Le Beau Le Parfum|Jean Paul Gaultier": {
     "official_url": "https://www.jeanpaulgaultier.com/fr/fr/p/gamme-le-beau/le-beau-le-parfum-eau-de-parfum-intense-000000000065180318",
     "reason": "missing_or_broken_product_image"
@@ -310,6 +358,10 @@
   "N°5 Eau de Parfum|Chanel": {
     "official_url": "https://www.chanel.com/fr/parfums/p/125430/n5-eau-de-parfum-vaporisateur/",
     "reason": "missing_or_broken_product_image"
+  },
+  "N°5 Leau On Hand Cream|Chanel": {
+    "official_url": "https://www.chanel.com/fr/parfums/p/105580/n5-leau-on-hand-cream/",
+    "reason": "non_fragrance_product"
   },
   "Olympéa Eau de Parfum|Rabanne": {
     "official_url": "https://www.rabanne.com/fr/fr/fragrance",
