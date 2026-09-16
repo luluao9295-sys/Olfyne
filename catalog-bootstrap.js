@@ -19,8 +19,9 @@
       'data/official-links-11.json'
     ];
 
-    const [perfumesResponse, metaResponse, replacementsResponse, disabledResponse, ...linkResponses] = await Promise.all([
+    const [perfumesResponse, additionsResponse, metaResponse, replacementsResponse, disabledResponse, ...linkResponses] = await Promise.all([
       nativeFetch(input, init),
+      nativeFetch('data/curated-additions.json'),
       nativeFetch('data/catalog-meta.json'),
       nativeFetch('data/replacements.json'),
       nativeFetch('data/disabled-items.json'),
@@ -28,12 +29,14 @@
     ]);
 
     const perfumes = await perfumesResponse.json();
+    const additions = additionsResponse.ok ? await additionsResponse.json() : [];
     const meta = metaResponse.ok ? await metaResponse.json() : {};
     const replacements = replacementsResponse.ok ? await replacementsResponse.json() : {};
     const disabled = disabledResponse.ok ? await disabledResponse.json() : {};
     const linkSets = await Promise.all(linkResponses.map(async (response) => response.ok ? response.json() : {}));
 
-    const merged = perfumes.map((perfume) => {
+    const seen = new Set();
+    const merged = [...perfumes, ...additions].map((perfume) => {
       const originalKey = `${perfume.name}|${perfume.brand}`;
       const replacement = replacements[originalKey] || null;
       const baseItem = replacement ? { ...perfume, ...replacement } : perfume;
@@ -47,6 +50,8 @@
       item.__catalogKey = activeKey;
       return item;
     }).filter((item) => {
+      if (seen.has(item.__catalogKey)) return false;
+      seen.add(item.__catalogKey);
       if (disabled[item.__catalogKey]) return false;
       return Boolean(item.official_url && item.image_url);
     }).map((item) => {
