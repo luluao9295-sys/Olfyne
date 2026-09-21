@@ -1,6 +1,6 @@
 {
   "active": 283,
-  "checked_at_utc": "2026-09-16T19:26:59Z",
+  "checked_at_utc": "2026-09-21T04:29:24Z",
   "disabled": 111,
   "items": {
     "1 Million Eau de Toilette|Rabanne": {
@@ -37,7 +37,7 @@
     "African Leather|Memo Paris": {
       "active": true,
       "final_url": "https://www.memoparis.com/fr/products/african-leather-eau-de-parfum-30ml",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://www.memoparis.com/fr/products/african-leather-eau-de-parfum-30ml",
       "url_status": 200
     },
@@ -46,7 +46,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/agar-ebene-eau-de-toilette-V113482V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/agar-ebene-eau-de-toilette-V113482V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Alien Eau de Parfum|Mugler": {
       "active": false,
@@ -138,7 +138,7 @@
     "Althaïr|Parfums de Marly": {
       "active": true,
       "final_url": "https://parfums-de-marly.com/fr/products/althair",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://parfums-de-marly.com/fr/products/althair",
       "url_status": 200
     },
@@ -161,7 +161,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Ambre Nuit Esprit De|Dior": {
       "active": true,
@@ -224,7 +224,7 @@
     "Arabians Tonka|Montale": {
       "active": true,
       "final_url": "https://www.montaleparfums.com/fr/oriental/282-arabians-tonka.html",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://www.montaleparfums.com/fr/oriental/282-arabians-tonka.html",
       "url_status": 200
     },
@@ -304,7 +304,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/bel-ami-vetiver-eau-de-toilette-V107386V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/bel-ami-vetiver-eau-de-toilette-V107386V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Bel Respiro|Chanel": {
       "active": true,
@@ -540,14 +540,14 @@
       "final_url": "https://www.hermes.com/fr/fr/product/caleche-eau-de-toilette-V107388V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/caleche-eau-de-toilette-V107388V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Cardamusc Essence De|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/cardamusc-essence-de-parfum-V107117V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/cardamusc-essence-de-parfum-V107117V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Carte Cadeau|Chanel": {
       "active": false,
@@ -834,7 +834,7 @@
     "Do Son Eau de Parfum|Diptyque": {
       "active": true,
       "final_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-do-son-dosonp75cv1",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-do-son-dosonp75cv1",
       "url_status": 200
     },
@@ -872,7 +872,7 @@
     "Eau Capitale Eau de Parfum|Diptyque": {
       "active": true,
       "final_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-eau-capitale-capitap75cv1",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-eau-capitale-capitap75cv1",
       "url_status": 200
     },
@@ -902,7 +902,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/eau-des-merveilles-bleue-eau-de-toilette-V107059V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/eau-des-merveilles-bleue-eau-de-toilette-V107059V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Eau De|Chanel": {
       "active": true,
@@ -965,7 +965,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/equipage-eau-de-toilette-V107405V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/equipage-eau-de-toilette-V107405V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Erba Pura|Xerjoff": {
       "active": true,
@@ -1071,7 +1071,7 @@
     "Fat Electrician|Etat Libre d'Orange": {
       "active": true,
       "final_url": "https://www.etatlibredorange.com/fr/products/fat-electrician",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://www.etatlibredorange.com/fr/products/fat-electrician",
       "url_status": 200
     },
@@ -1080,7 +1080,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/24-faubourg-eau-de-parfum-V107375V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/24-faubourg-eau-de-parfum-V107375V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Flaconnier Esprit De|Dior": {
       "active": true,
@@ -1106,7 +1106,7 @@
     "Fleur de Peau Eau de Parfum|Diptyque": {
       "active": true,
       "final_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-fleur-de-peau-fleurp75cv1",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-fleur-de-peau-fleurp75cv1",
       "url_status": 200
     },
@@ -1215,7 +1215,7 @@
     "Gingembre Rouge Eau Parfumée Bienfaisante|Roger&Gallet": {
       "active": true,
       "final_url": "https://fr.roger-gallet.com/p/RG1003021WW/rg1003021ww-gingembre-rouge-eau-parfumee-bienfaisante-100-ml",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://fr.roger-gallet.com/p/RG1003021WW/rg1003021ww-gingembre-rouge-eau-parfumee-bienfaisante-100-ml",
       "url_status": 200
     },
@@ -1243,14 +1243,14 @@
     "Gris Charnel Extrait|BDK Parfums": {
       "active": true,
       "final_url": "https://bdkparfums.com/products/gris-charnel-extrait",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://bdkparfums.com/products/gris-charnel-extrait",
       "url_status": 200
     },
     "Gris Charnel|BDK Parfums": {
       "active": true,
       "final_url": "https://bdkparfums.com/products/gris-charnel",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://bdkparfums.com/products/gris-charnel",
       "url_status": 200
     },
@@ -1291,14 +1291,14 @@
       "final_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-parfum-V108421V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-parfum-V108421V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "H24|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-toilette-V101561V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-toilette-V101561V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Habit Rouge Eau de Parfum|Guerlain": {
       "active": true,
@@ -1318,7 +1318,7 @@
     "Hibiscus Mahajád|Maison Crivelli": {
       "active": true,
       "final_url": "https://maisoncrivelli.com/fr-fr/products/hibiscus-mahajad",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://maisoncrivelli.com/fr-fr/products/hibiscus-mahajad",
       "url_status": 200
     },
@@ -1466,7 +1466,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/jour-d-hermes-absolu-eau-de-parfum-V107548V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/jour-d-hermes-absolu-eau-de-parfum-V107548V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Joy De Dior|Dior": {
       "active": true,
@@ -1495,7 +1495,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/l-ambre-des-merveilles-eau-de-parfum-V107245V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/l-ambre-des-merveilles-eau-de-parfum-V107245V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "L Ombre Des Merveilles|Hermès": {
       "active": true,
@@ -1554,7 +1554,7 @@
     "L'Ombre dans l'Eau Eau de Parfum|Diptyque": {
       "active": true,
       "final_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-ombre-dans-eau-ombrep75cv2",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-ombre-dans-eau-ombrep75cv2",
       "url_status": 200
     },
@@ -2058,7 +2058,7 @@
     "Not a Perfume|Juliette Has a Gun": {
       "active": true,
       "final_url": "https://www.juliettehasagun.com/products/not-a-perfume-parfum",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://www.juliettehasagun.com/products/not-a-perfume-parfum",
       "url_status": 200
     },
@@ -2200,14 +2200,14 @@
     "Oriana|Parfums de Marly": {
       "active": true,
       "final_url": "https://parfums-de-marly.com/fr/products/oriana",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://parfums-de-marly.com/fr/products/oriana",
       "url_status": 200
     },
     "Orphéon Eau de Parfum|Diptyque": {
       "active": true,
       "final_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-orpheon-orphp75c",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-orpheon-orphp75c",
       "url_status": 200
     },
@@ -2216,7 +2216,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/oud-alezan-eau-de-parfum-V113467V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/oud-alezan-eau-de-parfum-V113467V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Oud Elixir Precieux|Dior": {
       "active": true,
@@ -2313,14 +2313,14 @@
     "Pas ce Soir Extrait|BDK Parfums": {
       "active": true,
       "final_url": "https://bdkparfums.com/products/pas-ce-soir-extrait",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://bdkparfums.com/products/pas-ce-soir-extrait",
       "url_status": 200
     },
     "Pas ce Soir|BDK Parfums": {
       "active": true,
       "final_url": "https://bdkparfums.com/products/pas-ce-soir",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://bdkparfums.com/products/pas-ce-soir",
       "url_status": 200
     },
@@ -2341,7 +2341,7 @@
     "Percival|Parfums de Marly": {
       "active": true,
       "final_url": "https://parfums-de-marly.com/fr/products/percival",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://parfums-de-marly.com/fr/products/percival",
       "url_status": 200
     },
@@ -2391,7 +2391,7 @@
     "Radical Rose Extrait de Parfum|Matière Première": {
       "active": true,
       "final_url": "https://matiere-premiere.com/products/radical-rose-extrait-de-parfum",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://matiere-premiere.com/products/radical-rose-extrait-de-parfum",
       "url_status": 200
     },
@@ -2423,7 +2423,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/rocabar-eau-de-toilette-V107401V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/rocabar-eau-de-toilette-V107401V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Rochas Man Intense|Rochas": {
       "active": false,
@@ -2452,12 +2452,12 @@
       "final_url": "https://www.hermes.com/fr/fr/product/rouge-hermes-eau-de-toilette-V108307V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/rouge-hermes-eau-de-toilette-V108307V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Rouge Smoking|BDK Parfums": {
       "active": true,
       "final_url": "https://bdkparfums.com/products/rouge-smoking",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://bdkparfums.com/products/rouge-smoking",
       "url_status": 200
     },
@@ -2521,7 +2521,7 @@
     "Sedley|Parfums de Marly": {
       "active": true,
       "final_url": "https://parfums-de-marly.com/fr/collections/men/products/sedley",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://parfums-de-marly.com/fr/collections/men/products/sedley",
       "url_status": 200
     },
@@ -2609,28 +2609,28 @@
       "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Terre D Hermes Eau Intense Vetiver|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-intense-vetiver-eau-de-parfum-V100057V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-intense-vetiver-eau-de-parfum-V100057V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Terre D Hermes|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Terre d'Hermès Eau Givrée|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Terre d'Hermès|Hermès": {
       "active": true,
@@ -2695,14 +2695,14 @@
       "final_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-poivree-eau-de-parfum-V107167V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-poivree-eau-de-parfum-V107167V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Twilly D Hermes|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-de-parfum-V107263V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-de-parfum-V107263V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Twilly d'Hermès Eau de Parfum|Hermès": {
       "active": false,
@@ -2781,7 +2781,7 @@
     "Villa Néroli|BDK Parfums": {
       "active": true,
       "final_url": "https://bdkparfums.com/products/villa-neroli",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://bdkparfums.com/products/villa-neroli",
       "url_status": 200
     },
@@ -2804,7 +2804,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/voyage-d-hermes-eau-de-toilette-V107568V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/voyage-d-hermes-eau-de-toilette-V107568V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Vétiver Parfum|Guerlain": {
       "active": false,
@@ -2831,7 +2831,7 @@
     "You or Someone Like You|Etat Libre d'Orange": {
       "active": true,
       "final_url": "https://www.etatlibredorange.com/products/you-or-someone-like-you",
-      "image_status": "repaired_from_official_page",
+      "image_status": "ok",
       "official_url": "https://www.etatlibredorange.com/fr/products/you-or-someone-like-you",
       "url_status": 200
     }
