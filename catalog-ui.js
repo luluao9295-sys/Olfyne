@@ -5,7 +5,7 @@
     const label = `À partir de ${euro(item.price_eur)} €`;
     const size = item.price_volume ? item.price_volume : '';
     if (compact) return `<strong>${label}</strong>${size ? `<span>${size}</span>` : ''}`;
-    return `<div class="price-line"><strong>${label}</strong>${size ? `<span>${size}</span>` : ''}</div><div class="price-source">${item.price_status === 'officiel' ? 'Prix officiel relevé' : 'Prix indicatif'}</div>`;
+    return `<div class="price-line"><strong>${label}</strong>${size ? `<span>${size}</span>` : ''}</div><div class="price-source">${item.price_status === 'officiel' ? 'Prix officiel relevé' : item.source_site === 'Sephora France' ? 'Prix Sephora relevé le 29/09/2026' : 'Prix indicatif'}</div>`;
   };
 
   window.renderCards = function(items) {
@@ -51,12 +51,14 @@
 
     const score = currentResults.find((p) => p.name === perfume.name && p.brand === perfume.brand)?.score || 0;
     const matched = getMatchedCriteria(perfume);
-    const intensity = inferIntensity(perfume);
-    const sillage = inferSillage(perfume);
-    const noteTags = (perfume.notes || []).map((x) => `<span>${pretty(x)}</span>`).join('');
-    const familyTags = (perfume.families || []).map((x) => `<span>${pretty(x)}</span>`).join('');
+    const retailerData = perfume.source_site === 'Sephora France';
+    const intensity = retailerData && !(perfume.performance || []).length ? 'Non renseignée' : inferIntensity(perfume);
+    const sillage = retailerData && !(perfume.performance || []).length ? 'Non renseigné' : inferSillage(perfume);
+    const noteTags = (perfume.notes || []).map((x) => `<span>${pretty(x)}</span>`).join('') || 'Notes non renseignées';
+    const familyTags = (perfume.families || []).map((x) => `<span>${pretty(x)}</span>`).join('') || 'Famille non renseignée';
+    const retailer = perfume.source_site === 'Sephora France';
     const officialLink = perfume.official_url
-      ? `<a class="official-link" href="${perfume.official_url}" target="_blank" rel="noopener noreferrer" aria-label="Voir ${perfume.name} sur le site officiel français de ${perfume.brand}">Voir sur le site officiel français <span>↗</span></a>`
+      ? `<a class="official-link" href="${perfume.official_url}" target="_blank" rel="noopener noreferrer" aria-label="Voir ${perfume.name} sur ${retailer ? 'Sephora France' : `le site officiel français de ${perfume.brand}`}">${retailer ? 'Voir sur Sephora France' : 'Voir sur le site officiel français'} <span>↗</span></a>`
       : '';
     const imageBlock = perfume.image_url
       ? `<div class="modal-product-image"><img src="${perfume.image_url}" alt="${perfume.name} — ${perfume.brand}" referrerpolicy="no-referrer" onerror="this.parentElement.outerHTML='<div class=&quot;modal-bottle&quot;><span>${perfume.brand}</span></div>'"></div>`
@@ -74,7 +76,7 @@
               <h2>${perfume.name}</h2>
               <p class="modal-brand">${perfume.brand}</p>
               <div class="modal-price">${priceHtml(perfume, true)}</div>
-              <div class="price-source">${perfume.price_eur == null ? 'Prix en cours de vérification' : perfume.price_status === 'officiel' ? 'Prix officiel relevé — susceptible d’évoluer' : 'Prix indicatif — susceptible d’évoluer'}</div>
+              <div class="price-source">${perfume.price_eur == null ? 'Prix en cours de vérification' : perfume.price_status === 'officiel' ? 'Prix officiel relevé — susceptible d’évoluer' : perfume.source_site === 'Sephora France' ? 'Prix Sephora relevé le 29/09/2026 — susceptible d’évoluer' : 'Prix indicatif — susceptible d’évoluer'}</div>
               ${officialLink}
             </div>
             ${imageBlock}
@@ -83,13 +85,13 @@
             <section><h3>Notes principales</h3><div class="modal-tags">${noteTags}</div></section>
             <section><h3>Famille olfactive</h3><div class="modal-tags">${familyTags}</div></section>
             <section class="modal-stats">
-              <div><span>Saison</span><strong>${(perfume.seasons || []).map(pretty).join(' · ') || 'Toutes'}</strong></div>
-              <div><span>Occasion</span><strong>${(perfume.occasions || []).map(pretty).join(' · ') || 'Polyvalent'}</strong></div>
+              <div><span>Saison</span><strong>${(perfume.seasons || []).map(pretty).join(' · ') || (retailerData ? 'Non renseignée' : 'Toutes')}</strong></div>
+              <div><span>Occasion</span><strong>${(perfume.occasions || []).map(pretty).join(' · ') || (retailerData ? 'Non renseignée' : 'Polyvalent')}</strong></div>
               <div><span>Intensité</span><strong>${intensity}</strong></div>
               <div><span>Sillage</span><strong>${sillage}</strong></div>
               <div><span>Prix</span>${priceHtml(perfume, true)}</div>
             </section>
-            <section class="why-box"><h3>Pourquoi OLFYNE le recommande</h3><p>${matched.length ? `Il correspond à votre recherche sur : ${matched.map(pretty).join(', ')}.` : 'Ce parfum fait partie de la sélection éditoriale OLFYNE.'}</p></section>
+            <section class="why-box"><h3>Pourquoi OLFYNE le recommande</h3><p>${matched.length ? `Il correspond à votre recherche sur : ${matched.map(pretty).join(', ')}.` : retailerData ? 'Cette fiche est issue du catalogue Sephora France. Les notes manquantes seront complétées après vérification.' : 'Ce parfum fait partie de la sélection éditoriale OLFYNE.'}</p></section>
           </div>
         </div>
       </div>`);

@@ -104,6 +104,8 @@ function extractIntent(rawQuery) {
 }
 
 function scorePerfume(perfume, intent) {
+  const title = normalize(`${perfume.name} ${perfume.brand}`);
+  if (intent.query && title.includes(intent.query)) return 95;
   if (!intent.positive.length && !intent.negative.length) return 0;
 
   const searchable = getSearchable(perfume);
