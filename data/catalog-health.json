@@ -1,7 +1,7 @@
 {
-  "active": 283,
-  "checked_at_utc": "2026-09-28T04:31:13Z",
-  "disabled": 111,
+  "active": 282,
+  "checked_at_utc": "2026-09-29T10:04:51Z",
+  "disabled": 112,
   "items": {
     "1 Million Eau de Toilette|Rabanne": {
       "active": false,
@@ -86,10 +86,11 @@
       "url_status": null
     },
     "Allure Homme Sport Cologne|Chanel": {
-      "active": true,
+      "active": false,
       "final_url": "https://www.chanel.com/fr/parfums/p/123320/allure-homme-sport-cologne-vaporisateur/",
-      "image_status": "ok",
+      "image_status": "missing_or_broken",
       "official_url": "https://www.chanel.com/fr/parfums/p/123320/allure-homme-sport-cologne-vaporisateur/",
+      "reason": "missing_or_broken_product_image",
       "url_status": 403
     },
     "Allure Homme Sport Eau Extreme|Chanel": {
@@ -147,7 +148,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/amazone-eau-de-toilette-V108306V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/amazone-eau-de-toilette-V108306V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Ambre Elixir Precieux|Dior": {
       "active": true,
@@ -161,7 +162,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Ambre Nuit Esprit De|Dior": {
       "active": true,
@@ -262,14 +263,14 @@
       "final_url": "https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Barénia Eau de Parfum|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/barenia-eau-de-parfum-V110435V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Because It's You Eau de Parfum|Emporio Armani": {
       "active": false,
@@ -304,7 +305,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/bel-ami-vetiver-eau-de-toilette-V107386V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/bel-ami-vetiver-eau-de-toilette-V107386V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Bel Respiro|Chanel": {
       "active": true,
@@ -540,14 +541,14 @@
       "final_url": "https://www.hermes.com/fr/fr/product/caleche-eau-de-toilette-V107388V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/caleche-eau-de-toilette-V107388V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Cardamusc Essence De|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/cardamusc-essence-de-parfum-V107117V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/cardamusc-essence-de-parfum-V107117V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Carte Cadeau|Chanel": {
       "active": false,
@@ -751,7 +752,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/cuir-d-ange-eau-de-toilette-V113484V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/cuir-d-ange-eau-de-toilette-V113484V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Cuir De Russie Extrait Ambre Cuire Floral|Chanel": {
       "active": true,
@@ -1291,7 +1292,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-parfum-V108421V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/h24-eau-de-parfum-V108421V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "H24|Hermès": {
       "active": true,
@@ -1466,7 +1467,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/jour-d-hermes-absolu-eau-de-parfum-V107548V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/jour-d-hermes-absolu-eau-de-parfum-V107548V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Joy De Dior|Dior": {
       "active": true,
@@ -1495,7 +1496,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/l-ambre-des-merveilles-eau-de-parfum-V107245V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/l-ambre-des-merveilles-eau-de-parfum-V107245V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "L Ombre Des Merveilles|Hermès": {
       "active": true,
@@ -2216,7 +2217,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/oud-alezan-eau-de-parfum-V113467V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/oud-alezan-eau-de-parfum-V113467V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Oud Elixir Precieux|Dior": {
       "active": true,
@@ -2688,21 +2689,21 @@
       "final_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-ginger-eau-de-parfum-V103949V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-ginger-eau-de-parfum-V103949V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Twilly D Hermes Eau Poivree|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-poivree-eau-de-parfum-V107167V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-poivree-eau-de-parfum-V107167V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Twilly D Hermes|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-de-parfum-V107263V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-de-parfum-V107263V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Twilly d'Hermès Eau de Parfum|Hermès": {
       "active": false,
@@ -2717,14 +2718,14 @@
       "final_url": "https://www.hermes.com/fr/fr/product/un-jardin-a-cythere-eau-de-toilette-V109287V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-a-cythere-eau-de-toilette-V109287V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Un Jardin Sur La Lagune|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-la-lagune-eau-de-toilette-V100079V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-la-lagune-eau-de-toilette-V100079V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Un Jardin sur le Nil|Hermès": {
       "active": false,
