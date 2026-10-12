@@ -1,7 +1,7 @@
 {
-  "active": 283,
-  "checked_at_utc": "2026-10-05T04:34:27Z",
-  "disabled": 111,
+  "active": 284,
+  "checked_at_utc": "2026-10-12T04:35:46Z",
+  "disabled": 110,
   "items": {
     "1 Million Eau de Toilette|Rabanne": {
       "active": false,
@@ -76,7 +76,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/127450/allure-homme-edition-blanche-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/127450/allure-homme-edition-blanche-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Allure Homme Sport All Over Spray|Chanel": {
       "active": false,
@@ -90,21 +90,21 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/123320/allure-homme-sport-cologne-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/123320/allure-homme-sport-cologne-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Allure Homme Sport Eau Extreme|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/123560/allure-homme-sport-eau-extreme-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/123560/allure-homme-sport-eau-extreme-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Allure Homme Sport Superleggera|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/123410/allure-homme-sport-superleggera-eau-de-parfum/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/123410/allure-homme-sport-superleggera-eau-de-parfum/",
-      "url_status": 403
+      "url_status": 503
     },
     "Allure Homme Sport|Chanel": {
       "active": false,
@@ -112,28 +112,28 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.chanel.com/fr/parfums/p/123630/allure-homme-sport-eau-de-toilette-vaporisateur/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 403
+      "url_status": 503
     },
     "Allure Homme|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/121450/allure-homme-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/121450/allure-homme-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Allure Sensuelle|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/129730/allure-sensuelle-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/129730/allure-sensuelle-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Allure|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/112430/allure-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/112430/allure-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Althaïr|Parfums de Marly": {
       "active": true,
@@ -147,7 +147,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/amazone-eau-de-toilette-V108306V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/amazone-eau-de-toilette-V108306V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Ambre Elixir Precieux|Dior": {
       "active": true,
@@ -161,7 +161,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/ambre-narguile-eau-de-toilette-V113483V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Ambre Nuit Esprit De|Dior": {
       "active": true,
@@ -212,7 +212,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/118460/antaeus-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/118460/antaeus-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Aqua Allegoria Mandarine Basilic|Guerlain": {
       "active": true,
@@ -283,21 +283,21 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/120104/beige-extrait-floral-intense-mielle/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120104/beige-extrait-floral-intense-mielle/",
-      "url_status": 403
+      "url_status": 503
     },
     "Beige Extrait Lecrin Floral Intense Mielle|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120066/beige-extrait-lecrin-floral-intense-mielle/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120066/beige-extrait-lecrin-floral-intense-mielle/",
-      "url_status": 403
+      "url_status": 503
     },
     "Beige|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/122310/beige-eau-de-parfum-floral-intense-mielle/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122310/beige-eau-de-parfum-floral-intense-mielle/",
-      "url_status": 403
+      "url_status": 503
     },
     "Bel Ami Vetiver|Hermès": {
       "active": true,
@@ -311,7 +311,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/122080/bel-respiro-eau-de-parfum-aromatique-vert-floral/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122080/bel-respiro-eau-de-parfum-aromatique-vert-floral/",
-      "url_status": 403
+      "url_status": 503
     },
     "Black Opium|Yves Saint Laurent": {
       "active": true,
@@ -339,7 +339,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/107230/bleu-de-chanel-lexclusif/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/107230/bleu-de-chanel-lexclusif/",
-      "url_status": 403
+      "url_status": 503
     },
     "Bleu De Chanel Soin Hydratant 3 En 1|Chanel": {
       "active": false,
@@ -353,7 +353,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/107460/bleu-de-chanel-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/107460/bleu-de-chanel-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Bleu Noir Eau de Parfum|Narciso Rodriguez": {
       "active": false,
@@ -368,7 +368,7 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.chanel.com/fr/parfums/p/107360/bleu-de-chanel-eau-de-parfum-vaporisateur/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 403
+      "url_status": 503
     },
     "Bleu de Chanel Parfum|Chanel": {
       "active": false,
@@ -376,7 +376,7 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.chanel.com/fr/parfums/p/107180/bleu-de-chanel-parfum-vaporisateur/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 403
+      "url_status": 503
     },
     "Blue Seduction|Antonio Banderas": {
       "active": false,
@@ -411,21 +411,21 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/120106/bois-des-iles-extrait-boise-ambre-epice/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120106/bois-des-iles-extrait-boise-ambre-epice/",
-      "url_status": 403
+      "url_status": 503
     },
     "Bois Des Iles Extrait Lecrin Boise Ambre Epice|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120068/bois-des-iles-extrait-lecrin-boise-ambre-epice/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120068/bois-des-iles-extrait-lecrin-boise-ambre-epice/",
-      "url_status": 403
+      "url_status": 503
     },
     "Bois Des Iles|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/122030/bois-des-iles-eau-de-parfum-boise-ambre-epice/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122030/bois-des-iles-eau-de-parfum-boise-ambre-epice/",
-      "url_status": 403
+      "url_status": 503
     },
     "Bois Impérial|Essential Parfums": {
       "active": true,
@@ -497,7 +497,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/122350/boy-chanel-eau-de-parfum-aromatique-floral-boise/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122350/boy-chanel-eau-de-parfum-aromatique-floral-boise/",
-      "url_status": 403
+      "url_status": 503
     },
     "Bright Crystal|Versace": {
       "active": false,
@@ -561,14 +561,14 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/136460/chance-eau-fraiche-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/136460/chance-eau-fraiche-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Chance Eau Splendide|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/136210/chance-eau-splendide-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/136210/chance-eau-splendide-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Chance Eau Tendre Eau de Toilette|Chanel": {
       "active": false,
@@ -576,21 +576,21 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.chanel.com/fr/parfums/p/126310/chance-eau-tendre-eau-de-toilette-vaporisateur/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 403
+      "url_status": 503
     },
     "Chance Eau Tendre|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/126290/chance-eau-tendre-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/126290/chance-eau-tendre-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Chance Eau Vive|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/126570/chance-eau-vive-eau-de-toilette/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/126570/chance-eau-vive-eau-de-toilette/",
-      "url_status": 403
+      "url_status": 503
     },
     "Chance Eau de Parfum|Chanel": {
       "active": false,
@@ -598,14 +598,14 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.chanel.com/fr/parfums/p/126520/chance-eau-de-parfum-vaporisateur/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 403
+      "url_status": 503
     },
     "Chance|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/126460/chance-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/126460/chance-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Chrome|Azzaro": {
       "active": false,
@@ -635,7 +635,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/116190/coco-mademoiselle-crush-absolu-ambre-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/116190/coco-mademoiselle-crush-absolu-ambre-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "Coco Mademoiselle Eau de Parfum|Chanel": {
       "active": false,
@@ -643,7 +643,7 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.chanel.com/fr/parfums/p/116520/coco-mademoiselle-eau-de-parfum-vaporisateur/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 403
+      "url_status": 503
     },
     "Coco Mademoiselle Fragrance Primer|Chanel": {
       "active": false,
@@ -657,35 +657,35 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/116250/coco-mademoiselle-leau-privee-eau-pour-la-nuit/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/116250/coco-mademoiselle-leau-privee-eau-pour-la-nuit/",
-      "url_status": 403
+      "url_status": 503
     },
     "Coco Mademoiselle|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/116650/coco-mademoiselle-eau-de-parfum-intense-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/116650/coco-mademoiselle-eau-de-parfum-intense-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Coco Noir|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/113620/coco-noir-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/113620/coco-noir-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Coco|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/113420/coco-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/113420/coco-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Comete|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/122490/comete-eau-de-parfum-floral-poudre-musque/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122490/comete-eau-de-parfum-floral-poudre-musque/",
-      "url_status": 403
+      "url_status": 503
     },
     "Comme une Évidence|Yves Rocher": {
       "active": false,
@@ -708,35 +708,35 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/120108/coromandel-extrait-ambre-boise-vanille/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120108/coromandel-extrait-ambre-boise-vanille/",
-      "url_status": 403
+      "url_status": 503
     },
     "Coromandel Extrait Lecrin Ambre Boise Vanille|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120070/coromandel-extrait-lecrin-ambre-boise-vanille/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120070/coromandel-extrait-lecrin-ambre-boise-vanille/",
-      "url_status": 403
+      "url_status": 503
     },
     "Coromandel|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/122290/coromandel-eau-de-parfum-ambre-boise-vanille/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122290/coromandel-eau-de-parfum-ambre-boise-vanille/",
-      "url_status": 403
+      "url_status": 503
     },
     "Cristalle Eau Verte|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/111690/cristalle-eau-verte-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/111690/cristalle-eau-verte-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Cristalle|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/115690/cristalle-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/115690/cristalle-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Crystal Noir|Versace": {
       "active": false,
@@ -758,21 +758,21 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/120110/cuir-de-russie-extrait-ambre-cuire-floral/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120110/cuir-de-russie-extrait-ambre-cuire-floral/",
-      "url_status": 403
+      "url_status": 503
     },
     "Cuir De Russie Extrait Lecrin Ambre Cuire Floral|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120072/cuir-de-russie-extrait-lecrin-ambre-cuire-floral/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120072/cuir-de-russie-extrait-lecrin-ambre-cuire-floral/",
-      "url_status": 403
+      "url_status": 503
     },
     "Cuir De Russie|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/122040/cuir-de-russie-eau-de-parfum-ambre-cuire-floral/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122040/cuir-de-russie-eau-de-parfum-ambre-cuire-floral/",
-      "url_status": 403
+      "url_status": 503
     },
     "Cuir de Nuit|Yves Rocher": {
       "active": false,
@@ -844,7 +844,7 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.dolcegabbana.com/fr-fr/beauty/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 200
+      "url_status": 403
     },
     "Donna Born in Roma Intense|Valentino": {
       "active": false,
@@ -888,14 +888,14 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/101270/eau-de-cologne-zeste-frais-floral/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/101270/eau-de-cologne-zeste-frais-floral/",
-      "url_status": 403
+      "url_status": 503
     },
     "Eau De Rhubarbe Ecarlate Eau De Cologne|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/eau-de-rhubarbe-ecarlate-eau-de-cologne-V107155V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/eau-de-rhubarbe-ecarlate-eau-de-cologne-V107155V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Eau Des Merveilles Bleue|Hermès": {
       "active": true,
@@ -909,7 +909,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/122160/1957-eau-de-parfum-ambre-musque-floral/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122160/1957-eau-de-parfum-ambre-musque-floral/",
-      "url_status": 403
+      "url_status": 503
     },
     "Eau Sauvage Cologne|Dior": {
       "active": true,
@@ -944,7 +944,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/114460/egoiste-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/114460/egoiste-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Elixir Des Merveilles|Hermès": {
       "active": true,
@@ -1017,28 +1017,28 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/120102/1957-extrait-ambre-musque-floral/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120102/1957-extrait-ambre-musque-floral/",
-      "url_status": 403
+      "url_status": 503
     },
     "Extrait Floral Fruite Boise|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120100/1932-extrait-floral-fruite-boise/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120100/1932-extrait-floral-fruite-boise/",
-      "url_status": 403
+      "url_status": 503
     },
     "Extrait Lecrin Ambre Musque Floral|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120064/1957-extrait-lecrin-ambre-musque-floral/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120064/1957-extrait-lecrin-ambre-musque-floral/",
-      "url_status": 403
+      "url_status": 503
     },
     "Extrait Lecrin Floral Fruite Boise|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120062/1932-extrait-lecrin-floral-fruite-boise/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120062/1932-extrait-lecrin-floral-fruite-boise/",
-      "url_status": 403
+      "url_status": 503
     },
     "Fahrenheit Eau de Toilette|Dior": {
       "active": true,
@@ -1138,14 +1138,14 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.chanel.com/fr/parfums/p/120425/gabrielle-chanel-eau-de-parfum-vaporisateur/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 403
+      "url_status": 503
     },
     "Gabrielle Chanel Essence|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120620/gabrielle-chanel-essence-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120620/gabrielle-chanel-essence-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Gabrielle Chanel Fragrance Primer|Chanel": {
       "active": false,
@@ -1159,35 +1159,35 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/120350/gabrielle-chanel-leau/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120350/gabrielle-chanel-leau/",
-      "url_status": 403
+      "url_status": 503
     },
     "Gabrielle Chanel|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120440/gabrielle-chanel-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120440/gabrielle-chanel-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Gardenia Extrait Floral Bouquet Intense|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120112/gardenia-extrait-floral-bouquet-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120112/gardenia-extrait-floral-bouquet-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "Gardenia Extrait Lecrin Floral Bouquet Intense|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120074/gardenia-extrait-lecrin-floral-bouquet-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120074/gardenia-extrait-lecrin-floral-bouquet-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "Gardenia|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/122210/gardenia-eau-de-parfum-floral-bouquet-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122210/gardenia-eau-de-parfum-floral-bouquet-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "Gardenia|Zara": {
       "active": false,
@@ -1327,7 +1327,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/hiris-eau-de-toilette-V107436V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/hiris-eau-de-toilette-V107436V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Hoggar|Yves Rocher": {
       "active": false,
@@ -1429,21 +1429,21 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/120114/jersey-extrait-aromatique-musque-vanille/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120114/jersey-extrait-aromatique-musque-vanille/",
-      "url_status": 403
+      "url_status": 503
     },
     "Jersey Extrait Lecrin Aromatique Musque Vanille|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120076/jersey-extrait-lecrin-aromatique-musque-vanille/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120076/jersey-extrait-lecrin-aromatique-musque-vanille/",
-      "url_status": 403
+      "url_status": 503
     },
     "Jersey|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/122320/jersey-eau-de-parfum-aromatique-musque-vanille/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122320/jersey-eau-de-parfum-aromatique-musque-vanille/",
-      "url_status": 403
+      "url_status": 503
     },
     "Jimmy Choo Eau de Parfum|Jimmy Choo": {
       "active": false,
@@ -1481,7 +1481,7 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/k-by-dolceetgabbana/k-by-dg-edp-200ml---158057971183937.html",
       "reason": "missing_or_broken_product_image",
-      "url_status": 200
+      "url_status": 403
     },
     "Kenzo Homme Eau de Parfum|Kenzo": {
       "active": true,
@@ -1593,7 +1593,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/122270/la-pausa-eau-de-parfum-floral-poudre-boise/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122270/la-pausa-eau-de-parfum-floral-poudre-boise/",
-      "url_status": 403
+      "url_status": 503
     },
     "La Petite Robe Noire|Guerlain": {
       "active": true,
@@ -1861,7 +1861,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/122180/le-lion-de-chanel-eau-de-parfum-ambre-boise-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122180/le-lion-de-chanel-eau-de-parfum-ambre-boise-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "Le Male Elixir|Jean Paul Gaultier": {
       "active": false,
@@ -1891,7 +1891,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/102108/les-eaux-de-chanel-le-voyage-collection-de-6-vaporisateurs-pour-le-voyage/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/102108/les-eaux-de-chanel-le-voyage-collection-de-6-vaporisateurs-pour-le-voyage/",
-      "url_status": 403
+      "url_status": 503
     },
     "Libre Eau de Parfum|Yves Saint Laurent": {
       "active": false,
@@ -1907,7 +1907,7 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.dolcegabbana.com/fr-fr/beauty/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 200
+      "url_status": 403
     },
     "Light Blue Pour Homme|Dolce&Gabbana": {
       "active": false,
@@ -1915,7 +1915,7 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/light-blue-pour-homme/light-blue-pour-homme-eau-de-parfum---VT034DVT0009V000.html",
       "reason": "missing_or_broken_product_image",
-      "url_status": 200
+      "url_status": 403
     },
     "Lost Cherry|Tom Ford": {
       "active": true,
@@ -1974,7 +1974,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/122340/misia-eau-de-parfum-floral-poudre-ambre/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122340/misia-eau-de-parfum-floral-poudre-ambre/",
-      "url_status": 403
+      "url_status": 503
     },
     "Miss Dior Blooming Bouquet Mini Miss|Dior": {
       "active": true,
@@ -2051,7 +2051,7 @@
     "Neroli Portofino|Tom Ford": {
       "active": true,
       "final_url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum",
-      "image_status": "ok",
+      "image_status": "repaired_from_official_page",
       "official_url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum",
       "url_status": 200
     },
@@ -2067,49 +2067,49 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/122260/n18-eau-de-parfum-boise-floral-musque/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122260/n18-eau-de-parfum-boise-floral-musque/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°19 Poudre|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/119490/n19-poudre-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/119490/n19-poudre-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°19|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/119690/n19-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/119690/n19-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°22 Extrait Floral Poudre Aldehyde|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120116/n22-extrait-floral-poudre-aldehyde/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120116/n22-extrait-floral-poudre-aldehyde/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°22 Extrait Lecrin Floral Poudre Aldehyde|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120078/n22-extrait-lecrin-floral-poudre-aldehyde/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120078/n22-extrait-lecrin-floral-poudre-aldehyde/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°22|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/122020/n22-eau-de-parfum-floral-poudre-aldehyde/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122020/n22-eau-de-parfum-floral-poudre-aldehyde/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°5 Eau Premiere|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/105340/n5-eau-premiere-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/105340/n5-eau-premiere-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°5 Eau de Parfum|Chanel": {
       "active": false,
@@ -2117,21 +2117,21 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.chanel.com/fr/parfums/p/125430/n5-eau-de-parfum-vaporisateur/",
       "reason": "missing_or_broken_product_image",
-      "url_status": 403
+      "url_status": 503
     },
     "N°5 Extrait Floral Abstrait Intense|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120120/n5-extrait-floral-abstrait-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120120/n5-extrait-floral-abstrait-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°5 Extrait Lecrin Floral Abstrait Intense|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120080/n5-extrait-lecrin-floral-abstrait-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120080/n5-extrait-lecrin-floral-abstrait-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°5 Leau On Hand Cream|Chanel": {
       "active": false,
@@ -2145,14 +2145,14 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/105510/n5-leau-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/105510/n5-leau-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "N°5|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/125530/n5-eau-de-parfum-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/125530/n5-eau-de-parfum-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Olympéa Eau de Parfum|Rabanne": {
       "active": false,
@@ -2273,42 +2273,42 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/102410/paris-biarritz-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/102410/paris-biarritz-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Paris Deauville Les Eaux De Chanel|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/102600/paris-deauville-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/102600/paris-deauville-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Paris Edimbourg Les Eaux De Chanel|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/102747/paris-edimbourg-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/102747/paris-edimbourg-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Paris Paris Les Eaux De Chanel|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/102440/paris-paris-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/102440/paris-paris-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Paris Riviera Les Eaux De Chanel|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/102430/paris-riviera-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/102430/paris-riviera-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Paris Venise Les Eaux De Chanel|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/102420/paris-venise-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/102420/paris-venise-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Pas ce Soir Extrait|BDK Parfums": {
       "active": true,
@@ -2357,7 +2357,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/124450/platinum-egoiste-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/124450/platinum-egoiste-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Poison Girl Eau de Parfum|Dior": {
       "active": true,
@@ -2371,7 +2371,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/117460/pour-monsieur-eau-de-toilette-vaporisateur/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/117460/pour-monsieur-eau-de-toilette-vaporisateur/",
-      "url_status": 403
+      "url_status": 503
     },
     "Prada L'Homme|Prada": {
       "active": false,
@@ -2452,7 +2452,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/rouge-hermes-eau-de-toilette-V108307V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/rouge-hermes-eau-de-toilette-V108307V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Rouge Smoking|BDK Parfums": {
       "active": true,
@@ -2473,7 +2473,7 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/122050/31-rue-cambon-eau-de-parfum-boise-floral-epice/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122050/31-rue-cambon-eau-de-parfum-boise-floral-epice/",
-      "url_status": 403
+      "url_status": 503
     },
     "Santal 33|Le Labo": {
       "active": true,
@@ -2573,21 +2573,21 @@
       "final_url": "https://www.chanel.com/fr/parfums/p/120124/sycomore-extrait-boise-ambre-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120124/sycomore-extrait-boise-ambre-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "Sycomore Extrait Lecrin Boise Ambre Intense|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/120082/sycomore-extrait-lecrin-boise-ambre-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/120082/sycomore-extrait-lecrin-boise-ambre-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "Sycomore|Chanel": {
       "active": true,
       "final_url": "https://www.chanel.com/fr/parfums/p/122100/sycomore-eau-de-parfum-boise-ambre-intense/",
       "image_status": "ok",
       "official_url": "https://www.chanel.com/fr/parfums/p/122100/sycomore-eau-de-parfum-boise-ambre-intense/",
-      "url_status": 403
+      "url_status": 503
     },
     "Sì Eau de Parfum|Giorgio Armani": {
       "active": false,
@@ -2616,14 +2616,14 @@
       "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-intense-vetiver-eau-de-parfum-V100057V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-intense-vetiver-eau-de-parfum-V100057V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Terre D Hermes|Hermès": {
       "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Terre d'Hermès Eau Givrée|Hermès": {
       "active": true,
@@ -2637,7 +2637,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "The One Eau de Parfum|Dolce&Gabbana": {
       "active": false,
@@ -2645,7 +2645,7 @@
       "image_status": "missing_or_broken",
       "official_url": "https://www.dolcegabbana.com/fr-fr/beaute/parfums-pour-lui/the-one-for-men/eau-de-parfum---158057971180561.html",
       "reason": "missing_or_broken_product_image",
-      "url_status": 200
+      "url_status": 403
     },
     "Thé Blanc|Solinotes": {
       "active": true,
@@ -2688,7 +2688,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-ginger-eau-de-parfum-V103949V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-ginger-eau-de-parfum-V103949V0/",
-      "url_status": 403
+      "url_status": 200
     },
     "Twilly D Hermes Eau Poivree|Hermès": {
       "active": true,
@@ -2724,15 +2724,14 @@
       "final_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-la-lagune-eau-de-toilette-V100079V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-la-lagune-eau-de-toilette-V100079V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Un Jardin sur le Nil|Hermès": {
-      "active": false,
+      "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-le-nil-eau-de-toilette-V20397/",
-      "image_status": "missing_or_broken",
+      "image_status": "repaired_from_official_page",
       "official_url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-le-nil-eau-de-toilette-V20397/",
-      "reason": "missing_or_broken_product_image",
-      "url_status": 403
+      "url_status": 200
     },
     "Uomo Born in Roma Intense|Valentino": {
       "active": false,
@@ -2804,7 +2803,7 @@
       "final_url": "https://www.hermes.com/fr/fr/product/voyage-d-hermes-eau-de-toilette-V107568V0/",
       "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/voyage-d-hermes-eau-de-toilette-V107568V0/",
-      "url_status": 200
+      "url_status": 403
     },
     "Vétiver Parfum|Guerlain": {
       "active": false,
@@ -2830,7 +2829,7 @@
     },
     "You or Someone Like You|Etat Libre d'Orange": {
       "active": true,
-      "final_url": "https://www.etatlibredorange.com/products/you-or-someone-like-you",
+      "final_url": "https://www.etatlibredorange.com/fr/products/you-or-someone-like-you",
       "image_status": "ok",
       "official_url": "https://www.etatlibredorange.com/fr/products/you-or-someone-like-you",
       "url_status": 200
@@ -2838,6 +2837,26 @@
   },
   "total": 394,
   "warnings": [
+    {
+      "key": "Bleu de Chanel Eau de Parfum|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/107360/bleu-de-chanel-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "N°5 Eau de Parfum|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/125430/n5-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Coco Mademoiselle Eau de Parfum|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/116520/coco-mademoiselle-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Allure Homme Sport|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/123630/allure-homme-sport-eau-de-toilette-vaporisateur/"
+    },
     {
       "key": "Gucci Guilty Pour Homme Eau de Toilette|Gucci",
       "type": "url_unreachable",
@@ -2852,6 +2871,426 @@
       "key": "Gucci Flora Gorgeous Gardenia|Gucci",
       "type": "url_unreachable",
       "url": "https://www.gucci.com/fr/fr/pr/beauty/fragrances/fragrances-for-women/gucci-flora-gorgeous-gardenia-100ml-eau-de-parfum-p-667343999990099"
+    },
+    {
+      "key": "Chance Eau Tendre Eau de Toilette|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/126310/chance-eau-tendre-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Chance Eau de Parfum|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/126520/chance-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Bleu de Chanel Parfum|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/107180/bleu-de-chanel-parfum-vaporisateur/"
+    },
+    {
+      "key": "Gabrielle Chanel Eau de Parfum|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120425/gabrielle-chanel-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Coco Noir|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/113620/coco-noir-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Cuir De Russie|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122040/cuir-de-russie-eau-de-parfum-ambre-cuire-floral/"
+    },
+    {
+      "key": "N°18|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122260/n18-eau-de-parfum-boise-floral-musque/"
+    },
+    {
+      "key": "La Pausa|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122270/la-pausa-eau-de-parfum-floral-poudre-boise/"
+    },
+    {
+      "key": "Gabrielle Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120440/gabrielle-chanel-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Cristalle|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/115690/cristalle-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Le Lion De Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122180/le-lion-de-chanel-eau-de-parfum-ambre-boise-intense/"
+    },
+    {
+      "key": "Coco Mademoiselle|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/116650/coco-mademoiselle-eau-de-parfum-intense-vaporisateur/"
+    },
+    {
+      "key": "Chance Eau Tendre|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/126290/chance-eau-tendre-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Cuir De Russie Extrait Ambre Cuire Floral|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120110/cuir-de-russie-extrait-ambre-cuire-floral/"
+    },
+    {
+      "key": "Chance Eau Vive|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/126570/chance-eau-vive-eau-de-toilette/"
+    },
+    {
+      "key": "Chance Eau Splendide|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/136210/chance-eau-splendide-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Allure Homme Sport Eau Extreme|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/123560/allure-homme-sport-eau-extreme-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Gabrielle Chanel Leau|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120350/gabrielle-chanel-leau/"
+    },
+    {
+      "key": "Bois Des Iles Extrait Lecrin Boise Ambre Epice|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120068/bois-des-iles-extrait-lecrin-boise-ambre-epice/"
+    },
+    {
+      "key": "Comete|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122490/comete-eau-de-parfum-floral-poudre-musque/"
+    },
+    {
+      "key": "Coco Mademoiselle Leau Privee Eau Pour La Nuit|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/116250/coco-mademoiselle-leau-privee-eau-pour-la-nuit/"
+    },
+    {
+      "key": "N°5|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/125530/n5-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Coco|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/113420/coco-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Gabrielle Chanel Essence|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120620/gabrielle-chanel-essence-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Chance Eau Fraiche|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/136460/chance-eau-fraiche-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "N°19 Poudre|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/119490/n19-poudre-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Allure|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/112430/allure-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Extrait Lecrin Ambre Musque Floral|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120064/1957-extrait-lecrin-ambre-musque-floral/"
+    },
+    {
+      "key": "Bleu De Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/107460/bleu-de-chanel-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Coco Mademoiselle Crush Absolu Ambre Intense|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/116190/coco-mademoiselle-crush-absolu-ambre-intense/"
+    },
+    {
+      "key": "Misia|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122340/misia-eau-de-parfum-floral-poudre-ambre/"
+    },
+    {
+      "key": "Eau De Cologne Zeste Frais Floral|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/101270/eau-de-cologne-zeste-frais-floral/"
+    },
+    {
+      "key": "N°19|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/119690/n19-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Egoiste|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/114460/egoiste-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Extrait Ambre Musque Floral|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120102/1957-extrait-ambre-musque-floral/"
+    },
+    {
+      "key": "Allure Sensuelle|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/129730/allure-sensuelle-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Gardenia|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122210/gardenia-eau-de-parfum-floral-bouquet-intense/"
+    },
+    {
+      "key": "N°5 Eau Premiere|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/105340/n5-eau-premiere-vaporisateur/"
+    },
+    {
+      "key": "Cristalle Eau Verte|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/111690/cristalle-eau-verte-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Allure Homme|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/121450/allure-homme-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Gardenia Extrait Lecrin Floral Bouquet Intense|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120074/gardenia-extrait-lecrin-floral-bouquet-intense/"
+    },
+    {
+      "key": "Beige|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122310/beige-eau-de-parfum-floral-intense-mielle/"
+    },
+    {
+      "key": "N°22 Extrait Lecrin Floral Poudre Aldehyde|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120078/n22-extrait-lecrin-floral-poudre-aldehyde/"
+    },
+    {
+      "key": "Coromandel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122290/coromandel-eau-de-parfum-ambre-boise-vanille/"
+    },
+    {
+      "key": "Sycomore|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122100/sycomore-eau-de-parfum-boise-ambre-intense/"
+    },
+    {
+      "key": "Coromandel Extrait Lecrin Ambre Boise Vanille|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120070/coromandel-extrait-lecrin-ambre-boise-vanille/"
+    },
+    {
+      "key": "Cuir De Russie Extrait Lecrin Ambre Cuire Floral|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120072/cuir-de-russie-extrait-lecrin-ambre-cuire-floral/"
+    },
+    {
+      "key": "N°5 Extrait Lecrin Floral Abstrait Intense|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120080/n5-extrait-lecrin-floral-abstrait-intense/"
+    },
+    {
+      "key": "Pour Monsieur|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/117460/pour-monsieur-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Allure Homme Sport Superleggera|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/123410/allure-homme-sport-superleggera-eau-de-parfum/"
+    },
+    {
+      "key": "Bel Respiro|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122080/bel-respiro-eau-de-parfum-aromatique-vert-floral/"
+    },
+    {
+      "key": "Bois Des Iles Extrait Boise Ambre Epice|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120106/bois-des-iles-extrait-boise-ambre-epice/"
+    },
+    {
+      "key": "Eau De|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122160/1957-eau-de-parfum-ambre-musque-floral/"
+    },
+    {
+      "key": "Chance|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/126460/chance-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Paris Deauville Les Eaux De Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/102600/paris-deauville-les-eaux-de-chanel-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "N°5 Leau|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/105510/n5-leau-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Paris Paris Les Eaux De Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/102440/paris-paris-les-eaux-de-chanel-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Platinum Egoiste|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/124450/platinum-egoiste-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Extrait Lecrin Floral Fruite Boise|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120062/1932-extrait-lecrin-floral-fruite-boise/"
+    },
+    {
+      "key": "Coromandel Extrait Ambre Boise Vanille|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120108/coromandel-extrait-ambre-boise-vanille/"
+    },
+    {
+      "key": "Boy Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122350/boy-chanel-eau-de-parfum-aromatique-floral-boise/"
+    },
+    {
+      "key": "N°22|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122020/n22-eau-de-parfum-floral-poudre-aldehyde/"
+    },
+    {
+      "key": "Allure Homme Sport Cologne|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/123320/allure-homme-sport-cologne-vaporisateur/"
+    },
+    {
+      "key": "Paris Riviera Les Eaux De Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/102430/paris-riviera-les-eaux-de-chanel-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Jersey|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122320/jersey-eau-de-parfum-aromatique-musque-vanille/"
+    },
+    {
+      "key": "Allure Homme Edition Blanche|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/127450/allure-homme-edition-blanche-eau-de-parfum-vaporisateur/"
+    },
+    {
+      "key": "Jersey Extrait Aromatique Musque Vanille|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120114/jersey-extrait-aromatique-musque-vanille/"
+    },
+    {
+      "key": "Bois Des Iles|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122030/bois-des-iles-eau-de-parfum-boise-ambre-epice/"
+    },
+    {
+      "key": "N°22 Extrait Floral Poudre Aldehyde|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120116/n22-extrait-floral-poudre-aldehyde/"
+    },
+    {
+      "key": "Beige Extrait Floral Intense Mielle|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120104/beige-extrait-floral-intense-mielle/"
+    },
+    {
+      "key": "Extrait Floral Fruite Boise|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120100/1932-extrait-floral-fruite-boise/"
+    },
+    {
+      "key": "Beige Extrait Lecrin Floral Intense Mielle|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120066/beige-extrait-lecrin-floral-intense-mielle/"
+    },
+    {
+      "key": "Rue Cambon|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/122050/31-rue-cambon-eau-de-parfum-boise-floral-epice/"
+    },
+    {
+      "key": "Bleu De Chanel Lexclusif|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/107230/bleu-de-chanel-lexclusif/"
+    },
+    {
+      "key": "Paris Edimbourg Les Eaux De Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/102747/paris-edimbourg-les-eaux-de-chanel-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Sycomore Extrait Boise Ambre Intense|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120124/sycomore-extrait-boise-ambre-intense/"
+    },
+    {
+      "key": "N°5 Extrait Floral Abstrait Intense|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120120/n5-extrait-floral-abstrait-intense/"
+    },
+    {
+      "key": "Paris Venise Les Eaux De Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/102420/paris-venise-les-eaux-de-chanel-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Les Eaux De Chanel Le Voyage Collection De 6|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/102108/les-eaux-de-chanel-le-voyage-collection-de-6-vaporisateurs-pour-le-voyage/"
+    },
+    {
+      "key": "Gardenia Extrait Floral Bouquet Intense|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120112/gardenia-extrait-floral-bouquet-intense/"
+    },
+    {
+      "key": "Paris Biarritz Les Eaux De Chanel|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/102410/paris-biarritz-les-eaux-de-chanel-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Sycomore Extrait Lecrin Boise Ambre Intense|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120082/sycomore-extrait-lecrin-boise-ambre-intense/"
+    },
+    {
+      "key": "Antaeus|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/118460/antaeus-eau-de-toilette-vaporisateur/"
+    },
+    {
+      "key": "Jersey Extrait Lecrin Aromatique Musque Vanille|Chanel",
+      "type": "url_http_503",
+      "url": "https://www.chanel.com/fr/parfums/p/120076/jersey-extrait-lecrin-aromatique-musque-vanille/"
     }
   ]
 }
