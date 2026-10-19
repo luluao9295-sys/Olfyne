@@ -207,6 +207,10 @@
     "official_url": "https://britneyspearsbeauty.com/",
     "reason": "non_direct_official_url"
   },
+  "Flowerbomb Eau de Parfum|Viktor&Rolf": {
+    "official_url": "https://www.viktor-rolf.com/products/flowerbomb-eau-de-parfum-50ml",
+    "reason": "official_url_404"
+  },
   "For Her Eau de Toilette|Narciso Rodriguez": {
     "official_url": "https://www.narcisorodriguezparfums.com/fr/narciso-rodriguez-for-her/for-her-edt.html",
     "reason": "missing_or_broken_product_image"
