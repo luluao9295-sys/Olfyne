@@ -1,7 +1,7 @@
 {
-  "active": 282,
-  "checked_at_utc": "2026-10-26T10:09:44Z",
-  "disabled": 112,
+  "active": 283,
+  "checked_at_utc": "2026-11-02T12:27:44Z",
+  "disabled": 111,
   "items": {
     "1 Million Eau de Toilette|Rabanne": {
       "active": false,
@@ -2606,11 +2606,10 @@
       "url_status": 200
     },
     "Terre D Hermes Eau Givree|Hermès": {
-      "active": false,
+      "active": true,
       "final_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
-      "image_status": "missing_or_broken",
+      "image_status": "ok",
       "official_url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
-      "reason": "missing_or_broken_product_image",
       "url_status": 403
     },
     "Terre D Hermes Eau Intense Vetiver|Hermès": {
